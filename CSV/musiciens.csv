@@ -1,0 +1,3001 @@
+id_musicien,nom,prenom,mail,dateNaiss,style,sexe
+1,Barbara,Collazo,Barbara@Collazo.gzp,1991-12-15,JAZZ,M
+2,Eric,Bishop,Eric@Bishop.ses,1958-3-28,ROCK N ROLL,M
+3,Lisa,Stanley,Lisa@Stanley.xzq,1989-12-23,classic,M
+4,Tara,Webber,Tara@Webber.rgg,1955-6-17,ROCK N ROLL,M
+5,Michael,Lederman,Michael@Lederman.bnb,1994-12-4,ROCK N ROLL,M
+6,Luis,Jennings,Luis@Jennings.ncu,1997-9-6,classic,M
+7,Rachel,Kinsella,Rachel@Kinsella.paf,1990-11-23,classic,F
+8,Albert,Dixon,Albert@Dixon.kml,1947-7-24,classic,M
+9,Christina,Bandy,Christina@Bandy.ido,1949-1-23,JAZZ,M
+10,Roy,Smith,Roy@Smith.cfe,1958-6-13,ROCK N ROLL,M
+11,Stanley,West,Stanley@West.ezk,1971-2-10,classic,F
+12,Donald,Moore,Donald@Moore.zue,2005-11-12,ROCK N ROLL,M
+13,Lora,Holt,Lora@Holt.isn,1957-9-25,classic,M
+14,Stanley,Graff,Stanley@Graff.dlo,1975-4-27,ORIONTAL,M
+15,Cathy,Martinez,Cathy@Martinez.dkk,1982-8-15,ROCK N ROLL,F
+16,Karen,Ruffin,Karen@Ruffin.sze,1953-11-15,ORIONTAL,M
+17,Andrew,Carpino,Andrew@Carpino.kyw,1963-6-3,JAZZ,M
+18,George,Nanney,George@Nanney.sdt,2003-12-17,ROCK N ROLL,F
+19,Barbara,Zamora,Barbara@Zamora.kfq,1964-4-14,ROCK N ROLL,F
+20,Anne,Brister,Anne@Brister.mqc,1973-7-24,ROCK N ROLL,M
+21,Kristie,Ryder,Kristie@Ryder.jze,1957-5-8,ORIONTAL,M
+22,Frances,Votta,Frances@Votta.shw,1951-9-3,ROCK N ROLL,M
+23,Michael,Hale,Michael@Hale.hsp,1959-9-6,ROCK N ROLL,M
+24,Daniel,Davis,Daniel@Davis.ihk,1998-7-28,ROCK N ROLL,M
+25,Scott,Smith,Scott@Smith.tmu,1986-6-20,ORIONTAL,M
+26,Joan,Smith,Joan@Smith.ess,1995-2-15,ROCK N ROLL,F
+27,Mary,Conroy,Mary@Conroy.zio,1946-3-19,ROCK N ROLL,M
+28,James,Wheeler,James@Wheeler.mye,2000-10-2,JAZZ,M
+29,Lucy,Plato,Lucy@Plato.wae,1945-2-6,classic,M
+30,Stella,Miyamoto,Stella@Miyamoto.jez,1952-3-3,ROCK N ROLL,M
+31,Juanita,Patridge,Juanita@Patridge.bzz,1981-10-8,ORIONTAL,F
+32,Jerome,Neagle,Jerome@Neagle.ozf,1997-10-17,ROCK N ROLL,M
+33,Brittany,Quinn,Brittany@Quinn.ejd,1945-5-19,JAZZ,F
+34,Nancy,Mark,Nancy@Mark.kgf,1942-6-22,ORIONTAL,M
+35,Lee,Ballou,Lee@Ballou.poe,1999-3-24,JAZZ,M
+36,Tina,Cooper,Tina@Cooper.zbn,1994-2-5,classic,F
+37,Mary,Maroon,Mary@Maroon.jpo,1966-10-2,ROCK N ROLL,M
+38,Kelly,Hickok,Kelly@Hickok.imf,1946-4-26,classic,F
+39,Anthony,Sherling,Anthony@Sherling.map,1956-4-17,ROCK N ROLL,F
+40,John,Seeley,John@Seeley.nxc,1975-11-2,classic,M
+41,Yolanda,Mullins,Yolanda@Mullins.kxw,1969-10-22,ROCK N ROLL,M
+42,Mary,Floyd,Mary@Floyd.avr,1996-11-21,ROCK N ROLL,M
+43,Melisa,South,Melisa@South.ael,1969-6-10,ROCK N ROLL,M
+44,William,Young,William@Young.jif,1947-8-9,ROCK N ROLL,F
+45,Gwendolyn,Mays,Gwendolyn@Mays.moy,1991-11-21,ORIONTAL,M
+46,Arlene,Lee,Arlene@Lee.xcr,1988-12-6,ORIONTAL,M
+47,Katharine,Phillips,Katharine@Phillips.xll,1964-8-4,ORIONTAL,F
+48,Mark,Miller,Mark@Miller.pfl,1945-12-1,JAZZ,M
+49,Malcolm,Raymond,Malcolm@Raymond.djj,1950-1-9,JAZZ,M
+50,Stephen,Oates,Stephen@Oates.leo,1982-7-8,JAZZ,F
+51,Marietta,Muniz,Marietta@Muniz.spq,1941-2-13,JAZZ,M
+52,Cecile,Silva,Cecile@Silva.mgh,1988-7-27,classic,M
+53,Elba,Lozier,Elba@Lozier.fgs,1953-2-1,JAZZ,M
+54,Kenneth,Lindsey,Kenneth@Lindsey.uol,1974-8-1,ORIONTAL,M
+55,Kate,King,Kate@King.wje,1973-8-20,classic,M
+56,Shawn,Knackstedt,Shawn@Knackstedt.wxc,2005-8-5,JAZZ,F
+57,Salvatore,Benzing,Salvatore@Benzing.wco,1987-5-4,classic,M
+58,Madeline,Woodard,Madeline@Woodard.bgm,1992-9-26,JAZZ,M
+59,Monica,Fay,Monica@Fay.dzo,1979-3-16,JAZZ,M
+60,Amy,Gallegos,Amy@Gallegos.njp,1978-3-11,classic,F
+61,Jimmie,Wesson,Jimmie@Wesson.yjh,1966-4-25,ORIONTAL,M
+62,Barbara,Ozzella,Barbara@Ozzella.kmx,1958-8-19,classic,M
+63,Emily,Smith,Emily@Smith.ise,1991-5-5,classic,M
+64,Christopher,Williams,Christopher@Williams.tbq,1977-8-24,ROCK N ROLL,M
+65,Steven,Steele,Steven@Steele.jzj,1992-7-18,ROCK N ROLL,F
+66,Cedric,Johnson,Cedric@Johnson.gnb,2006-9-26,ROCK N ROLL,M
+67,Jimmy,Ross,Jimmy@Ross.gsr,2007-10-27,ORIONTAL,M
+68,Chase,Harris,Chase@Harris.ufr,1952-12-15,classic,F
+69,Yee,Conn,Yee@Conn.vzh,1943-9-25,ROCK N ROLL,M
+70,Carol,Stovall,Carol@Stovall.yni,1942-8-22,ROCK N ROLL,M
+71,Richard,Smith,Richard@Smith.spy,1972-10-9,JAZZ,M
+72,Barbara,Merida,Barbara@Merida.yld,1994-5-24,classic,M
+73,Sonya,Gilliland,Sonya@Gilliland.duj,1993-4-9,classic,F
+74,Robert,Stephens,Robert@Stephens.kjn,1988-10-19,ROCK N ROLL,F
+75,Harry,Jost,Harry@Jost.kpz,1980-6-25,JAZZ,F
+76,Patsy,Larkin,Patsy@Larkin.tde,1942-11-9,classic,M
+77,Shirley,Zody,Shirley@Zody.cdg,1969-6-26,classic,M
+78,Beatrice,Bloch,Beatrice@Bloch.rtg,1949-1-28,JAZZ,F
+79,Carol,Jackson,Carol@Jackson.jww,1991-1-5,classic,M
+80,Sharon,Gomez,Sharon@Gomez.pot,1977-1-9,classic,M
+81,Scott,Walter,Scott@Walter.lxg,1955-10-2,ROCK N ROLL,M
+82,Marcos,Harper,Marcos@Harper.trb,1991-9-25,ORIONTAL,F
+83,Alvin,Marr,Alvin@Marr.hxy,1953-9-1,ROCK N ROLL,M
+84,Tami,Burdick,Tami@Burdick.hwh,1973-1-20,classic,M
+85,Ruby,Esquivel,Ruby@Esquivel.dej,1987-3-20,ORIONTAL,M
+86,William,Stargel,William@Stargel.kde,1953-8-26,classic,M
+87,Rick,Song,Rick@Song.rcl,1957-1-2,JAZZ,M
+88,Lloyd,Erickson,Lloyd@Erickson.kwx,2008-7-16,classic,F
+89,Christopher,Munoz,Christopher@Munoz.wbv,1946-10-21,ROCK N ROLL,F
+90,Gerald,Miller,Gerald@Miller.gey,1999-5-25,classic,M
+91,Jeff,Brennan,Jeff@Brennan.zqc,1967-2-17,ROCK N ROLL,M
+92,Renee,Duncan,Renee@Duncan.kje,1962-12-2,ROCK N ROLL,M
+93,Thomasine,Verstraete,Thomasine@Verstraete.bsz,1957-6-8,ROCK N ROLL,M
+94,Sara,Osborne,Sara@Osborne.yol,1985-11-1,JAZZ,M
+95,Phyllis,Richardson,Phyllis@Richardson.ibl,2000-11-19,JAZZ,M
+96,Julio,Campbell,Julio@Campbell.gni,1971-3-20,classic,M
+97,Ricky,Arnaud,Ricky@Arnaud.uug,1956-1-5,ROCK N ROLL,M
+98,Matthew,Lara,Matthew@Lara.sth,1965-3-12,JAZZ,M
+99,Kendra,Keo,Kendra@Keo.uzz,1955-4-27,ROCK N ROLL,F
+100,Jerilyn,Wilson,Jerilyn@Wilson.ftq,1968-3-12,ROCK N ROLL,M
+101,Jonathan,Walter,Jonathan@Walter.gqy,1956-3-19,JAZZ,F
+102,Brian,Paquet,Brian@Paquet.qef,1995-3-27,ORIONTAL,F
+103,Norma,Murray,Norma@Murray.puz,2003-5-6,ROCK N ROLL,F
+104,Joseph,Tarr,Joseph@Tarr.byy,1950-6-8,JAZZ,M
+105,Clyde,Painter,Clyde@Painter.ien,1980-11-11,JAZZ,F
+106,Tommy,Theriault,Tommy@Theriault.vmn,1979-4-9,classic,M
+107,Richard,Witman,Richard@Witman.dxx,1998-8-26,ROCK N ROLL,F
+108,Charles,Mclean,Charles@Mclean.pad,1961-9-2,ROCK N ROLL,M
+109,Kathy,Mcdonald,Kathy@Mcdonald.rca,1967-3-3,ROCK N ROLL,M
+110,Edward,Biggs,Edward@Biggs.gxj,1979-9-23,ORIONTAL,M
+111,Henry,Loughner,Henry@Loughner.cxs,1962-8-26,ORIONTAL,F
+112,Karen,Brown,Karen@Brown.owj,1973-1-17,classic,F
+113,Ralph,Ellingsworth,Ralph@Ellingsworth.ixb,1944-2-26,ORIONTAL,F
+114,John,Torrie,John@Torrie.fvh,1970-4-26,JAZZ,M
+115,Sandra,Rasmusson,Sandra@Rasmusson.ldu,1966-5-6,ROCK N ROLL,M
+116,Bill,Holloway,Bill@Holloway.mlb,1940-2-7,ORIONTAL,M
+117,Helen,Rebello,Helen@Rebello.ous,1958-5-21,classic,F
+118,Kristin,Curtis,Kristin@Curtis.tkw,1998-6-4,classic,F
+119,Margret,Reyes,Margret@Reyes.hwr,1973-3-2,JAZZ,M
+120,Tracy,Dagle,Tracy@Dagle.btc,2009-7-20,JAZZ,M
+121,Dennis,Stuart,Dennis@Stuart.lgl,1974-8-9,JAZZ,F
+122,Travis,Paoli,Travis@Paoli.mlo,1940-5-23,ROCK N ROLL,M
+123,Kristie,Richardson,Kristie@Richardson.vfl,1942-11-20,classic,M
+124,Deborah,Chaney,Deborah@Chaney.mvd,2003-2-8,ROCK N ROLL,M
+125,Ronda,Hogan,Ronda@Hogan.mud,1971-11-15,ROCK N ROLL,M
+126,John,Moy,John@Moy.ota,1953-1-25,ROCK N ROLL,M
+127,Joseph,Baker,Joseph@Baker.wzl,1991-8-4,ORIONTAL,F
+128,Marcelle,Brewer,Marcelle@Brewer.ybk,1961-4-2,ROCK N ROLL,M
+129,Raymond,Thornton,Raymond@Thornton.tab,1996-12-28,ROCK N ROLL,M
+130,Max,Douglas,Max@Douglas.lqz,1970-6-26,JAZZ,M
+131,Michael,Sword,Michael@Sword.hpc,1955-1-9,JAZZ,M
+132,Joseph,Lopez,Joseph@Lopez.afr,1954-2-25,ROCK N ROLL,F
+133,Dale,Cortez,Dale@Cortez.rgp,2006-4-10,classic,M
+134,Jessica,Roussel,Jessica@Roussel.vzl,1964-1-9,ROCK N ROLL,M
+135,Timothy,Garcia,Timothy@Garcia.bij,1962-4-26,ORIONTAL,M
+136,David,Matson,David@Matson.wso,1948-1-13,JAZZ,M
+137,Curtis,Brown,Curtis@Brown.xue,1977-9-10,classic,M
+138,Sue,Helms,Sue@Helms.jwc,1958-7-5,ROCK N ROLL,M
+139,Abraham,Young,Abraham@Young.wfe,2009-9-8,ROCK N ROLL,M
+140,Elmer,Hayes,Elmer@Hayes.zto,2001-2-8,ORIONTAL,M
+141,Dorothy,Woodruff,Dorothy@Woodruff.syd,1953-11-12,ORIONTAL,F
+142,Luis,Cooper,Luis@Cooper.pxc,1970-10-24,ORIONTAL,M
+143,Susan,Coles,Susan@Coles.gxc,1953-5-10,classic,M
+144,Brenda,Hinger,Brenda@Hinger.fkr,1989-11-2,classic,M
+145,Pam,Indovina,Pam@Indovina.bmu,1983-3-2,ROCK N ROLL,M
+146,Crystal,Freeman,Crystal@Freeman.cyq,1976-7-27,ORIONTAL,M
+147,Jesse,Gonzalez,Jesse@Gonzalez.ize,1992-11-23,ORIONTAL,M
+148,Patricia,Butcher,Patricia@Butcher.rcx,1961-10-9,ORIONTAL,M
+149,Muriel,Medina,Muriel@Medina.fqu,1996-7-4,ROCK N ROLL,M
+150,Michael,Bolden,Michael@Bolden.sjp,1966-5-10,JAZZ,F
+151,John,Ona,John@Ona.xyh,1983-6-23,ROCK N ROLL,F
+152,Keith,Juelfs,Keith@Juelfs.bgl,1956-8-15,ORIONTAL,M
+153,Dominic,Pink,Dominic@Pink.lqo,1945-2-6,JAZZ,F
+154,Thaddeus,Woods,Thaddeus@Woods.vec,1958-2-25,JAZZ,M
+155,Jacqueline,Dunlap,Jacqueline@Dunlap.wmw,1975-2-15,JAZZ,M
+156,John,Priolean,John@Priolean.sju,1980-4-19,ROCK N ROLL,M
+157,Karen,Schnelder,Karen@Schnelder.kqy,1973-10-1,ORIONTAL,M
+158,Chuck,Scruggs,Chuck@Scruggs.wcs,1984-12-20,JAZZ,M
+159,Daryl,Amore,Daryl@Amore.eps,1973-3-20,JAZZ,M
+160,Julius,Schmitt,Julius@Schmitt.kev,1980-7-1,classic,M
+161,Elizabeth,Podolsky,Elizabeth@Podolsky.fzn,1948-4-23,classic,M
+162,John,Reyes,John@Reyes.jba,2009-10-17,JAZZ,F
+163,Toby,Mellas,Toby@Mellas.hyc,1979-2-21,ORIONTAL,M
+164,Dorothy,Porter,Dorothy@Porter.jfi,2007-12-27,ORIONTAL,F
+165,Nathaniel,Avery,Nathaniel@Avery.mzh,1970-8-17,ORIONTAL,M
+166,Marguerite,Sharp,Marguerite@Sharp.keq,1941-2-19,JAZZ,M
+167,Bernice,Stoddard,Bernice@Stoddard.zcj,1992-7-7,classic,F
+168,Stacy,Bienkowski,Stacy@Bienkowski.ujb,1958-4-23,JAZZ,M
+169,Timothy,Carroll,Timothy@Carroll.isj,2001-5-6,JAZZ,M
+170,Dennis,Troupe,Dennis@Troupe.erb,2005-1-8,JAZZ,M
+171,Jeanne,Keel,Jeanne@Keel.nbc,1953-3-20,classic,F
+172,Mark,Groth,Mark@Groth.ycn,1975-7-7,classic,M
+173,Kenneth,Feld,Kenneth@Feld.ckl,2008-12-13,JAZZ,M
+174,Gail,Aviles,Gail@Aviles.ckq,2001-4-7,ROCK N ROLL,M
+175,Margaret,Baier,Margaret@Baier.daz,1984-9-3,classic,M
+176,Roosevelt,Grissinger,Roosevelt@Grissinger.jrl,1999-8-5,ROCK N ROLL,F
+177,Bonnie,Oberle,Bonnie@Oberle.pew,1949-10-13,classic,M
+178,Margaret,Huggins,Margaret@Huggins.odi,1984-10-13,classic,M
+179,Kevin,Morgan,Kevin@Morgan.eje,2009-10-3,JAZZ,M
+180,Virgil,Carter,Virgil@Carter.ddt,1977-1-17,classic,M
+181,Dale,Weekly,Dale@Weekly.xrs,1963-8-4,classic,M
+182,Allison,Daigle,Allison@Daigle.ifg,2003-12-1,JAZZ,M
+183,Rosa,Wilson,Rosa@Wilson.usa,1960-2-23,JAZZ,F
+184,Anne,Bockelman,Anne@Bockelman.xms,1969-7-7,ROCK N ROLL,F
+185,Dustin,Criswell,Dustin@Criswell.kxw,1965-7-21,classic,F
+186,Helen,Smith,Helen@Smith.sdk,2006-9-21,JAZZ,M
+187,Robert,Haws,Robert@Haws.zqq,1989-9-26,ORIONTAL,M
+188,Ricardo,Desrosier,Ricardo@Desrosier.lzu,1981-7-6,classic,M
+189,Pamela,Brown,Pamela@Brown.php,2001-5-4,ORIONTAL,M
+190,Melinda,Stout,Melinda@Stout.clm,1970-11-21,ORIONTAL,M
+191,William,Doucet,William@Doucet.dan,1952-9-18,ORIONTAL,F
+192,Henry,Madera,Henry@Madera.nme,1978-6-1,ORIONTAL,F
+193,Terry,Kugler,Terry@Kugler.nos,1964-1-28,ROCK N ROLL,F
+194,Roberta,Reinking,Roberta@Reinking.tab,2002-9-25,ORIONTAL,M
+195,Evette,Patterson,Evette@Patterson.lqx,1999-12-14,ROCK N ROLL,M
+196,Jennette,Cook,Jennette@Cook.ylv,2003-7-25,classic,M
+197,Armando,Romero,Armando@Romero.unv,2002-4-2,ROCK N ROLL,M
+198,Maryjane,Daniels,Maryjane@Daniels.qpn,1956-1-3,ORIONTAL,M
+199,Irving,Damore,Irving@Damore.tmx,1987-1-21,classic,M
+200,Amber,Knight,Amber@Knight.vgh,1946-7-9,ROCK N ROLL,M
+201,Krystal,Quijada,Krystal@Quijada.azy,1981-3-6,JAZZ,M
+202,Florence,Williams,Florence@Williams.qje,1941-3-3,JAZZ,F
+203,Frances,Petitjean,Frances@Petitjean.bao,1977-12-21,ROCK N ROLL,M
+204,Frank,Eaton,Frank@Eaton.jsc,1947-11-5,JAZZ,F
+205,Carlos,Vincent,Carlos@Vincent.bcs,1997-9-9,ROCK N ROLL,M
+206,Terrell,Vu,Terrell@Vu.uak,1979-3-13,ROCK N ROLL,M
+207,Omer,November,Omer@November.uvv,2009-2-17,ORIONTAL,M
+208,Bertram,Martin,Bertram@Martin.sti,1941-5-12,ORIONTAL,M
+209,Michael,Delisle,Michael@Delisle.gkt,2004-2-26,JAZZ,M
+210,Karen,Clapper,Karen@Clapper.gol,1979-6-18,ORIONTAL,F
+211,Linda,Antle,Linda@Antle.ves,1952-10-13,JAZZ,M
+212,James,Walters,James@Walters.sdr,1998-11-7,ORIONTAL,F
+213,Robert,Wildey,Robert@Wildey.xpw,1965-12-12,ROCK N ROLL,M
+214,Minnie,Tyson,Minnie@Tyson.meu,1976-9-14,classic,M
+215,Carol,Longoria,Carol@Longoria.xpz,1990-7-5,ROCK N ROLL,F
+216,Jeffery,Hughes,Jeffery@Hughes.vor,1951-6-13,classic,F
+217,Roberta,Lumpkin,Roberta@Lumpkin.tji,2005-11-23,ORIONTAL,F
+218,Brenda,Grenier,Brenda@Grenier.obj,1942-8-6,ORIONTAL,M
+219,Blanche,Ortega,Blanche@Ortega.uwc,1949-3-26,JAZZ,M
+220,Terry,Tran,Terry@Tran.cep,1983-11-21,JAZZ,M
+221,William,Driscoll,William@Driscoll.yjq,1958-6-3,JAZZ,M
+222,Louis,Tilson,Louis@Tilson.gvs,1967-12-1,ROCK N ROLL,M
+223,William,Fink,William@Fink.qie,1998-10-10,ROCK N ROLL,M
+224,William,Melton,William@Melton.nfp,1952-2-23,ORIONTAL,M
+225,Lea,Miller,Lea@Miller.scl,1960-11-2,ORIONTAL,M
+226,Gina,Correa,Gina@Correa.way,1983-11-15,JAZZ,M
+227,Leonard,Mcgee,Leonard@Mcgee.but,1973-6-5,classic,M
+228,Stacey,Sirwet,Stacey@Sirwet.gci,2005-11-9,ROCK N ROLL,F
+229,Scott,Meler,Scott@Meler.tyq,1971-9-9,ORIONTAL,M
+230,Norma,Cloke,Norma@Cloke.xty,1944-6-6,ORIONTAL,M
+231,Dorothy,Burger,Dorothy@Burger.jxj,1988-4-20,JAZZ,F
+232,Louie,Goodin,Louie@Goodin.crd,1958-7-13,classic,M
+233,Marguerite,Stearns,Marguerite@Stearns.hra,1954-11-4,ORIONTAL,M
+234,Eleanor,Keen,Eleanor@Keen.vre,1945-11-5,classic,M
+235,Ronald,Fillmore,Ronald@Fillmore.lhj,1957-7-25,classic,M
+236,Santina,Jensen,Santina@Jensen.sdu,1940-9-28,ORIONTAL,F
+237,Michael,Mukai,Michael@Mukai.cvo,1956-7-21,classic,M
+238,Ryan,Lantz,Ryan@Lantz.ork,1959-12-6,ORIONTAL,F
+239,Alex,Gordon,Alex@Gordon.tiq,1966-6-20,classic,M
+240,Ted,Gibson,Ted@Gibson.daq,1987-10-8,ROCK N ROLL,M
+241,Roselyn,Varin,Roselyn@Varin.srg,2001-4-4,JAZZ,M
+242,Oscar,Somers,Oscar@Somers.uii,1979-11-20,ROCK N ROLL,M
+243,Benjamin,Carter,Benjamin@Carter.bfq,1940-9-3,classic,M
+244,Ruth,Doughtry,Ruth@Doughtry.dkh,1997-1-27,JAZZ,M
+245,Elizabeth,Kathan,Elizabeth@Kathan.adx,1978-1-6,classic,M
+246,Mark,Willard,Mark@Willard.xvl,1953-5-22,classic,M
+247,David,Gabaldon,David@Gabaldon.ctl,1989-3-16,ROCK N ROLL,M
+248,Laura,Hein,Laura@Hein.yxs,1942-8-28,JAZZ,M
+249,Brandi,Thai,Brandi@Thai.wgo,1966-9-22,classic,M
+250,Marva,West,Marva@West.nsf,1970-11-24,ROCK N ROLL,M
+251,Tamara,Forbes,Tamara@Forbes.gzv,1961-5-9,classic,F
+252,Beverly,Cheng,Beverly@Cheng.acy,1942-9-14,JAZZ,M
+253,Ella,Aguilera,Ella@Aguilera.zry,1992-8-14,ORIONTAL,F
+254,Miles,Barker,Miles@Barker.xqj,1958-1-13,classic,M
+255,George,Wiggins,George@Wiggins.mks,1980-3-23,ROCK N ROLL,F
+256,Maria,Anderson,Maria@Anderson.jey,1972-7-1,ROCK N ROLL,M
+257,Kelly,Sain,Kelly@Sain.vyn,1996-3-28,classic,M
+258,Amy,Garrett,Amy@Garrett.xim,1987-10-23,classic,M
+259,Antonio,Jones,Antonio@Jones.hek,1999-9-7,classic,M
+260,Robert,Green,Robert@Green.zlm,2008-4-23,JAZZ,M
+261,Scott,Sojka,Scott@Sojka.yve,1974-2-18,JAZZ,M
+262,Gilbert,Davis,Gilbert@Davis.paa,1961-1-14,ROCK N ROLL,M
+263,Albert,Harrison,Albert@Harrison.fln,1942-7-14,JAZZ,M
+264,Christopher,Mayer,Christopher@Mayer.fan,1960-10-25,ORIONTAL,M
+265,Christopher,Guerrero,Christopher@Guerrero.dlv,1983-6-4,classic,M
+266,Brian,Brank,Brian@Brank.mpj,1995-6-23,JAZZ,M
+267,Charlene,Scipio,Charlene@Scipio.shm,1968-9-24,ORIONTAL,M
+268,James,Hills,James@Hills.mua,1964-7-16,ORIONTAL,M
+269,Randall,Derosier,Randall@Derosier.ljm,1993-8-28,ORIONTAL,F
+270,Bridget,Hallmark,Bridget@Hallmark.lue,1946-9-21,JAZZ,M
+271,Joshua,Butler,Joshua@Butler.jtj,2004-2-4,JAZZ,M
+272,Gordon,Muth,Gordon@Muth.rem,2006-5-24,classic,F
+273,Craig,Rose,Craig@Rose.jeh,1996-11-11,JAZZ,F
+274,Barbara,Buckley,Barbara@Buckley.zex,2000-2-17,ORIONTAL,F
+275,Roberta,Clark,Roberta@Clark.oxy,2007-3-4,JAZZ,M
+276,David,Avery,David@Avery.tal,2002-9-27,ROCK N ROLL,M
+277,Staci,Taylor,Staci@Taylor.blq,1948-8-10,classic,M
+278,Stella,Haertel,Stella@Haertel.xor,1962-6-1,classic,M
+279,David,Nelson,David@Nelson.tcj,1975-3-10,classic,M
+280,David,Swanson,David@Swanson.ijd,1962-5-5,classic,M
+281,Richard,Rubio,Richard@Rubio.gbp,2008-2-27,ORIONTAL,F
+282,Marvin,Debernardi,Marvin@Debernardi.fkx,1979-4-2,ROCK N ROLL,M
+283,Carmen,Sides,Carmen@Sides.lsh,1942-4-27,JAZZ,M
+284,Ryan,Williams,Ryan@Williams.ctb,1999-6-17,JAZZ,M
+285,Beverly,Blasengame,Beverly@Blasengame.poa,1992-1-19,classic,M
+286,Cheryl,Hoemann,Cheryl@Hoemann.itl,1995-7-26,ROCK N ROLL,M
+287,Vincent,Ladue,Vincent@Ladue.zth,1988-1-15,ORIONTAL,F
+288,Estella,Brown,Estella@Brown.dxx,1945-12-23,classic,M
+289,Michael,Wackman,Michael@Wackman.iws,1997-9-28,ROCK N ROLL,M
+290,Mary,Prey,Mary@Prey.gke,1999-2-25,ORIONTAL,F
+291,James,Torres,James@Torres.fpb,1999-12-24,ROCK N ROLL,M
+292,Stephanie,Wyant,Stephanie@Wyant.rel,1994-10-20,classic,F
+293,John,Houghtelling,John@Houghtelling.hgd,1985-11-13,classic,M
+294,Brittany,Chapin,Brittany@Chapin.olz,1961-6-4,classic,F
+295,Verna,Naylor,Verna@Naylor.uyp,1967-2-27,ROCK N ROLL,F
+296,Albert,Stimmel,Albert@Stimmel.xbn,1975-12-13,JAZZ,F
+297,Diane,Phillips,Diane@Phillips.kab,1964-7-26,JAZZ,M
+298,Robert,Cecil,Robert@Cecil.umd,1944-3-10,ORIONTAL,M
+299,Cindy,Mouton,Cindy@Mouton.hws,1954-8-20,JAZZ,M
+300,Deshawn,Dowdell,Deshawn@Dowdell.sfv,1983-12-27,JAZZ,F
+301,Theresa,Lingelbach,Theresa@Lingelbach.dub,1974-3-11,classic,M
+302,Myles,Runyan,Myles@Runyan.bth,1975-4-6,classic,F
+303,Mildred,Lockhart,Mildred@Lockhart.nlg,1978-11-7,ORIONTAL,M
+304,Jessica,Bacon,Jessica@Bacon.pqd,1992-6-19,JAZZ,F
+305,Mary,Lewis,Mary@Lewis.ydl,1998-2-14,ROCK N ROLL,F
+306,Kevin,Grissett,Kevin@Grissett.ztr,1977-10-27,ORIONTAL,F
+307,Alma,Sarmiento,Alma@Sarmiento.afi,1992-3-2,JAZZ,F
+308,Norma,Smith,Norma@Smith.ifs,1944-2-23,ORIONTAL,F
+309,Charles,Jones,Charles@Jones.sjx,1989-10-16,ROCK N ROLL,M
+310,Shawn,Scolaro,Shawn@Scolaro.ety,2002-11-12,classic,M
+311,Wilfredo,Lozon,Wilfredo@Lozon.flr,1958-7-14,JAZZ,M
+312,Walter,Schultz,Walter@Schultz.bdz,1980-10-2,ORIONTAL,M
+313,Harold,Barnes,Harold@Barnes.jsc,1961-10-25,ROCK N ROLL,F
+314,Monica,Mason,Monica@Mason.slb,2002-10-7,ORIONTAL,F
+315,Stacy,Rhodes,Stacy@Rhodes.edt,1959-11-20,JAZZ,M
+316,Ann,Redmond,Ann@Redmond.hrw,1958-7-23,classic,M
+317,Shawn,Johnson,Shawn@Johnson.vbj,1990-4-4,ROCK N ROLL,M
+318,Julie,Genet,Julie@Genet.dqk,1943-5-19,ROCK N ROLL,M
+319,Mary,Re,Mary@Re.nps,1996-9-21,ORIONTAL,M
+320,Chelsea,Clark,Chelsea@Clark.vtg,1995-3-9,JAZZ,M
+321,Robert,Czelusniak,Robert@Czelusniak.tlo,1940-5-1,JAZZ,M
+322,Kevin,Garrett,Kevin@Garrett.ypb,2000-7-6,JAZZ,M
+323,Ashley,Zajc,Ashley@Zajc.vih,1999-11-10,ORIONTAL,M
+324,Manuel,Stough,Manuel@Stough.esn,1998-7-17,JAZZ,F
+325,Patricia,Serrano,Patricia@Serrano.eho,1955-2-1,ROCK N ROLL,F
+326,Melanie,Cary,Melanie@Cary.ato,1966-12-18,JAZZ,M
+327,Donald,Scallon,Donald@Scallon.xyd,2004-5-15,ROCK N ROLL,M
+328,Herman,Jennings,Herman@Jennings.msg,1944-12-21,ROCK N ROLL,F
+329,Josephine,Hull,Josephine@Hull.moc,1953-8-19,ROCK N ROLL,F
+330,Marylin,Kamai,Marylin@Kamai.oja,1978-11-5,ROCK N ROLL,M
+331,Eric,Reed,Eric@Reed.ukn,1954-4-18,JAZZ,F
+332,Steven,Banta,Steven@Banta.odh,1944-9-19,classic,M
+333,Ruth,Romero,Ruth@Romero.bfn,1967-12-8,ROCK N ROLL,M
+334,Stephen,Slough,Stephen@Slough.ytm,1974-5-14,JAZZ,M
+335,Carmen,Avila,Carmen@Avila.qkg,1944-7-23,JAZZ,M
+336,Eileen,Love,Eileen@Love.gxu,1963-5-26,JAZZ,M
+337,Bobby,Hamilton,Bobby@Hamilton.guf,1949-7-6,ROCK N ROLL,M
+338,Johnny,Torres,Johnny@Torres.hct,2000-7-6,ROCK N ROLL,M
+339,Irene,Nelson,Irene@Nelson.pwi,1973-7-3,ORIONTAL,M
+340,Andrew,Briggs,Andrew@Briggs.gaq,1949-5-23,ROCK N ROLL,M
+341,Samuel,Pierce,Samuel@Pierce.fny,1987-5-14,ROCK N ROLL,M
+342,Alfonso,Raffa,Alfonso@Raffa.abo,1973-11-8,classic,M
+343,Kimberly,Alanis,Kimberly@Alanis.ran,1972-3-23,classic,F
+344,Diane,Green,Diane@Green.fvz,1974-11-19,classic,M
+345,Robert,Washington,Robert@Washington.dpq,1982-4-2,ORIONTAL,M
+346,Alexis,Becraft,Alexis@Becraft.osa,2008-7-12,ORIONTAL,M
+347,Vivian,Huskin,Vivian@Huskin.ptg,1959-12-3,JAZZ,M
+348,Ann,Hagins,Ann@Hagins.avd,1983-8-5,classic,M
+349,Robert,Kang,Robert@Kang.bpn,1999-3-10,JAZZ,F
+350,Edna,Dillon,Edna@Dillon.mfe,1970-2-4,ROCK N ROLL,M
+351,Martin,Washington,Martin@Washington.iuu,1941-1-4,ROCK N ROLL,M
+352,Ross,Delgado,Ross@Delgado.mfk,1952-3-12,ORIONTAL,M
+353,Brian,Dewolf,Brian@Dewolf.psw,1993-11-14,ORIONTAL,M
+354,Lila,Jennings,Lila@Jennings.vcc,1963-8-12,classic,M
+355,Sean,Briggs,Sean@Briggs.hhe,2005-7-22,ORIONTAL,M
+356,Lois,Wilson,Lois@Wilson.ngl,1949-7-10,ORIONTAL,M
+357,Joan,Shelton,Joan@Shelton.ccl,1942-2-15,JAZZ,M
+358,Evangeline,Lapp,Evangeline@Lapp.qjf,1940-10-22,classic,F
+359,Margaret,Bennett,Margaret@Bennett.ycc,1966-6-14,classic,M
+360,John,Butler,John@Butler.yes,1945-2-3,classic,F
+361,Erich,Rodriguez,Erich@Rodriguez.xqs,1951-1-20,ORIONTAL,F
+362,Tamela,Roberts,Tamela@Roberts.zuk,2009-11-7,classic,M
+363,Jong,Spiers,Jong@Spiers.yfg,1994-9-11,classic,M
+364,John,Johnson,John@Johnson.bus,2004-1-8,classic,M
+365,Harold,Quigley,Harold@Quigley.jmv,1967-4-17,ROCK N ROLL,M
+366,Dave,Millis,Dave@Millis.tun,1951-2-3,JAZZ,M
+367,Robert,Schaefer,Robert@Schaefer.dmr,1994-5-17,JAZZ,M
+368,Sarah,Denault,Sarah@Denault.enl,1979-8-23,ROCK N ROLL,M
+369,Robert,Vetrano,Robert@Vetrano.gfl,1997-9-17,ROCK N ROLL,M
+370,Helen,Northcutt,Helen@Northcutt.uuq,1972-4-28,ROCK N ROLL,M
+371,Michael,Richard,Michael@Richard.bxz,2000-1-27,ROCK N ROLL,M
+372,Pamela,Arsenault,Pamela@Arsenault.qdn,1958-9-20,JAZZ,M
+373,Joseph,Delgado,Joseph@Delgado.mtg,1977-10-15,classic,M
+374,Barbara,Nardi,Barbara@Nardi.vjp,1993-6-22,ROCK N ROLL,F
+375,Milton,Mcbride,Milton@Mcbride.psz,1946-11-10,JAZZ,M
+376,Jennifer,Baker,Jennifer@Baker.bzu,2000-5-7,ROCK N ROLL,M
+377,Robert,Price,Robert@Price.wni,1979-1-8,classic,M
+378,Brian,Corcoran,Brian@Corcoran.fvk,1998-3-15,ROCK N ROLL,F
+379,Carlene,Blanchard,Carlene@Blanchard.mpk,1956-1-21,ROCK N ROLL,M
+380,Taylor,Wright,Taylor@Wright.obl,1970-10-24,JAZZ,F
+381,Adrienne,Friesen,Adrienne@Friesen.hrb,1999-8-7,ROCK N ROLL,M
+382,Diane,Gump,Diane@Gump.cwm,1940-11-5,ORIONTAL,M
+383,Valerie,Harrison,Valerie@Harrison.djl,1944-8-14,classic,F
+384,Mark,Lanehart,Mark@Lanehart.sxx,1969-1-9,ROCK N ROLL,F
+385,Ryan,Larkin,Ryan@Larkin.ifl,1985-3-14,classic,F
+386,William,Williams,William@Williams.ymd,1965-5-24,classic,M
+387,Michael,Baxley,Michael@Baxley.vro,1999-11-3,ORIONTAL,F
+388,Brittany,Price,Brittany@Price.nds,1981-6-26,ORIONTAL,F
+389,Calvin,Feliciano,Calvin@Feliciano.nne,2003-8-2,JAZZ,M
+390,Bryan,Smith,Bryan@Smith.nnj,2004-10-8,classic,F
+391,Mary,Renfroe,Mary@Renfroe.myg,1960-4-13,ORIONTAL,F
+392,Michael,Marashio,Michael@Marashio.ffk,1986-2-24,JAZZ,F
+393,Maritza,Vanhorn,Maritza@Vanhorn.zmn,1991-7-19,classic,M
+394,Kimberly,Deyoung,Kimberly@Deyoung.dte,1940-9-11,ROCK N ROLL,M
+395,William,Rentz,William@Rentz.uqv,1966-8-1,JAZZ,M
+396,Kalyn,Blackman,Kalyn@Blackman.hxc,2001-6-20,ROCK N ROLL,F
+397,Eric,Moore,Eric@Moore.jnq,1998-8-15,classic,M
+398,Jerry,Oneil,Jerry@Oneil.yrk,1953-6-10,classic,M
+399,Bruce,Hicks,Bruce@Hicks.ows,1969-2-12,ORIONTAL,F
+400,Glen,Hollifield,Glen@Hollifield.sbe,1982-1-11,JAZZ,F
+401,Scott,Mavins,Scott@Mavins.skb,1979-5-20,classic,M
+402,David,Huber,David@Huber.xke,2004-1-18,ROCK N ROLL,M
+403,Anthony,Bridges,Anthony@Bridges.azq,1979-1-13,JAZZ,M
+404,Ruben,Villegas,Ruben@Villegas.xgc,1940-7-1,ORIONTAL,M
+405,Kenneth,Navarrete,Kenneth@Navarrete.gnz,1963-11-18,JAZZ,F
+406,David,Stone,David@Stone.fpe,1970-6-8,classic,M
+407,John,Perry,John@Perry.hun,1964-6-25,ROCK N ROLL,M
+408,Crystal,Haupt,Crystal@Haupt.bmg,2007-10-24,ORIONTAL,M
+409,Florence,Allen,Florence@Allen.uos,1945-9-6,JAZZ,M
+410,Judith,Styles,Judith@Styles.lie,1984-9-3,ROCK N ROLL,F
+411,Clara,Dampier,Clara@Dampier.lny,1970-10-24,ROCK N ROLL,M
+412,Eugene,Wright,Eugene@Wright.fmr,1972-5-22,ORIONTAL,F
+413,Betty,Blackmon,Betty@Blackmon.bzp,1999-2-3,ROCK N ROLL,M
+414,Mildred,Gonzales,Mildred@Gonzales.ali,1950-1-8,ROCK N ROLL,M
+415,Sharon,Hotchkiss,Sharon@Hotchkiss.abn,1945-1-25,ROCK N ROLL,M
+416,Stephen,Hudson,Stephen@Hudson.byf,1963-3-14,ORIONTAL,F
+417,Betty,Knowles,Betty@Knowles.bri,1945-12-5,JAZZ,F
+418,Paul,Robinson,Paul@Robinson.dsx,2006-4-3,JAZZ,M
+419,Maria,Simon,Maria@Simon.ant,1967-8-2,classic,F
+420,Casey,West,Casey@West.hsv,2005-2-2,ORIONTAL,F
+421,Teresa,Edwards,Teresa@Edwards.xgw,1991-3-16,JAZZ,F
+422,Susan,Marsh,Susan@Marsh.nrt,1983-7-19,ORIONTAL,M
+423,Ramona,Bartolome,Ramona@Bartolome.zuo,2002-3-23,classic,M
+424,Maria,Martinez,Maria@Martinez.xhw,1944-4-22,JAZZ,M
+425,Susan,Elia,Susan@Elia.klh,1997-3-13,classic,M
+426,Jason,Hernandez,Jason@Hernandez.hup,1965-10-18,classic,F
+427,Jason,Montello,Jason@Montello.dts,1946-5-24,ORIONTAL,F
+428,Charlie,Fulton,Charlie@Fulton.ykh,1940-7-24,classic,M
+429,Lauren,Bitter,Lauren@Bitter.ovf,1997-5-10,ORIONTAL,M
+430,James,Villasenor,James@Villasenor.jxd,1975-4-14,ORIONTAL,M
+431,Frieda,Riina,Frieda@Riina.xuj,1987-5-16,ROCK N ROLL,F
+432,Alvin,Dixon,Alvin@Dixon.pbx,1969-3-28,JAZZ,M
+433,Elaine,Pleasant,Elaine@Pleasant.fjn,1996-9-16,classic,M
+434,Stephen,Barela,Stephen@Barela.hxh,1997-7-19,ORIONTAL,M
+435,Jenna,Rogers,Jenna@Rogers.wkr,1950-5-22,classic,M
+436,Mario,Alessandroni,Mario@Alessandroni.kus,1985-11-4,ORIONTAL,F
+437,Joseph,Sutton,Joseph@Sutton.hin,1942-12-23,JAZZ,M
+438,Rena,Serrell,Rena@Serrell.eni,1985-12-25,ORIONTAL,M
+439,Nathan,Peterson,Nathan@Peterson.wxx,1968-6-25,ORIONTAL,M
+440,James,Cushman,James@Cushman.mpx,1958-12-4,ROCK N ROLL,M
+441,Jennifer,Watts,Jennifer@Watts.gmk,1944-6-3,classic,M
+442,Nicole,Havlik,Nicole@Havlik.gti,2004-6-16,ROCK N ROLL,M
+443,David,Carder,David@Carder.ulo,1973-3-3,ROCK N ROLL,M
+444,Francisco,Pierce,Francisco@Pierce.lqf,1977-10-2,JAZZ,F
+445,Robert,Alcantar,Robert@Alcantar.auw,1965-7-17,ROCK N ROLL,M
+446,Tony,Montanez,Tony@Montanez.ytu,1966-11-3,classic,M
+447,James,Mitchell,James@Mitchell.qua,1956-6-16,classic,F
+448,Nancy,Dumond,Nancy@Dumond.ucx,1970-4-10,classic,M
+449,Dwayne,Rivera,Dwayne@Rivera.ogw,1952-4-9,ORIONTAL,M
+450,Barbara,Kurtz,Barbara@Kurtz.hfm,1942-1-26,JAZZ,F
+451,Kathleen,Lane,Kathleen@Lane.uvm,1977-10-28,classic,F
+452,Leonor,Calkins,Leonor@Calkins.ptm,1978-1-1,ROCK N ROLL,M
+453,Dorothy,Creed,Dorothy@Creed.baz,1975-2-20,ORIONTAL,M
+454,Elizabeth,Vanduzer,Elizabeth@Vanduzer.ykx,1954-10-18,ROCK N ROLL,F
+455,Luisa,Gauthier,Luisa@Gauthier.twj,1978-7-25,classic,M
+456,Patrick,Will,Patrick@Will.rhq,1974-11-25,ROCK N ROLL,F
+457,Arthur,Mcqueen,Arthur@Mcqueen.sxl,1951-8-14,JAZZ,M
+458,Christine,Johansson,Christine@Johansson.ivv,1977-7-5,ORIONTAL,M
+459,Gary,Oquinn,Gary@Oquinn.bej,1986-12-5,ORIONTAL,M
+460,Ana,Meixner,Ana@Meixner.siu,1987-3-21,ROCK N ROLL,M
+461,Tracy,Hsu,Tracy@Hsu.yek,1998-7-23,ROCK N ROLL,M
+462,Jody,Amodeo,Jody@Amodeo.tdf,1961-12-21,JAZZ,M
+463,Meagan,Alejos,Meagan@Alejos.uhs,1998-10-26,ORIONTAL,F
+464,Wendy,Moore,Wendy@Moore.hsc,2008-4-15,ORIONTAL,M
+465,Thersa,Barr,Thersa@Barr.nwn,1970-4-9,JAZZ,F
+466,Carmen,Stubbendeck,Carmen@Stubbendeck.quq,1988-4-20,JAZZ,M
+467,Charles,Shepard,Charles@Shepard.cuu,1972-10-17,classic,F
+468,Olga,Lewis,Olga@Lewis.aak,1987-11-14,ROCK N ROLL,M
+469,Fred,Comstock,Fred@Comstock.otu,2002-6-19,JAZZ,F
+470,Steven,Thorn,Steven@Thorn.tfm,1975-1-23,JAZZ,F
+471,Nickie,Vann,Nickie@Vann.klo,2001-1-21,ORIONTAL,M
+472,Holly,Nieto,Holly@Nieto.pbt,1988-9-6,classic,M
+473,Ben,Ryan,Ben@Ryan.rhh,1963-7-4,ORIONTAL,M
+474,Doris,Webb,Doris@Webb.gfs,1971-10-7,JAZZ,M
+475,Doug,White,Doug@White.wkm,1968-9-10,classic,M
+476,Nancy,Deberry,Nancy@Deberry.kzn,1998-1-27,JAZZ,M
+477,Sharika,Webber,Sharika@Webber.whh,1953-6-4,JAZZ,M
+478,William,Mcdougall,William@Mcdougall.dsf,2008-1-18,classic,M
+479,Martha,Orozco,Martha@Orozco.rng,2001-3-3,ORIONTAL,F
+480,Oscar,Sutton,Oscar@Sutton.ygh,1957-8-28,ROCK N ROLL,M
+481,Anita,Rogers,Anita@Rogers.adn,1986-4-14,ORIONTAL,M
+482,Olive,West,Olive@West.yga,1950-2-3,JAZZ,M
+483,James,Warren,James@Warren.qaw,1998-10-22,ORIONTAL,M
+484,Jose,Liles,Jose@Liles.hqa,1982-4-1,classic,M
+485,Debra,Rea,Debra@Rea.kyv,1970-10-1,JAZZ,F
+486,Karen,Alexander,Karen@Alexander.cdb,1995-10-2,ORIONTAL,F
+487,Raymond,Bowling,Raymond@Bowling.ehq,1947-7-17,ORIONTAL,M
+488,Douglas,Winterbottom,Douglas@Winterbottom.hty,1948-5-20,ORIONTAL,M
+489,Danny,Frost,Danny@Frost.onm,1971-8-27,JAZZ,M
+490,Alice,Culligan,Alice@Culligan.ogx,1969-8-6,ORIONTAL,M
+491,Miguel,Bloomgren,Miguel@Bloomgren.uoz,1956-1-10,classic,M
+492,Blossom,Stewart,Blossom@Stewart.mad,1997-9-9,JAZZ,M
+493,Gregory,Candler,Gregory@Candler.ypl,1983-1-21,ROCK N ROLL,M
+494,Wayne,Bishop,Wayne@Bishop.ynn,1940-3-26,JAZZ,M
+495,William,Teague,William@Teague.xpx,1958-7-7,ORIONTAL,F
+496,Richard,Schreck,Richard@Schreck.kjj,1946-9-18,ORIONTAL,M
+497,Stephenie,Lozano,Stephenie@Lozano.nkh,1958-6-9,JAZZ,M
+498,Kum,Schwartz,Kum@Schwartz.rkw,1945-3-19,classic,F
+499,Bill,Larrabee,Bill@Larrabee.ads,1980-8-14,classic,M
+500,Harold,Elder,Harold@Elder.yjw,1953-12-18,classic,M
+501,Mary,Gomez,Mary@Gomez.tzk,1973-11-1,classic,M
+502,Ethel,White,Ethel@White.mgw,1969-4-20,ORIONTAL,F
+503,Helene,Sanchez,Helene@Sanchez.kgz,1969-4-19,ROCK N ROLL,M
+504,Robert,Dickerson,Robert@Dickerson.tkp,1989-6-5,JAZZ,M
+505,Edmund,Dunkle,Edmund@Dunkle.iht,1998-3-26,ORIONTAL,M
+506,Barbara,Fulton,Barbara@Fulton.msk,2008-6-14,classic,M
+507,Kenneth,Pierson,Kenneth@Pierson.mwd,1989-3-23,JAZZ,M
+508,Karen,Cooper,Karen@Cooper.hcf,2005-1-3,classic,M
+509,Donna,Brantley,Donna@Brantley.mti,1985-7-15,classic,M
+510,Michael,Warncke,Michael@Warncke.mij,1952-9-6,ROCK N ROLL,F
+511,Barbara,Magallanes,Barbara@Magallanes.qht,1970-6-23,classic,F
+512,Marlyn,Rogriguez,Marlyn@Rogriguez.xkl,2006-1-21,JAZZ,F
+513,Steven,Thayer,Steven@Thayer.tkp,1941-7-2,ORIONTAL,M
+514,Dorothy,Babers,Dorothy@Babers.szq,1988-11-11,classic,M
+515,Irene,Adams,Irene@Adams.ndw,1991-12-26,ORIONTAL,M
+516,Alan,Poe,Alan@Poe.hwe,1978-9-8,ORIONTAL,M
+517,Jeremy,Thompson,Jeremy@Thompson.yxx,2004-3-12,classic,M
+518,Allison,Hammonds,Allison@Hammonds.bmq,1971-12-22,ORIONTAL,M
+519,Steven,Leininger,Steven@Leininger.ryx,1948-5-12,ORIONTAL,M
+520,Susan,Hubbard,Susan@Hubbard.vfs,1977-1-25,ROCK N ROLL,M
+521,Tanisha,Pennell,Tanisha@Pennell.equ,2001-11-25,JAZZ,M
+522,David,Freedman,David@Freedman.ddf,1975-9-17,classic,F
+523,Roberto,Ramirez,Roberto@Ramirez.jci,1954-1-10,ORIONTAL,M
+524,Gwendolyn,Thompson,Gwendolyn@Thompson.xip,1945-4-16,ORIONTAL,M
+525,Pamela,Robledo,Pamela@Robledo.sut,1949-2-16,JAZZ,F
+526,James,Donaldson,James@Donaldson.rmc,1989-9-24,classic,M
+527,Brigida,Gallagher,Brigida@Gallagher.hai,1969-7-8,JAZZ,M
+528,Janet,Kuman,Janet@Kuman.eax,2004-4-11,JAZZ,M
+529,Wendy,Swearengin,Wendy@Swearengin.yni,1989-9-20,classic,M
+530,Mary,Querry,Mary@Querry.nkl,1998-5-26,JAZZ,M
+531,Beth,Graves,Beth@Graves.wab,1990-4-25,JAZZ,M
+532,Jason,Sanders,Jason@Sanders.szb,1976-10-23,ROCK N ROLL,F
+533,Charles,Erickson,Charles@Erickson.azm,2006-12-3,JAZZ,M
+534,Joyce,Pope,Joyce@Pope.kde,1974-7-27,ROCK N ROLL,M
+535,Harold,Hanson,Harold@Hanson.bbx,1955-2-5,ORIONTAL,M
+536,Ruben,Batson,Ruben@Batson.mam,1964-4-4,classic,M
+537,Katie,Soule,Katie@Soule.noz,1946-1-23,classic,M
+538,Katie,Williams,Katie@Williams.wzy,1968-11-4,ORIONTAL,M
+539,Gerald,Payton,Gerald@Payton.agu,1997-3-14,classic,F
+540,Jerry,Cook,Jerry@Cook.tor,1952-8-10,classic,M
+541,Danielle,Reynolds,Danielle@Reynolds.fnf,2009-5-16,ROCK N ROLL,F
+542,Crystal,Mitchell,Crystal@Mitchell.jpc,1957-8-14,classic,F
+543,Carlos,Shattuck,Carlos@Shattuck.fqk,1978-5-7,classic,M
+544,Dorothy,Barbee,Dorothy@Barbee.fbu,1941-11-28,classic,M
+545,Tammy,Moody,Tammy@Moody.sgz,1948-10-15,ROCK N ROLL,M
+546,Louis,Cooley,Louis@Cooley.rpb,1971-11-19,ORIONTAL,M
+547,Alberto,Rowe,Alberto@Rowe.mik,1968-11-16,ORIONTAL,M
+548,Charles,Mumford,Charles@Mumford.qyw,2005-3-2,ORIONTAL,F
+549,Ronald,Valasquez,Ronald@Valasquez.rfi,1982-2-3,JAZZ,M
+550,Susan,Berry,Susan@Berry.cbg,1995-7-22,classic,M
+551,Jeannette,Greene,Jeannette@Greene.qgd,1968-10-7,ROCK N ROLL,M
+552,Peter,Wilson,Peter@Wilson.ogs,1949-2-10,classic,M
+553,Renee,Johnson,Renee@Johnson.jvj,1971-7-7,classic,F
+554,Don,Hauger,Don@Hauger.sja,1969-8-19,ORIONTAL,M
+555,Barbara,Petitjean,Barbara@Petitjean.zmv,1989-8-28,classic,M
+556,Barbara,Gentry,Barbara@Gentry.yhh,1955-7-14,ORIONTAL,F
+557,Paul,Watson,Paul@Watson.jit,1969-4-2,ROCK N ROLL,F
+558,Chris,Perez,Chris@Perez.chz,1945-1-27,classic,M
+559,Guadalupe,Feltman,Guadalupe@Feltman.zxy,1980-3-16,ROCK N ROLL,M
+560,Susan,Silva,Susan@Silva.efc,2000-2-16,classic,M
+561,Robin,Hanline,Robin@Hanline.rnn,1960-2-24,classic,M
+562,Patricia,Christopherso,Patricia@Christopherso.zxt,1977-4-20,ROCK N ROLL,M
+563,Joan,Haynes,Joan@Haynes.lfg,1990-6-10,classic,M
+564,Barbie,Robinson,Barbie@Robinson.vwh,2000-9-17,ROCK N ROLL,F
+565,Jennifer,Foreman,Jennifer@Foreman.kqh,1942-10-16,ROCK N ROLL,M
+566,Mary,Wilson,Mary@Wilson.yfh,1976-7-15,ROCK N ROLL,M
+567,Jerry,Smith,Jerry@Smith.bbt,1971-7-10,ORIONTAL,F
+568,Andrew,Bell,Andrew@Bell.yhd,1956-3-2,ROCK N ROLL,M
+569,Cynthia,Porter,Cynthia@Porter.eoa,1976-4-16,classic,F
+570,Ann,Avila,Ann@Avila.ozf,1951-3-7,classic,M
+571,Alvina,Dearborn,Alvina@Dearborn.xeo,1965-3-8,JAZZ,M
+572,Christie,Adams,Christie@Adams.lwp,1998-6-18,JAZZ,M
+573,Linda,Dear,Linda@Dear.uiv,1956-8-16,ORIONTAL,M
+574,Richard,Aucoin,Richard@Aucoin.xna,1998-12-13,ROCK N ROLL,M
+575,Carole,Gibbs,Carole@Gibbs.kyb,1975-6-5,classic,M
+576,Jessica,Kennerly,Jessica@Kennerly.rkr,1982-8-26,JAZZ,F
+577,Ernestine,Seay,Ernestine@Seay.ncu,1999-4-17,ROCK N ROLL,M
+578,Kay,Delang,Kay@Delang.ezt,2002-6-24,ROCK N ROLL,F
+579,Christopher,Bentson,Christopher@Bentson.luh,2005-2-3,classic,M
+580,Rose,Butler,Rose@Butler.hnc,1997-4-9,classic,M
+581,Monica,Miller,Monica@Miller.ymz,1966-5-22,ROCK N ROLL,M
+582,John,Sanches,John@Sanches.atn,1953-6-24,ORIONTAL,M
+583,Kenneth,Florio,Kenneth@Florio.awn,1976-8-25,ORIONTAL,M
+584,Marilyn,Alls,Marilyn@Alls.nor,1949-4-9,classic,F
+585,Misty,Hershman,Misty@Hershman.qwr,1944-9-13,JAZZ,F
+586,Paul,Jones,Paul@Jones.spy,1976-4-4,ROCK N ROLL,M
+587,Isabel,Cambridge,Isabel@Cambridge.ptw,1941-2-26,JAZZ,F
+588,Christine,Smith,Christine@Smith.yib,1963-11-2,JAZZ,M
+589,Michele,Mcguffey,Michele@Mcguffey.bxp,1972-10-26,ROCK N ROLL,M
+590,Gary,Steinmetz,Gary@Steinmetz.rri,1949-6-9,JAZZ,M
+591,Miguel,Mosely,Miguel@Mosely.wyo,1947-10-23,JAZZ,F
+592,James,Greenough,James@Greenough.frx,1966-5-14,classic,M
+593,Ha,Fritzler,Ha@Fritzler.aom,1975-11-9,JAZZ,M
+594,Yolanda,Graham,Yolanda@Graham.rlw,1992-3-17,ROCK N ROLL,M
+595,Gene,Hillegas,Gene@Hillegas.znz,1947-12-26,ROCK N ROLL,M
+596,Michael,Gardner,Michael@Gardner.moy,1966-11-5,JAZZ,M
+597,Billy,Martinez,Billy@Martinez.ezi,1946-11-19,ROCK N ROLL,M
+598,James,Munn,James@Munn.yud,1983-5-10,ROCK N ROLL,M
+599,Lamar,Bell,Lamar@Bell.xtp,1982-12-8,classic,F
+600,Leah,Griffin,Leah@Griffin.amh,1945-7-19,JAZZ,F
+601,Jean,Mcintyre,Jean@Mcintyre.gxj,2009-10-22,JAZZ,F
+602,Trina,Janczewski,Trina@Janczewski.xgz,1972-11-14,JAZZ,M
+603,Johnny,Garcia,Johnny@Garcia.isq,1951-8-25,JAZZ,M
+604,Anthony,Coward,Anthony@Coward.cih,1959-12-3,classic,M
+605,Pei,Ingalls,Pei@Ingalls.toc,1985-11-16,JAZZ,M
+606,Ernesto,Manville,Ernesto@Manville.lrw,2005-2-17,JAZZ,F
+607,Kenneth,Miller,Kenneth@Miller.dvg,1976-10-15,ROCK N ROLL,M
+608,Tyrone,Bay,Tyrone@Bay.mmt,1971-11-4,classic,M
+609,Wendie,Bowl,Wendie@Bowl.rxt,1942-12-4,classic,M
+610,Andrew,Veal,Andrew@Veal.kob,1944-11-19,ORIONTAL,M
+611,Jon,Olson,Jon@Olson.kbx,1981-5-4,classic,F
+612,Erica,Huff,Erica@Huff.fxo,1986-7-9,ORIONTAL,M
+613,David,Clark,David@Clark.igf,1959-12-23,ORIONTAL,F
+614,Santana,Pedersen,Santana@Pedersen.ibc,1948-1-6,JAZZ,F
+615,Patricia,Ballard,Patricia@Ballard.mcp,1973-9-14,ROCK N ROLL,M
+616,John,Padilla,John@Padilla.hpr,1949-11-27,ORIONTAL,F
+617,Margaret,Robertson,Margaret@Robertson.qgx,1968-9-18,ORIONTAL,F
+618,Albert,Blackmon,Albert@Blackmon.nun,1993-11-26,ORIONTAL,M
+619,Prudence,Walker,Prudence@Walker.ujo,1989-6-26,JAZZ,M
+620,Omar,Bates,Omar@Bates.nnn,1952-10-14,JAZZ,F
+621,Katrina,Baker,Katrina@Baker.ebv,1980-1-24,classic,M
+622,Willie,Richards,Willie@Richards.avo,2004-5-18,ROCK N ROLL,M
+623,John,Tuai,John@Tuai.xyj,1965-3-1,ORIONTAL,F
+624,Stephen,Brookins,Stephen@Brookins.zcr,1978-1-27,ORIONTAL,F
+625,Mary,Fulton,Mary@Fulton.gsg,1978-4-12,JAZZ,M
+626,Andria,Brown,Andria@Brown.unp,1984-12-17,JAZZ,F
+627,Jade,Lawton,Jade@Lawton.lxy,1944-7-18,ROCK N ROLL,F
+628,Irene,Pearce,Irene@Pearce.ypp,1992-9-26,JAZZ,M
+629,Robert,Tabron,Robert@Tabron.mvk,1969-7-4,ORIONTAL,F
+630,Deborah,Lyons,Deborah@Lyons.csx,1970-6-20,JAZZ,M
+631,Eileen,Oneill,Eileen@Oneill.iae,1978-9-9,ROCK N ROLL,M
+632,Michael,Credle,Michael@Credle.uef,1950-8-16,classic,M
+633,Jennifer,Ramirez,Jennifer@Ramirez.wvl,1947-2-23,classic,M
+634,Nicholas,Aquilina,Nicholas@Aquilina.jtk,1961-7-17,ORIONTAL,M
+635,Frances,Rounds,Frances@Rounds.vtv,1959-5-25,ORIONTAL,M
+636,James,Young,James@Young.ugm,2000-2-16,ORIONTAL,M
+637,James,Perry,James@Perry.kds,1941-10-23,ROCK N ROLL,F
+638,Jeanette,Bommarito,Jeanette@Bommarito.dnb,1975-2-12,classic,M
+639,Antonia,Orr,Antonia@Orr.ajv,1950-7-4,ORIONTAL,M
+640,Julio,Brown,Julio@Brown.jrg,1953-3-7,ORIONTAL,M
+641,Ingrid,Ruse,Ingrid@Ruse.mgc,1969-9-10,ORIONTAL,M
+642,Marie,Morton,Marie@Morton.qjq,1977-12-14,classic,M
+643,Robert,Scheff,Robert@Scheff.fdj,1962-10-17,classic,M
+644,Christopher,Stitt,Christopher@Stitt.ezb,1969-9-4,ORIONTAL,M
+645,Sarah,Lombard,Sarah@Lombard.lzb,1961-9-13,ORIONTAL,F
+646,Lois,Barnard,Lois@Barnard.knk,1984-5-16,ORIONTAL,F
+647,Matthew,Evans,Matthew@Evans.dhs,1989-3-9,ROCK N ROLL,M
+648,Betty,Wilder,Betty@Wilder.wot,1960-1-24,ROCK N ROLL,M
+649,Bobby,Buckner,Bobby@Buckner.xyy,1957-7-5,classic,M
+650,Christopher,Lopez,Christopher@Lopez.lrr,1948-4-26,JAZZ,M
+651,Patricia,Romney,Patricia@Romney.waj,1945-3-17,JAZZ,M
+652,George,Slavin,George@Slavin.xpc,1977-5-14,ROCK N ROLL,F
+653,Joseph,Mullins,Joseph@Mullins.tes,2004-2-7,ORIONTAL,F
+654,Galen,Baker,Galen@Baker.ohv,2002-8-18,ORIONTAL,F
+655,Ruby,Carmichael,Ruby@Carmichael.lnk,2001-6-19,JAZZ,M
+656,Roger,Sullivan,Roger@Sullivan.xzn,1968-8-17,classic,M
+657,Erica,Sonoski,Erica@Sonoski.xvi,1990-2-3,ORIONTAL,F
+658,Henry,Sanders,Henry@Sanders.coy,1972-7-19,classic,M
+659,Lisa,Mellinger,Lisa@Mellinger.ocq,1965-5-26,ORIONTAL,M
+660,June,Williams,June@Williams.mai,1987-3-8,JAZZ,M
+661,Sylvia,Novak,Sylvia@Novak.nbh,1975-5-27,JAZZ,F
+662,John,Brown,John@Brown.acd,1957-7-5,ORIONTAL,M
+663,James,Hall,James@Hall.ncy,1982-7-19,ORIONTAL,F
+664,Cory,Hinds,Cory@Hinds.slr,1975-6-19,ORIONTAL,M
+665,Robert,Faw,Robert@Faw.iye,1965-1-1,JAZZ,M
+666,Michael,Comer,Michael@Comer.bsd,1971-4-1,classic,M
+667,Kristen,Anderson,Kristen@Anderson.kkg,1942-10-24,JAZZ,M
+668,James,Tarter,James@Tarter.zhz,1999-7-15,ROCK N ROLL,M
+669,Anette,Mcclain,Anette@Mcclain.msq,1946-7-11,JAZZ,M
+670,Bill,Rogers,Bill@Rogers.tpj,1943-1-27,ROCK N ROLL,M
+671,Judy,Scott,Judy@Scott.fhk,1961-4-17,classic,M
+672,Rebecca,Dixon,Rebecca@Dixon.wmn,1986-1-23,JAZZ,M
+673,Marshall,Mccoy,Marshall@Mccoy.ucw,1945-11-20,ORIONTAL,M
+674,Caitlin,Tatsch,Caitlin@Tatsch.bwo,1945-2-16,ORIONTAL,M
+675,Mark,Goss,Mark@Goss.soa,1976-7-8,JAZZ,M
+676,Elizabeth,Dunkleberger,Elizabeth@Dunkleberger.mjh,2002-8-8,JAZZ,F
+677,Marie,Eychaner,Marie@Eychaner.huq,1997-10-7,ORIONTAL,M
+678,Julia,Kriss,Julia@Kriss.mhq,1952-10-3,classic,M
+679,Brandon,Borrell,Brandon@Borrell.mkc,1950-4-23,ROCK N ROLL,M
+680,Micah,Salazar,Micah@Salazar.bmo,1980-8-1,ROCK N ROLL,F
+681,Jason,Harden,Jason@Harden.ace,2004-5-1,ROCK N ROLL,M
+682,Jonathan,Monroe,Jonathan@Monroe.nki,1995-5-9,classic,M
+683,Horace,Roca,Horace@Roca.jqy,1997-4-21,ORIONTAL,M
+684,Odell,Peacock,Odell@Peacock.xwo,1966-3-25,ORIONTAL,M
+685,Kenneth,Gilbert,Kenneth@Gilbert.xkm,1951-1-23,ROCK N ROLL,M
+686,Ryan,Edwards,Ryan@Edwards.uxg,1964-1-14,classic,M
+687,Kenneth,Blanton,Kenneth@Blanton.ieg,1956-12-17,JAZZ,M
+688,Laurie,Nicholson,Laurie@Nicholson.hrx,1989-8-4,ORIONTAL,F
+689,Lisa,Sweet,Lisa@Sweet.kux,2003-11-3,JAZZ,F
+690,Gregorio,Gottschalk,Gregorio@Gottschalk.nfu,1947-12-1,classic,M
+691,Lawrence,Killinger,Lawrence@Killinger.wkm,2001-1-3,classic,F
+692,Susan,Roberts,Susan@Roberts.miz,1984-3-27,JAZZ,F
+693,Paul,Kakos,Paul@Kakos.zpc,1988-9-19,JAZZ,M
+694,Herbert,Arredondo,Herbert@Arredondo.zso,1940-8-27,ROCK N ROLL,M
+695,Lori,Tate,Lori@Tate.itk,1971-1-25,JAZZ,M
+696,Walter,Thompson,Walter@Thompson.mgc,1996-4-9,JAZZ,M
+697,Justin,Woods,Justin@Woods.emo,1953-1-2,ROCK N ROLL,M
+698,Thomas,Schulz,Thomas@Schulz.whu,1967-5-27,classic,M
+699,John,Sanders,John@Sanders.fsa,1979-11-27,JAZZ,F
+700,Jesse,Grier,Jesse@Grier.gpt,1962-10-14,ORIONTAL,M
+701,John,Dunlap,John@Dunlap.fqz,1950-1-14,JAZZ,M
+702,John,Bartberger,John@Bartberger.ouc,1988-7-5,classic,M
+703,David,Thompson,David@Thompson.bya,1969-2-19,ORIONTAL,M
+704,David,Powers,David@Powers.rav,1985-4-24,ORIONTAL,F
+705,Edith,Bradish,Edith@Bradish.ulo,1950-1-22,classic,M
+706,Helen,Vincent,Helen@Vincent.elo,1982-9-11,ORIONTAL,M
+707,Jean,Garcia,Jean@Garcia.vug,1961-11-24,ROCK N ROLL,F
+708,Frances,Lopez,Frances@Lopez.ipf,1954-12-22,JAZZ,F
+709,Derek,Mcquade,Derek@Mcquade.qqa,1997-1-3,ROCK N ROLL,M
+710,Claudia,Cortes,Claudia@Cortes.vle,1970-7-8,ORIONTAL,F
+711,Bonnie,Hyatt,Bonnie@Hyatt.inh,1972-12-5,ROCK N ROLL,F
+712,Kevin,Keene,Kevin@Keene.imv,1973-6-14,ROCK N ROLL,M
+713,Carmina,Moore,Carmina@Moore.qsl,2006-3-6,classic,F
+714,Robert,Johnson,Robert@Johnson.opi,1951-5-1,ORIONTAL,F
+715,Guadalupe,Brown,Guadalupe@Brown.bva,1990-12-13,ROCK N ROLL,M
+716,Bill,Smith,Bill@Smith.xbo,1960-2-25,classic,F
+717,Jason,Baptiste,Jason@Baptiste.mcj,2004-2-11,classic,F
+718,Patsy,Natividad,Patsy@Natividad.bpd,2008-6-15,ORIONTAL,F
+719,Bonnie,Jones,Bonnie@Jones.wwk,1947-2-21,classic,M
+720,Patsy,Jackson,Patsy@Jackson.phe,1979-12-25,JAZZ,M
+721,Keith,Meraz,Keith@Meraz.nwy,1943-3-5,ORIONTAL,M
+722,Ross,Webb,Ross@Webb.mrs,1997-4-18,classic,M
+723,David,Short,David@Short.yod,1963-6-4,JAZZ,M
+724,Gregory,Lamson,Gregory@Lamson.lvv,1948-9-19,classic,M
+725,Edward,Neuhaus,Edward@Neuhaus.gxn,1997-9-5,JAZZ,M
+726,Tisha,Torres,Tisha@Torres.eop,1999-11-21,ROCK N ROLL,M
+727,Dave,Vargas,Dave@Vargas.nxo,1983-5-1,ORIONTAL,F
+728,Nathan,Heyer,Nathan@Heyer.vwd,1981-5-17,ORIONTAL,M
+729,Edna,Vanhandel,Edna@Vanhandel.rjl,1948-1-14,ROCK N ROLL,F
+730,Michelle,Coleman,Michelle@Coleman.pqd,1961-5-11,ORIONTAL,M
+731,Ruth,Jones,Ruth@Jones.fju,1976-6-27,ROCK N ROLL,M
+732,Jill,Girard,Jill@Girard.ogf,1964-7-12,JAZZ,F
+733,David,Howard,David@Howard.pis,1943-3-16,classic,M
+734,Dalia,Mccabe,Dalia@Mccabe.ceb,1988-11-25,JAZZ,M
+735,John,Benson,John@Benson.hce,1993-4-27,ORIONTAL,F
+736,Richard,Eatmon,Richard@Eatmon.qcf,1959-3-22,classic,M
+737,Henry,Rivera,Henry@Rivera.sbj,1958-9-22,ROCK N ROLL,M
+738,Phillip,Braun,Phillip@Braun.tcb,1988-3-15,ROCK N ROLL,F
+739,Lee,Shibley,Lee@Shibley.lnk,1969-3-2,JAZZ,F
+740,Tracey,Wise,Tracey@Wise.kay,1993-1-24,classic,M
+741,Bruce,Valdez,Bruce@Valdez.cyr,1977-4-21,classic,M
+742,Samantha,Nguy,Samantha@Nguy.din,1975-1-16,classic,M
+743,Mary,Steger,Mary@Steger.eid,1979-1-26,classic,M
+744,Robert,Jarvis,Robert@Jarvis.ooq,1953-10-2,classic,M
+745,Carole,Valencia,Carole@Valencia.cqw,1971-6-10,ORIONTAL,M
+746,Paul,Young,Paul@Young.lma,1972-10-9,classic,M
+747,Amanda,Frederickson,Amanda@Frederickson.qgz,1973-8-9,ROCK N ROLL,F
+748,Patricia,Rodgers,Patricia@Rodgers.hit,1951-11-26,classic,M
+749,Juanita,Crum,Juanita@Crum.atq,1965-3-20,JAZZ,M
+750,Brian,Kelly,Brian@Kelly.uvp,1982-11-21,JAZZ,M
+751,Marquetta,Connally,Marquetta@Connally.doa,1986-8-9,ORIONTAL,F
+752,Kevin,Edwards,Kevin@Edwards.yew,1958-1-21,JAZZ,M
+753,Zulema,Nickels,Zulema@Nickels.aez,1958-5-14,ROCK N ROLL,F
+754,Dennis,Holberg,Dennis@Holberg.zfq,1968-10-4,classic,M
+755,Tanya,Webb,Tanya@Webb.sjj,1985-8-21,ORIONTAL,F
+756,Elizabeth,Peyton,Elizabeth@Peyton.ssr,1992-4-13,JAZZ,M
+757,Donald,Saiz,Donald@Saiz.rzu,1998-10-16,ROCK N ROLL,M
+758,Frances,Stanton,Frances@Stanton.iil,1947-12-15,JAZZ,M
+759,Norman,Woodard,Norman@Woodard.eke,1958-5-10,classic,M
+760,John,Litke,John@Litke.gtv,1994-2-13,ORIONTAL,M
+761,Joesph,Love,Joesph@Love.uln,1968-8-27,ROCK N ROLL,M
+762,Ray,Mcneil,Ray@Mcneil.nvh,1992-3-5,ROCK N ROLL,M
+763,Joan,Beck,Joan@Beck.qsr,1995-12-19,ORIONTAL,F
+764,Jamie,Hubbard,Jamie@Hubbard.fvz,1972-12-17,classic,M
+765,Irene,Harper,Irene@Harper.avb,1956-5-22,classic,M
+766,Darlene,Nicholson,Darlene@Nicholson.dhk,1971-2-26,ORIONTAL,M
+767,Kristen,Mobley,Kristen@Mobley.fku,1998-6-12,ROCK N ROLL,M
+768,Diane,Joyce,Diane@Joyce.mrm,1954-8-11,classic,F
+769,Christopher,Weber,Christopher@Weber.ral,1974-2-25,ROCK N ROLL,M
+770,Richard,Gosa,Richard@Gosa.rhs,1989-9-25,ROCK N ROLL,M
+771,Esmeralda,Sandmeier,Esmeralda@Sandmeier.sol,1996-6-1,ORIONTAL,F
+772,Anthony,Long,Anthony@Long.ksa,1972-9-24,JAZZ,F
+773,Gary,Lashua,Gary@Lashua.ngu,1997-4-12,classic,M
+774,Joe,Phillips,Joe@Phillips.isd,2009-6-3,JAZZ,M
+775,Liana,Smith,Liana@Smith.bby,1953-3-23,classic,F
+776,Lori,White,Lori@White.yyt,1961-4-8,classic,M
+777,Tonja,Ames,Tonja@Ames.ccc,1940-5-27,JAZZ,M
+778,George,Devlin,George@Devlin.nxl,1958-4-19,ROCK N ROLL,M
+779,Larry,Feliz,Larry@Feliz.ors,1949-1-8,ORIONTAL,M
+780,Elizabeth,Williams,Elizabeth@Williams.wqk,1958-8-15,classic,F
+781,Robin,Echols,Robin@Echols.ikv,1979-5-8,ORIONTAL,M
+782,Jo,Young,Jo@Young.wqr,1971-10-9,classic,M
+783,Ray,Tucker,Ray@Tucker.amn,1993-7-13,ORIONTAL,F
+784,Roberta,Wells,Roberta@Wells.bno,1981-7-16,ROCK N ROLL,F
+785,Dana,Redmond,Dana@Redmond.cwf,1999-1-28,ROCK N ROLL,M
+786,Ben,Llewellyn,Ben@Llewellyn.ypj,1964-10-26,JAZZ,F
+787,Jeffrey,Macias,Jeffrey@Macias.wyy,1956-5-18,ROCK N ROLL,M
+788,Donald,Baklund,Donald@Baklund.xsx,1976-5-23,JAZZ,F
+789,Devon,Smith,Devon@Smith.ecq,1944-8-22,JAZZ,M
+790,Wayne,Ross,Wayne@Ross.kty,1970-5-24,ORIONTAL,M
+791,Sharlene,Keys,Sharlene@Keys.ndw,1945-4-15,ORIONTAL,M
+792,Norman,Spradling,Norman@Spradling.xfj,1960-1-28,classic,M
+793,Charlene,Simmons,Charlene@Simmons.wed,1946-10-22,ORIONTAL,M
+794,Vincenza,Mullen,Vincenza@Mullen.srp,2009-1-23,classic,F
+795,Audrey,Bryant,Audrey@Bryant.ueg,1993-8-18,ROCK N ROLL,M
+796,Marie,Redfield,Marie@Redfield.lac,2009-6-19,JAZZ,M
+797,Heather,Mccarthy,Heather@Mccarthy.asr,1969-7-19,classic,M
+798,Janice,Philips,Janice@Philips.uaw,1993-9-23,JAZZ,F
+799,Lela,Brenner,Lela@Brenner.uun,2001-3-22,ORIONTAL,M
+800,Robert,Branch,Robert@Branch.lim,1954-12-16,ROCK N ROLL,M
+801,James,Heath,James@Heath.jhu,1980-1-4,JAZZ,F
+802,Brian,Amick,Brian@Amick.mzp,1987-11-11,ORIONTAL,M
+803,Thomas,Jackiewicz,Thomas@Jackiewicz.uvc,1951-9-1,JAZZ,M
+804,Carolyn,Lawson,Carolyn@Lawson.jpu,1957-3-6,ROCK N ROLL,M
+805,Jackie,Young,Jackie@Young.uas,1960-7-10,JAZZ,M
+806,Ella,Bell,Ella@Bell.jbq,1963-2-22,ORIONTAL,M
+807,Angie,Roode,Angie@Roode.yig,1993-8-6,JAZZ,F
+808,Thelma,White,Thelma@White.lro,1964-4-19,ORIONTAL,F
+809,Lavonia,Whaley,Lavonia@Whaley.vbt,1995-5-20,classic,F
+810,Nell,Mertz,Nell@Mertz.jnk,1980-6-6,ORIONTAL,F
+811,Roger,Riley,Roger@Riley.xqm,1948-3-27,JAZZ,F
+812,George,Roberts,George@Roberts.tcw,1945-10-8,ORIONTAL,M
+813,David,Wagner,David@Wagner.ffu,1968-7-6,JAZZ,F
+814,Tara,Gaynor,Tara@Gaynor.ziz,1946-10-18,classic,M
+815,Matthew,Oconnor,Matthew@Oconnor.jws,1998-6-19,classic,M
+816,Marva,Dickinson,Marva@Dickinson.bvo,1965-2-12,ROCK N ROLL,M
+817,Jennifer,Phillips,Jennifer@Phillips.lak,1949-8-11,ROCK N ROLL,F
+818,Jason,Roane,Jason@Roane.rej,1940-12-3,ROCK N ROLL,F
+819,Daniel,Davis,Daniel@Davis.klf,1940-8-22,ORIONTAL,F
+820,Karon,Canady,Karon@Canady.fcs,1965-9-2,ORIONTAL,M
+821,Frances,Chastain,Frances@Chastain.wgq,1981-9-20,classic,F
+822,Shari,Rust,Shari@Rust.kyl,1965-4-2,JAZZ,F
+823,Kari,Pattison,Kari@Pattison.mre,1969-2-22,classic,M
+824,Estelle,Murray,Estelle@Murray.zck,1984-6-28,ORIONTAL,F
+825,David,Manske,David@Manske.nrr,1948-8-23,ORIONTAL,M
+826,Margaret,Butts,Margaret@Butts.izw,1995-2-12,ORIONTAL,F
+827,Jose,Huertas,Jose@Huertas.jwf,1941-10-16,ROCK N ROLL,M
+828,Irene,Wilson,Irene@Wilson.hew,2007-2-17,classic,F
+829,Eliza,Thompson,Eliza@Thompson.zmx,1959-12-23,ORIONTAL,M
+830,Nicholas,Dunlap,Nicholas@Dunlap.udj,1999-3-21,ORIONTAL,M
+831,Terrell,Lavender,Terrell@Lavender.drk,1945-9-11,ORIONTAL,M
+832,Juan,Willard,Juan@Willard.jbw,1959-5-26,ORIONTAL,M
+833,Moses,Perreault,Moses@Perreault.tat,1956-12-14,ROCK N ROLL,M
+834,Dawn,Stephenson,Dawn@Stephenson.rii,1982-1-5,ROCK N ROLL,F
+835,Eddie,Cross,Eddie@Cross.ozi,2004-3-15,JAZZ,M
+836,Shannon,Biedrzycki,Shannon@Biedrzycki.qmj,1947-11-6,classic,M
+837,Margaret,Powers,Margaret@Powers.wjs,1982-9-17,JAZZ,F
+838,Trisha,Welch,Trisha@Welch.ahd,1997-9-27,ORIONTAL,F
+839,Brian,Harrison,Brian@Harrison.hrl,1970-4-23,ORIONTAL,M
+840,Dawn,Posthuma,Dawn@Posthuma.gze,1977-6-14,classic,M
+841,Walter,German,Walter@German.pif,2009-11-18,classic,M
+842,Janet,Perryman,Janet@Perryman.qov,1947-1-3,classic,M
+843,Steven,Love,Steven@Love.ull,1952-6-27,JAZZ,M
+844,Melody,Cruz,Melody@Cruz.dxo,1967-4-13,ORIONTAL,F
+845,Stan,Drew,Stan@Drew.exg,1969-12-14,ORIONTAL,M
+846,Robert,Jones,Robert@Jones.thl,1994-7-22,ORIONTAL,F
+847,Emily,Pina,Emily@Pina.jpa,1985-2-25,JAZZ,F
+848,Joseph,Mcinturff,Joseph@Mcinturff.btk,1975-8-26,JAZZ,M
+849,Cecile,Matelski,Cecile@Matelski.csj,1955-7-14,ROCK N ROLL,M
+850,David,Peterson,David@Peterson.frd,1971-5-26,ORIONTAL,F
+851,Joann,Barksdale,Joann@Barksdale.szi,1974-12-27,JAZZ,M
+852,George,Gonzalez,George@Gonzalez.tdp,1968-10-20,ORIONTAL,M
+853,Elizabeth,Cleary,Elizabeth@Cleary.yam,1974-3-14,ORIONTAL,F
+854,Mary,Smart,Mary@Smart.lfs,1987-6-6,classic,M
+855,Willie,Kesler,Willie@Kesler.jhv,2003-7-7,JAZZ,M
+856,Andrew,Gonzalez,Andrew@Gonzalez.ynw,1967-6-11,classic,M
+857,Carol,Hewitt,Carol@Hewitt.elg,1981-2-13,classic,M
+858,Gemma,Saccucci,Gemma@Saccucci.iua,2009-1-4,ROCK N ROLL,F
+859,John,Modafferi,John@Modafferi.mjb,1969-5-12,ORIONTAL,M
+860,Russell,Barnes,Russell@Barnes.qsg,1945-10-4,ORIONTAL,M
+861,Henry,Morales,Henry@Morales.vvu,1956-1-1,classic,M
+862,Estella,Allen,Estella@Allen.ylu,1975-1-7,classic,F
+863,Vera,Bush,Vera@Bush.hje,1960-5-15,classic,M
+864,Ben,Medford,Ben@Medford.eyg,1970-1-27,ORIONTAL,F
+865,Lottie,Ruiz,Lottie@Ruiz.izt,1941-12-17,ORIONTAL,M
+866,Georgene,Baker,Georgene@Baker.bnd,1946-9-10,classic,M
+867,Jerry,Anderson,Jerry@Anderson.vmk,1964-8-11,ORIONTAL,F
+868,Gustavo,Crum,Gustavo@Crum.brx,1966-1-14,ORIONTAL,F
+869,Christopher,Veltre,Christopher@Veltre.lte,1989-11-24,ROCK N ROLL,M
+870,Megan,Velez,Megan@Velez.mqn,1957-11-12,JAZZ,M
+871,Deborah,Manship,Deborah@Manship.twm,1955-8-27,JAZZ,M
+872,Terrence,Rusnak,Terrence@Rusnak.ihc,1987-7-4,ORIONTAL,M
+873,Matthew,Ralph,Matthew@Ralph.fac,1949-1-1,ORIONTAL,M
+874,Rosa,Snipes,Rosa@Snipes.gwn,1951-7-1,ROCK N ROLL,F
+875,Brigitte,Wade,Brigitte@Wade.nqr,1958-7-4,classic,M
+876,Mary,Ivie,Mary@Ivie.ygp,1982-1-1,JAZZ,M
+877,Robert,Banta,Robert@Banta.mds,1941-7-24,JAZZ,M
+878,Eric,Mcclish,Eric@Mcclish.mmz,1943-4-10,ORIONTAL,M
+879,Tommy,Melo,Tommy@Melo.pig,2000-9-13,ORIONTAL,F
+880,Abraham,Stone,Abraham@Stone.qee,1971-1-25,classic,M
+881,Gary,Navarro,Gary@Navarro.dpw,1948-4-12,JAZZ,F
+882,Ronald,Asmus,Ronald@Asmus.syo,1966-9-21,ROCK N ROLL,F
+883,Floyd,Bassett,Floyd@Bassett.yoo,1973-2-24,JAZZ,F
+884,Eldon,Mcbride,Eldon@Mcbride.sgp,2006-12-2,JAZZ,F
+885,Keith,Malach,Keith@Malach.rgq,2009-3-11,ORIONTAL,M
+886,Odessa,Martinez,Odessa@Martinez.agw,1958-1-18,classic,M
+887,Donald,Peterson,Donald@Peterson.nip,1948-2-14,ROCK N ROLL,M
+888,Alice,Gordon,Alice@Gordon.yci,1979-11-26,JAZZ,F
+889,Michael,Ikehara,Michael@Ikehara.gfs,1968-10-24,JAZZ,F
+890,Glenn,Sebastian,Glenn@Sebastian.lzv,1991-1-17,classic,F
+891,Robert,Elliot,Robert@Elliot.smw,1959-2-7,ROCK N ROLL,F
+892,Adele,Miller,Adele@Miller.nmp,1943-12-28,JAZZ,M
+893,Ronald,Davis,Ronald@Davis.sxr,2004-1-24,classic,F
+894,Marguerite,Bell,Marguerite@Bell.yfz,2007-11-25,ROCK N ROLL,M
+895,Stella,Small,Stella@Small.hkt,1959-9-26,ORIONTAL,M
+896,Diane,Hernandez,Diane@Hernandez.qxg,1999-3-10,ROCK N ROLL,M
+897,Maria,Lanier,Maria@Lanier.sdr,1945-9-18,ORIONTAL,M
+898,Jerome,Mulroy,Jerome@Mulroy.tpf,2004-4-14,classic,M
+899,Christina,Cagle,Christina@Cagle.vyw,1996-3-16,classic,M
+900,Dennis,Smith,Dennis@Smith.uwv,1964-8-14,ORIONTAL,F
+901,Emily,Snyder,Emily@Snyder.wfp,1944-4-22,JAZZ,M
+902,John,Turner,John@Turner.yrz,2001-8-4,classic,M
+903,Travis,Squires,Travis@Squires.wta,1989-1-1,classic,M
+904,Margaret,Walsh,Margaret@Walsh.wkr,1989-4-9,classic,F
+905,Kenneth,Riley,Kenneth@Riley.iqt,1943-4-13,ROCK N ROLL,M
+906,Rhonda,Marquez,Rhonda@Marquez.bnz,1988-3-23,JAZZ,F
+907,Brian,Goldberger,Brian@Goldberger.wwh,1956-4-2,ORIONTAL,M
+908,Deann,Gullixson,Deann@Gullixson.drp,1981-3-1,ORIONTAL,F
+909,Georgia,Guevara,Georgia@Guevara.xkl,1979-11-28,classic,M
+910,Linda,Pontes,Linda@Pontes.yuw,1969-7-24,ORIONTAL,M
+911,Scott,Baer,Scott@Baer.wan,1958-6-1,ORIONTAL,M
+912,Jaclyn,Pawlak,Jaclyn@Pawlak.gak,2004-2-9,classic,F
+913,Deanna,Aragon,Deanna@Aragon.dra,1981-4-19,ROCK N ROLL,F
+914,Peggy,Spiker,Peggy@Spiker.krk,1966-2-12,ORIONTAL,M
+915,Antonio,Brown,Antonio@Brown.hnc,1990-3-5,ROCK N ROLL,F
+916,Patricia,Wellman,Patricia@Wellman.efa,1987-12-22,classic,M
+917,Marion,Williams,Marion@Williams.wlo,1983-12-21,ROCK N ROLL,M
+918,Charles,Hampton,Charles@Hampton.xdp,1985-9-17,JAZZ,M
+919,Brittany,Donoho,Brittany@Donoho.kom,1994-4-23,classic,M
+920,Kimberly,Klapper,Kimberly@Klapper.gmd,1949-11-16,JAZZ,M
+921,Jesus,Lotthammer,Jesus@Lotthammer.vfu,1954-10-17,ORIONTAL,M
+922,Shelly,Meeks,Shelly@Meeks.ygr,1997-9-23,ORIONTAL,M
+923,Reginald,Beasley,Reginald@Beasley.hwc,1980-11-8,classic,M
+924,Denise,Douglas,Denise@Douglas.cto,1964-11-20,classic,M
+925,Elaine,Smith,Elaine@Smith.aig,1971-2-13,ROCK N ROLL,F
+926,Lance,Cooke,Lance@Cooke.kyz,1972-12-4,ORIONTAL,M
+927,Joseph,Holcomb,Joseph@Holcomb.agk,1961-7-20,ORIONTAL,M
+928,Daniel,Mason,Daniel@Mason.lkk,2004-10-6,classic,M
+929,Bradley,Semmes,Bradley@Semmes.gob,1962-10-20,JAZZ,F
+930,Rodrigo,Miller,Rodrigo@Miller.jgz,1993-7-7,JAZZ,F
+931,Jennifer,Escobar,Jennifer@Escobar.nos,1979-3-6,ROCK N ROLL,F
+932,Ryan,Barry,Ryan@Barry.eeh,1986-4-1,classic,F
+933,Barbara,Kochel,Barbara@Kochel.kyr,1974-5-14,ROCK N ROLL,M
+934,Susan,Juarez,Susan@Juarez.ugi,1953-2-22,ORIONTAL,M
+935,Dave,Daggett,Dave@Daggett.xig,1987-3-26,ORIONTAL,M
+936,Crystal,Belcher,Crystal@Belcher.gvx,1967-1-14,ROCK N ROLL,M
+937,Denise,Dean,Denise@Dean.uwv,1966-7-15,ROCK N ROLL,M
+938,Angela,Henderson,Angela@Henderson.fnv,2007-11-22,classic,M
+939,Gary,Christ,Gary@Christ.xci,1941-2-21,ROCK N ROLL,M
+940,Akiko,Dorado,Akiko@Dorado.ihp,1983-8-18,classic,F
+941,April,Hancock,April@Hancock.bil,2009-3-27,ORIONTAL,M
+942,Connie,Morvillo,Connie@Morvillo.ixe,1998-6-10,ROCK N ROLL,M
+943,Paula,Neuhoff,Paula@Neuhoff.pkl,1946-8-9,JAZZ,M
+944,Betty,Schecter,Betty@Schecter.bmc,1972-2-8,classic,M
+945,Scott,Isom,Scott@Isom.kbc,1988-5-3,ORIONTAL,M
+946,Shirley,Sommers,Shirley@Sommers.erj,1969-7-19,ROCK N ROLL,M
+947,Yesenia,Logan,Yesenia@Logan.bfe,1978-5-5,classic,M
+948,Diane,Meiners,Diane@Meiners.eal,2006-9-21,classic,M
+949,Rosemary,Freeman,Rosemary@Freeman.yyu,1948-2-21,ROCK N ROLL,M
+950,Amanda,Wilson,Amanda@Wilson.ysr,1940-11-8,ROCK N ROLL,F
+951,Heather,Spears,Heather@Spears.hak,1999-11-17,JAZZ,M
+952,James,Stewart,James@Stewart.nul,1986-6-22,ROCK N ROLL,M
+953,Jim,Lane,Jim@Lane.fjx,1992-2-14,ORIONTAL,M
+954,Daniel,Bish,Daniel@Bish.hmx,1972-8-26,ORIONTAL,M
+955,Robert,Kaba,Robert@Kaba.owt,1948-9-23,JAZZ,F
+956,Manuel,Merritt,Manuel@Merritt.bou,1978-9-18,JAZZ,F
+957,Alesia,Morgan,Alesia@Morgan.oqs,1949-6-4,classic,M
+958,Corey,Magnall,Corey@Magnall.jpe,1947-2-3,classic,M
+959,Rufus,Taylor,Rufus@Taylor.vmb,1991-9-11,JAZZ,M
+960,Jack,Martinez,Jack@Martinez.hre,1945-10-19,ORIONTAL,F
+961,Donna,Wilke,Donna@Wilke.rbp,1950-10-2,JAZZ,F
+962,Luz,Lantz,Luz@Lantz.oud,1949-10-7,classic,M
+963,Rita,Schmitt,Rita@Schmitt.oza,1986-9-9,classic,M
+964,Roy,Hines,Roy@Hines.oij,2003-9-13,ORIONTAL,M
+965,Zachariah,Anderson,Zachariah@Anderson.zmy,1956-3-5,JAZZ,M
+966,Barbara,Rojo,Barbara@Rojo.kjm,1972-3-28,ORIONTAL,M
+967,Christina,Chafin,Christina@Chafin.nbq,1978-3-28,JAZZ,M
+968,Tiffany,Weis,Tiffany@Weis.miu,1953-1-10,JAZZ,M
+969,Jorge,Vanover,Jorge@Vanover.vhf,1968-9-6,ROCK N ROLL,F
+970,Michael,Billington,Michael@Billington.xla,1988-11-9,JAZZ,M
+971,Elizabeth,Duhamel,Elizabeth@Duhamel.quo,1964-1-22,ORIONTAL,M
+972,Kristina,Scott,Kristina@Scott.lfr,2009-1-2,classic,F
+973,Robert,Coyt,Robert@Coyt.vla,1979-10-24,ROCK N ROLL,M
+974,Inez,Womack,Inez@Womack.pfr,1969-12-19,JAZZ,F
+975,Aida,Johnston,Aida@Johnston.zrk,2007-1-20,JAZZ,M
+976,Brent,Welch,Brent@Welch.jpy,1949-12-15,classic,M
+977,Amanda,Matos,Amanda@Matos.oer,2004-3-19,ROCK N ROLL,F
+978,Freddie,Turner,Freddie@Turner.tso,1988-5-4,ROCK N ROLL,M
+979,Antionette,Bernard,Antionette@Bernard.doh,1978-2-22,JAZZ,M
+980,David,Johnson,David@Johnson.cbp,1984-2-13,ORIONTAL,M
+981,Doug,Fitzgerald,Doug@Fitzgerald.blh,1983-11-7,ROCK N ROLL,F
+982,Lisa,Payton,Lisa@Payton.lpo,1951-8-2,JAZZ,M
+983,Thomas,Brackett,Thomas@Brackett.gtt,1971-11-17,JAZZ,M
+984,Alan,Murray,Alan@Murray.tmm,2007-8-5,ROCK N ROLL,F
+985,Laura,Arnold,Laura@Arnold.tis,1985-5-2,JAZZ,M
+986,Flora,Clark,Flora@Clark.idz,2008-2-24,JAZZ,M
+987,Tanya,Claus,Tanya@Claus.hir,1992-4-17,ORIONTAL,M
+988,Mario,Kilgore,Mario@Kilgore.syn,2003-4-18,ROCK N ROLL,F
+989,John,Glenn,John@Glenn.dpg,1998-9-8,classic,M
+990,Herman,Cordoba,Herman@Cordoba.lyc,1946-10-14,JAZZ,F
+991,Paul,Oshell,Paul@Oshell.pjg,1988-1-12,ROCK N ROLL,F
+992,Patricia,Mixson,Patricia@Mixson.mcg,1991-9-17,classic,M
+993,Eddie,Palmer,Eddie@Palmer.exw,1950-6-27,ORIONTAL,M
+994,Mattie,Laplante,Mattie@Laplante.oza,1942-11-13,JAZZ,M
+995,Chester,Traylor,Chester@Traylor.tdi,1988-9-11,JAZZ,M
+996,Emma,Barnes,Emma@Barnes.dzg,1999-1-4,ROCK N ROLL,F
+997,Amanda,Crazier,Amanda@Crazier.uqn,1989-3-25,JAZZ,F
+998,Russell,Wilson,Russell@Wilson.fwm,1955-9-25,ORIONTAL,M
+999,Andrew,Larson,Andrew@Larson.kgx,1966-10-16,JAZZ,M
+1000,Mae,Murdock,Mae@Murdock.wth,2006-3-7,ROCK N ROLL,F
+1001,Vanessa,Imperato,Vanessa@Imperato.uxe,1947-7-19,ORIONTAL,F
+1002,Katie,Vinson,Katie@Vinson.hmg,1946-5-6,classic,M
+1003,Shelley,Gates,Shelley@Gates.jmj,1970-7-13,ORIONTAL,M
+1004,Louis,Butler,Louis@Butler.tpk,2002-4-16,classic,M
+1005,Denise,Mcgowen,Denise@Mcgowen.eoe,2001-3-25,JAZZ,M
+1006,Robert,Chesley,Robert@Chesley.pzc,1973-8-3,classic,M
+1007,Stacy,Hurd,Stacy@Hurd.sao,1963-12-1,JAZZ,F
+1008,Jennifer,Corvino,Jennifer@Corvino.zwj,1954-10-17,ORIONTAL,M
+1009,Joseph,Knecht,Joseph@Knecht.bit,1990-10-23,ROCK N ROLL,M
+1010,Norman,Steffes,Norman@Steffes.vng,1987-8-26,ORIONTAL,F
+1011,Nathaniel,Smith,Nathaniel@Smith.fxo,1984-12-6,classic,M
+1012,Lauren,Blackwell,Lauren@Blackwell.wxq,1965-10-25,JAZZ,F
+1013,John,Robinson,John@Robinson.yzq,1945-2-26,classic,M
+1014,Carol,Wheatley,Carol@Wheatley.rqm,1969-1-15,JAZZ,M
+1015,David,Bellmay,David@Bellmay.xap,1986-2-2,JAZZ,M
+1016,Carl,Martin,Carl@Martin.rsr,2000-1-17,ROCK N ROLL,M
+1017,Deborah,Kelly,Deborah@Kelly.tiy,1958-2-24,classic,M
+1018,Sherri,Sanchez,Sherri@Sanchez.czm,1959-10-17,ORIONTAL,M
+1019,Barry,Gibson,Barry@Gibson.nbw,1985-1-6,ORIONTAL,M
+1020,Nina,Martinez,Nina@Martinez.zoe,1996-10-7,ROCK N ROLL,M
+1021,Lynn,James,Lynn@James.gwg,1969-6-27,ROCK N ROLL,M
+1022,Adam,Reynolds,Adam@Reynolds.xwu,1948-8-3,ORIONTAL,M
+1023,Steven,Pham,Steven@Pham.ets,1988-2-17,ROCK N ROLL,F
+1024,Sue,Martindale,Sue@Martindale.nws,1952-5-8,classic,M
+1025,Mike,Eisinger,Mike@Eisinger.def,1964-9-10,classic,M
+1026,Gary,Robertson,Gary@Robertson.amq,1949-1-20,ORIONTAL,M
+1027,Norene,Rein,Norene@Rein.dnq,1954-10-9,ORIONTAL,M
+1028,Douglas,Farrell,Douglas@Farrell.hcx,2006-2-18,classic,M
+1029,Linda,Reando,Linda@Reando.grn,1998-10-8,JAZZ,F
+1030,Carolyn,Brandenburg,Carolyn@Brandenburg.foz,2009-10-15,ORIONTAL,M
+1031,Mamie,Adami,Mamie@Adami.zee,2009-9-20,ROCK N ROLL,F
+1032,Ruth,Moses,Ruth@Moses.rwy,1972-5-20,JAZZ,M
+1033,David,Trotter,David@Trotter.yoj,1989-4-28,classic,M
+1034,Adam,Oakley,Adam@Oakley.tmw,1940-2-18,classic,F
+1035,Angela,Torres,Angela@Torres.iqz,1969-1-25,ROCK N ROLL,F
+1036,Peter,Harman,Peter@Harman.wmi,1989-12-8,ORIONTAL,M
+1037,Daniel,Kantor,Daniel@Kantor.fhu,1967-5-17,ROCK N ROLL,M
+1038,Sandra,Mason,Sandra@Mason.zat,1964-12-11,JAZZ,M
+1039,John,Holder,John@Holder.vww,1972-12-18,classic,M
+1040,Jolene,Pinkston,Jolene@Pinkston.lvo,1956-4-25,ORIONTAL,M
+1041,Thomas,Smith,Thomas@Smith.luz,1941-10-20,ROCK N ROLL,F
+1042,Caroline,Caretto,Caroline@Caretto.vdq,1944-1-2,classic,M
+1043,Rhonda,Zimmerman,Rhonda@Zimmerman.vtb,1959-7-21,JAZZ,M
+1044,Alice,Soper,Alice@Soper.vyv,1964-6-12,JAZZ,M
+1045,Catalina,Wilson,Catalina@Wilson.qlf,1980-2-28,JAZZ,F
+1046,Mellie,Leger,Mellie@Leger.nei,1968-9-13,classic,F
+1047,Lawrence,Toothaker,Lawrence@Toothaker.tnn,1981-2-13,ORIONTAL,F
+1048,Nicole,Ellison,Nicole@Ellison.rmu,1963-7-26,ROCK N ROLL,M
+1049,June,Pollock,June@Pollock.jcx,1978-8-23,ORIONTAL,F
+1050,Connie,Coon,Connie@Coon.tgk,1991-7-24,JAZZ,M
+1051,Monica,Robinson,Monica@Robinson.ipf,1985-5-18,ORIONTAL,M
+1052,Juanita,Cline,Juanita@Cline.kiq,1947-1-24,ROCK N ROLL,F
+1053,Catherine,Sitton,Catherine@Sitton.rgu,1988-11-27,ORIONTAL,M
+1054,Elsie,Wise,Elsie@Wise.xwf,2002-8-26,ORIONTAL,M
+1055,Alexandria,Sheely,Alexandria@Sheely.raq,1947-4-24,classic,M
+1056,John,Bowden,John@Bowden.nwk,1956-9-11,ROCK N ROLL,M
+1057,Jeanette,Willis,Jeanette@Willis.yyv,1964-5-19,ORIONTAL,M
+1058,Pauline,Gray,Pauline@Gray.twr,1981-10-25,classic,M
+1059,Tommye,Eastman,Tommye@Eastman.odo,1961-11-21,classic,M
+1060,Harry,Alexander,Harry@Alexander.fxk,1995-1-5,JAZZ,M
+1061,Jason,Hughes,Jason@Hughes.lth,1990-5-28,ROCK N ROLL,M
+1062,Jennifer,Champion,Jennifer@Champion.vir,1984-2-16,classic,M
+1063,Yvonne,Gondek,Yvonne@Gondek.gwn,1989-1-9,JAZZ,M
+1064,Joyce,Balderas,Joyce@Balderas.lje,1957-4-12,ROCK N ROLL,F
+1065,Charles,Brockman,Charles@Brockman.jzy,1982-6-13,classic,M
+1066,David,Martin,David@Martin.lvt,1966-10-8,classic,F
+1067,Jackie,Clark,Jackie@Clark.acx,1986-2-16,ORIONTAL,M
+1068,Victor,Jones,Victor@Jones.svo,1957-10-14,classic,M
+1069,Jon,Mcintyre,Jon@Mcintyre.eln,1970-4-27,ROCK N ROLL,F
+1070,Frank,Collister,Frank@Collister.jgd,1954-2-3,classic,F
+1071,Shirley,Alley,Shirley@Alley.mri,2002-2-23,classic,M
+1072,Kathleen,Carrell,Kathleen@Carrell.fhq,1973-11-10,classic,M
+1073,Kimberly,Zimmermann,Kimberly@Zimmermann.qjh,1977-3-11,ROCK N ROLL,M
+1074,Mercy,Perrins,Mercy@Perrins.kha,1949-10-5,JAZZ,M
+1075,Ann,Adams,Ann@Adams.bsj,1988-6-6,ROCK N ROLL,M
+1076,Robert,Grady,Robert@Grady.mmd,1963-11-4,ORIONTAL,M
+1077,Andrew,Keels,Andrew@Keels.iky,2005-12-5,ROCK N ROLL,F
+1078,Ethel,Richardson,Ethel@Richardson.rli,1945-7-27,JAZZ,M
+1079,Jonathan,Hutto,Jonathan@Hutto.xqt,1943-4-25,ORIONTAL,M
+1080,Sara,Perkins,Sara@Perkins.xqw,1990-6-4,ROCK N ROLL,M
+1081,Karena,Naquin,Karena@Naquin.ojg,1941-3-13,JAZZ,F
+1082,Jacqueline,Sommer,Jacqueline@Sommer.krm,2007-1-25,ORIONTAL,F
+1083,Randy,Robinson,Randy@Robinson.fsh,1952-7-5,JAZZ,M
+1084,Victoria,Carino,Victoria@Carino.izs,1978-9-17,classic,M
+1085,Cathie,Walter,Cathie@Walter.ixr,1992-6-1,ORIONTAL,F
+1086,Jill,Odonnell,Jill@Odonnell.mvj,2004-5-2,JAZZ,M
+1087,Clarence,Rocha,Clarence@Rocha.qkb,1963-10-25,classic,M
+1088,Lanny,West,Lanny@West.zxj,1987-4-13,classic,M
+1089,Diego,Baker,Diego@Baker.xdm,1990-3-13,ROCK N ROLL,M
+1090,Patrick,Sweeney,Patrick@Sweeney.uvq,1967-8-1,ORIONTAL,M
+1091,Joseph,Benoit,Joseph@Benoit.qcc,1990-2-12,ORIONTAL,M
+1092,Joseph,Custer,Joseph@Custer.dmn,1966-8-19,JAZZ,M
+1093,Rosa,Lane,Rosa@Lane.poa,1991-1-28,JAZZ,M
+1094,Margaret,Enciso,Margaret@Enciso.blc,1958-4-14,classic,M
+1095,Sergio,Roback,Sergio@Roback.rte,1951-3-22,classic,F
+1096,Jason,Jordan,Jason@Jordan.dxy,1987-10-28,ROCK N ROLL,M
+1097,Patrick,Rouse,Patrick@Rouse.mdp,1983-7-18,JAZZ,F
+1098,Ivan,Smith,Ivan@Smith.zlt,1994-5-2,classic,M
+1099,Kathleen,Bradford,Kathleen@Bradford.sat,1968-12-5,classic,F
+1100,Robert,Mendez,Robert@Mendez.hxm,2004-5-16,JAZZ,F
+1101,Corey,Wood,Corey@Wood.ryi,1958-2-3,JAZZ,M
+1102,Dominick,Riebe,Dominick@Riebe.vvs,1994-10-5,classic,F
+1103,Star,Murphy,Star@Murphy.goe,1976-3-10,JAZZ,M
+1104,Blaine,Roy,Blaine@Roy.ihn,1960-6-8,JAZZ,M
+1105,Virginia,Telleria,Virginia@Telleria.rfu,2005-5-7,JAZZ,M
+1106,Peter,Parker,Peter@Parker.pwf,1966-11-22,classic,M
+1107,Steven,Bayless,Steven@Bayless.iim,2002-12-24,ROCK N ROLL,M
+1108,Quincy,Wright,Quincy@Wright.pwq,2005-2-19,classic,F
+1109,David,Sas,David@Sas.afa,1949-10-21,ORIONTAL,M
+1110,Ryan,Johnson,Ryan@Johnson.htq,1995-11-5,ROCK N ROLL,M
+1111,Brian,Morris,Brian@Morris.zqv,1977-2-17,JAZZ,M
+1112,Abel,Rushing,Abel@Rushing.vqb,1956-5-18,ORIONTAL,M
+1113,Elizabeth,Whitley,Elizabeth@Whitley.elp,1941-9-21,ORIONTAL,M
+1114,Leroy,Boulanger,Leroy@Boulanger.jxl,1971-7-16,ROCK N ROLL,M
+1115,Dustin,Steinert,Dustin@Steinert.vkn,1986-12-11,ROCK N ROLL,M
+1116,David,Fahey,David@Fahey.apw,1946-7-20,JAZZ,F
+1117,Joann,Carlson,Joann@Carlson.atp,1977-7-6,ORIONTAL,F
+1118,Mary,Goodsell,Mary@Goodsell.svr,1965-6-16,ROCK N ROLL,F
+1119,Nicole,Carrel,Nicole@Carrel.ikh,1986-1-13,ROCK N ROLL,M
+1120,Patricia,Doty,Patricia@Doty.ndz,1960-12-25,JAZZ,M
+1121,Keith,Brown,Keith@Brown.jzy,1972-6-7,ORIONTAL,M
+1122,Eileen,Smith,Eileen@Smith.yav,1951-9-8,ORIONTAL,M
+1123,Shellie,Pierce,Shellie@Pierce.hdx,1986-2-19,JAZZ,M
+1124,Franklin,Hillard,Franklin@Hillard.eyw,1949-1-3,classic,M
+1125,Lee,Matthews,Lee@Matthews.nkc,2000-6-23,JAZZ,M
+1126,Barbara,Williams,Barbara@Williams.ipf,2007-3-20,ORIONTAL,M
+1127,Jason,Klein,Jason@Klein.ktv,1964-3-16,ORIONTAL,M
+1128,Carl,Wicker,Carl@Wicker.tbs,2009-7-8,ORIONTAL,M
+1129,Charles,Pappas,Charles@Pappas.vgs,1947-7-9,classic,M
+1130,Karen,Hernandez,Karen@Hernandez.rvt,1946-5-17,ORIONTAL,F
+1131,Theresa,Juarez,Theresa@Juarez.enf,1990-1-16,ROCK N ROLL,F
+1132,Elizabeth,Cassidy,Elizabeth@Cassidy.xse,1940-1-1,classic,F
+1133,Eva,Mattox,Eva@Mattox.txs,2001-10-14,ROCK N ROLL,F
+1134,Francis,Macki,Francis@Macki.obj,1995-10-4,classic,M
+1135,Joseph,Gills,Joseph@Gills.vit,1974-6-19,JAZZ,F
+1136,Minnie,Beck,Minnie@Beck.lbm,2002-5-10,ROCK N ROLL,M
+1137,Arlene,Justice,Arlene@Justice.xtd,1982-1-20,classic,M
+1138,Bernardo,Wallace,Bernardo@Wallace.dfn,1942-9-17,ORIONTAL,F
+1139,Spring,Pretti,Spring@Pretti.yld,1991-5-14,ROCK N ROLL,F
+1140,Karl,Maloon,Karl@Maloon.cbz,1992-1-3,JAZZ,F
+1141,Tommy,Guzman,Tommy@Guzman.nqj,1958-4-10,ORIONTAL,M
+1142,Brenda,Pfeiffer,Brenda@Pfeiffer.onz,2001-8-28,ORIONTAL,M
+1143,John,Washington,John@Washington.wnu,1963-1-16,JAZZ,M
+1144,Sharon,Forbes,Sharon@Forbes.rqb,1970-7-20,ROCK N ROLL,M
+1145,Nettie,Fowler,Nettie@Fowler.pyx,1954-10-27,JAZZ,M
+1146,Charles,Phillips,Charles@Phillips.dcn,1994-5-24,classic,M
+1147,Harry,Matchett,Harry@Matchett.ybn,1984-10-8,ORIONTAL,M
+1148,Carmela,Paar,Carmela@Paar.ojr,1986-5-27,classic,M
+1149,Melissa,Dronet,Melissa@Dronet.icv,1984-5-11,JAZZ,M
+1150,James,Herrera,James@Herrera.tul,2002-8-16,ROCK N ROLL,F
+1151,David,Gruber,David@Gruber.nnu,1962-1-25,classic,M
+1152,Jean,Willingham,Jean@Willingham.nvg,1959-9-4,classic,M
+1153,Paul,Smith,Paul@Smith.wun,1961-10-3,JAZZ,F
+1154,Florence,Lopez,Florence@Lopez.trn,2007-2-12,ORIONTAL,M
+1155,Blanca,Gonzalez,Blanca@Gonzalez.xks,1941-10-5,JAZZ,F
+1156,Lesley,Guzman,Lesley@Guzman.mdb,1961-10-17,classic,F
+1157,James,Floyd,James@Floyd.zge,1968-2-2,ORIONTAL,M
+1158,Charles,Quick,Charles@Quick.qvw,1991-9-17,classic,M
+1159,Kim,Lannon,Kim@Lannon.sqd,1984-6-27,ROCK N ROLL,F
+1160,John,Colston,John@Colston.mph,1970-7-3,ORIONTAL,F
+1161,Kelsey,Maples,Kelsey@Maples.qcg,1995-10-7,ORIONTAL,F
+1162,Jennifer,Banas,Jennifer@Banas.jed,1942-1-17,ORIONTAL,M
+1163,Brandy,Walton,Brandy@Walton.bsi,1940-10-13,JAZZ,M
+1164,Anna,Hughes,Anna@Hughes.waz,1958-10-14,ROCK N ROLL,F
+1165,Troy,Moore,Troy@Moore.aqs,1956-7-7,ORIONTAL,M
+1166,Wayne,Rogers,Wayne@Rogers.hxb,1943-4-15,ORIONTAL,M
+1167,Maria,Mcentyre,Maria@Mcentyre.dnn,1967-9-23,ORIONTAL,F
+1168,Colleen,Goodson,Colleen@Goodson.xil,1969-10-14,ORIONTAL,F
+1169,Suzanne,Gipe,Suzanne@Gipe.pld,1981-12-18,ROCK N ROLL,M
+1170,Brent,Basham,Brent@Basham.eor,1963-11-2,JAZZ,F
+1171,Fred,Denson,Fred@Denson.jzx,1991-1-3,classic,F
+1172,Juanita,Luce,Juanita@Luce.igq,1949-3-24,classic,F
+1173,Hannah,Campbell,Hannah@Campbell.uzz,1958-12-24,JAZZ,F
+1174,Andrew,Berry,Andrew@Berry.ctt,1987-6-20,classic,M
+1175,Stephanie,Tasler,Stephanie@Tasler.zhd,2008-6-10,ORIONTAL,M
+1176,Teresa,Brown,Teresa@Brown.wkg,1984-6-1,ORIONTAL,F
+1177,Jake,Trautman,Jake@Trautman.qjo,1995-9-4,classic,M
+1178,Ardath,White,Ardath@White.aqb,2006-9-8,ROCK N ROLL,M
+1179,Michelle,Gower,Michelle@Gower.ktm,1946-11-11,ORIONTAL,M
+1180,Jennifer,Talley,Jennifer@Talley.ygq,1954-8-9,classic,F
+1181,Anthony,Burge,Anthony@Burge.sdn,1954-12-6,JAZZ,F
+1182,Linda,Pearce,Linda@Pearce.obv,1978-12-1,ORIONTAL,F
+1183,George,Loyd,George@Loyd.qda,1969-6-2,ROCK N ROLL,M
+1184,William,Huneycutt,William@Huneycutt.fgn,1961-5-18,ROCK N ROLL,M
+1185,Michael,Swann,Michael@Swann.pkp,2005-10-1,ROCK N ROLL,M
+1186,Erik,Colangelo,Erik@Colangelo.exy,1968-7-11,ORIONTAL,M
+1187,Julian,Hendon,Julian@Hendon.adm,1962-10-22,ROCK N ROLL,M
+1188,Kevin,Mcneal,Kevin@Mcneal.wtk,1955-6-17,classic,M
+1189,Sharon,Emery,Sharon@Emery.gpt,1997-6-10,ROCK N ROLL,M
+1190,Karyn,Carrara,Karyn@Carrara.sjp,1991-11-3,ORIONTAL,M
+1191,Rick,Carlton,Rick@Carlton.tnq,1944-3-25,classic,M
+1192,Shirley,Magee,Shirley@Magee.ccv,1984-11-13,classic,M
+1193,Margaret,Martin,Margaret@Martin.tww,1995-5-15,classic,M
+1194,Robert,Knight,Robert@Knight.tye,1954-5-6,ORIONTAL,M
+1195,Vanessa,Huskins,Vanessa@Huskins.wzm,1959-9-18,ORIONTAL,F
+1196,Mary,Edwards,Mary@Edwards.bzg,1950-2-15,classic,F
+1197,John,Hayes,John@Hayes.dql,1951-4-6,JAZZ,M
+1198,Esther,Dulin,Esther@Dulin.xul,1970-11-19,classic,M
+1199,Alfredo,Kimble,Alfredo@Kimble.zlp,1978-1-6,classic,M
+1200,Johnnie,Yeung,Johnnie@Yeung.sdk,2009-10-15,JAZZ,M
+1201,Carlos,Aguino,Carlos@Aguino.egr,1986-1-26,JAZZ,M
+1202,Anthony,Mcculloch,Anthony@Mcculloch.fkp,1990-12-22,ROCK N ROLL,F
+1203,Benjamin,Smith,Benjamin@Smith.rmw,1991-10-22,ORIONTAL,M
+1204,Craig,Garcia,Craig@Garcia.bnc,1974-8-19,ROCK N ROLL,F
+1205,Darlene,Defalco,Darlene@Defalco.fsb,1955-9-27,classic,F
+1206,Louise,Hudson,Louise@Hudson.orr,1953-7-26,ROCK N ROLL,M
+1207,Mattie,Evans,Mattie@Evans.rtn,1974-6-25,ROCK N ROLL,F
+1208,Walton,Taylor,Walton@Taylor.osh,1958-4-15,JAZZ,M
+1209,Aubrey,Pierce,Aubrey@Pierce.njb,1946-6-21,ORIONTAL,M
+1210,David,Martinez,David@Martinez.lff,1967-2-5,classic,M
+1211,Scott,Stiles,Scott@Stiles.qzq,1968-8-22,ORIONTAL,F
+1212,Jeannie,Shaw,Jeannie@Shaw.mlf,1998-7-6,JAZZ,M
+1213,Phyllis,Perry,Phyllis@Perry.xla,1979-10-13,classic,M
+1214,Rita,Carlton,Rita@Carlton.zrg,1964-4-16,JAZZ,F
+1215,Richard,Butterworth,Richard@Butterworth.orw,1940-3-1,ORIONTAL,M
+1216,Delphine,Dole,Delphine@Dole.bof,1967-9-14,classic,M
+1217,Susana,Gonzalez,Susana@Gonzalez.ndo,1990-1-26,classic,M
+1218,David,Gilmer,David@Gilmer.ltp,2001-9-26,ORIONTAL,F
+1219,Ryan,Bertrand,Ryan@Bertrand.mgu,1958-7-25,JAZZ,F
+1220,Quincy,Creech,Quincy@Creech.mru,1959-5-3,ROCK N ROLL,F
+1221,Derek,Pulse,Derek@Pulse.pnb,1991-1-15,classic,F
+1222,Hector,Allen,Hector@Allen.sxm,1991-7-9,JAZZ,F
+1223,Scott,Morrison,Scott@Morrison.dah,2005-10-16,JAZZ,M
+1224,John,Mach,John@Mach.gaa,1984-3-24,classic,M
+1225,George,Spradley,George@Spradley.dvq,1962-5-2,JAZZ,M
+1226,John,Root,John@Root.adv,1943-10-14,classic,M
+1227,Helen,Homan,Helen@Homan.uej,1974-12-21,ORIONTAL,M
+1228,Elena,Ball,Elena@Ball.dln,1967-1-10,ROCK N ROLL,F
+1229,Laura,Smith,Laura@Smith.vkp,1996-5-1,classic,M
+1230,Harold,Lane,Harold@Lane.qbl,1981-1-7,ROCK N ROLL,M
+1231,Samantha,Rusk,Samantha@Rusk.pcd,2000-8-13,ROCK N ROLL,F
+1232,Joann,Clark,Joann@Clark.fum,1987-1-25,classic,M
+1233,Nina,Aldridge,Nina@Aldridge.ckq,1995-7-12,ORIONTAL,M
+1234,Emily,Wright,Emily@Wright.bjq,1976-11-27,JAZZ,M
+1235,Roberta,Kurylo,Roberta@Kurylo.npg,2007-10-16,ORIONTAL,F
+1236,Donald,Lancaster,Donald@Lancaster.dme,1990-2-4,classic,M
+1237,Amy,Witham,Amy@Witham.jvc,1949-6-14,JAZZ,M
+1238,Cicely,Zierenberg,Cicely@Zierenberg.eea,1987-10-27,classic,F
+1239,Erin,Grimm,Erin@Grimm.ctk,1989-4-20,ROCK N ROLL,M
+1240,Mariah,Elliott,Mariah@Elliott.tmf,1962-1-3,classic,M
+1241,Traci,Vargas,Traci@Vargas.eyx,1956-10-4,classic,M
+1242,Katie,Bender,Katie@Bender.tjn,1942-6-20,ORIONTAL,M
+1243,Angel,Hildebrand,Angel@Hildebrand.rtf,2001-2-13,ORIONTAL,F
+1244,Clara,Gillispie,Clara@Gillispie.ozs,1988-8-26,JAZZ,M
+1245,Henry,Perreira,Henry@Perreira.pvz,2008-5-1,ORIONTAL,M
+1246,Tiffany,Hanks,Tiffany@Hanks.yhh,1971-7-9,ROCK N ROLL,F
+1247,Elizabeth,Shoup,Elizabeth@Shoup.tim,1943-9-10,JAZZ,M
+1248,June,Sebald,June@Sebald.oyd,1993-7-6,classic,F
+1249,Edna,Burgess,Edna@Burgess.rop,1948-1-5,ROCK N ROLL,M
+1250,Starla,Harding,Starla@Harding.wrj,2004-11-24,classic,M
+1251,John,Holliman,John@Holliman.ovf,1940-3-21,JAZZ,M
+1252,Bernard,Goebel,Bernard@Goebel.exd,2008-7-23,ROCK N ROLL,F
+1253,Kathleen,Birden,Kathleen@Birden.brc,1972-11-19,ROCK N ROLL,F
+1254,Frederick,Powel,Frederick@Powel.wjt,1956-11-17,ROCK N ROLL,M
+1255,Cathy,Reed,Cathy@Reed.vfr,1947-1-2,ROCK N ROLL,F
+1256,Shaun,Lew,Shaun@Lew.dnu,1991-4-4,ORIONTAL,M
+1257,Emory,Priest,Emory@Priest.yyt,1984-7-1,classic,M
+1258,Nathan,Mallory,Nathan@Mallory.stp,2005-1-7,JAZZ,F
+1259,Alfreda,Clayton,Alfreda@Clayton.xoo,1952-5-21,classic,F
+1260,Dorothy,Smith,Dorothy@Smith.kny,1968-5-17,classic,M
+1261,Dennis,Jefferson,Dennis@Jefferson.kuk,1998-8-26,ORIONTAL,M
+1262,Irene,Miller,Irene@Miller.ybp,2006-4-21,ORIONTAL,M
+1263,Bertha,Avila,Bertha@Avila.hes,1953-5-21,ORIONTAL,M
+1264,Patricia,Burke,Patricia@Burke.yrf,1963-12-11,ORIONTAL,F
+1265,Deborah,Hinz,Deborah@Hinz.gzx,1994-11-19,classic,M
+1266,Reynaldo,Doil,Reynaldo@Doil.tat,1940-10-2,ROCK N ROLL,M
+1267,Kevin,Lennon,Kevin@Lennon.tbd,1968-2-3,ORIONTAL,M
+1268,Frances,Swafford,Frances@Swafford.wol,1981-4-7,classic,M
+1269,Ronald,Cox,Ronald@Cox.ley,1942-9-11,JAZZ,F
+1270,Heather,Wood,Heather@Wood.kpo,1956-6-3,ORIONTAL,M
+1271,Latina,Quach,Latina@Quach.chd,1977-5-21,ORIONTAL,M
+1272,Tarsha,Mendoza,Tarsha@Mendoza.oag,1982-5-1,JAZZ,M
+1273,Cynthia,Weber,Cynthia@Weber.btk,2006-4-20,ORIONTAL,M
+1274,Rebecca,Boehme,Rebecca@Boehme.jeh,1953-10-19,ROCK N ROLL,M
+1275,Norma,Haney,Norma@Haney.zwn,1999-7-13,ORIONTAL,M
+1276,Brooke,Pedlow,Brooke@Pedlow.ojf,1974-12-22,JAZZ,F
+1277,Leroy,Derry,Leroy@Derry.fae,2006-2-22,JAZZ,M
+1278,Daniel,Ross,Daniel@Ross.gyo,2007-7-6,ROCK N ROLL,M
+1279,Johnnie,Kiedrowski,Johnnie@Kiedrowski.mli,1969-9-20,ORIONTAL,M
+1280,Terra,Mcfarling,Terra@Mcfarling.itv,1943-1-5,JAZZ,M
+1281,Raymond,Castro,Raymond@Castro.ryz,1988-6-16,JAZZ,M
+1282,Bobby,Henderson,Bobby@Henderson.yuo,1943-5-12,ROCK N ROLL,M
+1283,Thomas,Ortiz,Thomas@Ortiz.reh,1989-11-9,ORIONTAL,F
+1284,Lulu,Hobbs,Lulu@Hobbs.cxn,1958-2-21,JAZZ,F
+1285,Henry,Conroy,Henry@Conroy.szg,1970-3-2,JAZZ,M
+1286,Kristopher,Hedgepeth,Kristopher@Hedgepeth.lnc,1979-7-20,JAZZ,M
+1287,Grace,Przybyla,Grace@Przybyla.jhz,1976-11-12,classic,F
+1288,Pauline,Chiang,Pauline@Chiang.tyr,2005-4-12,classic,F
+1289,Kimberley,Gettle,Kimberley@Gettle.qlq,1978-1-14,ROCK N ROLL,M
+1290,Cynthia,Rose,Cynthia@Rose.wgn,1982-9-2,ORIONTAL,M
+1291,Michelle,West,Michelle@West.otv,1983-2-18,classic,F
+1292,Stephanie,Blue,Stephanie@Blue.jjt,1974-6-17,classic,M
+1293,Daniel,Drake,Daniel@Drake.zwt,2008-3-28,classic,M
+1294,Carol,Murray,Carol@Murray.cys,1989-12-25,JAZZ,M
+1295,Florence,French,Florence@French.azl,2004-1-19,ORIONTAL,M
+1296,William,Rollins,William@Rollins.nlf,1998-1-23,JAZZ,F
+1297,Roy,Gercak,Roy@Gercak.wye,1979-6-3,ORIONTAL,M
+1298,Susan,Morrill,Susan@Morrill.sbc,1965-4-24,classic,F
+1299,Robert,Chalfant,Robert@Chalfant.bea,1994-12-12,classic,M
+1300,Julia,Massimino,Julia@Massimino.sss,1954-10-5,classic,M
+1301,Lori,Stewart,Lori@Stewart.evq,1954-1-20,classic,M
+1302,Jack,Whitaker,Jack@Whitaker.jwi,1957-6-3,ROCK N ROLL,M
+1303,Julian,Edmonds,Julian@Edmonds.jez,1971-10-2,ORIONTAL,F
+1304,Jennifer,Deckman,Jennifer@Deckman.rbj,1966-1-1,classic,F
+1305,Derrick,Miller,Derrick@Miller.zvf,1942-2-4,ORIONTAL,F
+1306,Jessie,Lucey,Jessie@Lucey.min,1999-5-8,classic,F
+1307,Mildred,Rogers,Mildred@Rogers.nke,2009-10-28,classic,M
+1308,Iris,Dudley,Iris@Dudley.oyo,1942-1-25,classic,M
+1309,Warren,Carlone,Warren@Carlone.hdg,1957-6-28,JAZZ,F
+1310,Harold,Harris,Harold@Harris.spn,2006-11-21,JAZZ,F
+1311,Charlene,Washington,Charlene@Washington.fat,1966-11-9,classic,M
+1312,Anthony,Wolfe,Anthony@Wolfe.fsx,2007-4-6,ROCK N ROLL,M
+1313,Dina,Krone,Dina@Krone.bfe,1981-8-23,classic,M
+1314,Patricia,Jimenez,Patricia@Jimenez.qro,1979-9-27,ROCK N ROLL,M
+1315,Ronald,Liriano,Ronald@Liriano.axd,1962-10-28,JAZZ,M
+1316,Harold,Mozingo,Harold@Mozingo.wjb,1946-3-8,JAZZ,M
+1317,Doris,Rowe,Doris@Rowe.alk,1956-1-27,ORIONTAL,M
+1318,William,Gonzales,William@Gonzales.xok,1946-4-19,ROCK N ROLL,M
+1319,Alfredo,Prill,Alfredo@Prill.ybm,1978-1-20,ROCK N ROLL,F
+1320,William,Hibbard,William@Hibbard.scm,1969-11-22,ROCK N ROLL,F
+1321,Paul,Kerr,Paul@Kerr.nop,1984-10-17,classic,M
+1322,Robert,Willingham,Robert@Willingham.ikv,1993-10-28,ROCK N ROLL,F
+1323,Hubert,Aguirre,Hubert@Aguirre.qyq,1981-11-24,JAZZ,F
+1324,Jose,Brown,Jose@Brown.uzq,1967-9-11,ORIONTAL,M
+1325,Rolando,Powell,Rolando@Powell.oxm,2008-1-8,JAZZ,M
+1326,Reba,Barnes,Reba@Barnes.alk,1975-9-5,classic,F
+1327,Maria,Coughlin,Maria@Coughlin.uef,1964-3-13,JAZZ,M
+1328,Judith,Rosario,Judith@Rosario.txx,1987-7-12,classic,F
+1329,Edith,Mcminn,Edith@Mcminn.uql,1997-8-15,JAZZ,F
+1330,Charlene,Painter,Charlene@Painter.cqx,1965-9-2,JAZZ,M
+1331,Caroline,Fagan,Caroline@Fagan.jzk,1972-3-10,classic,F
+1332,Stephen,Bernstein,Stephen@Bernstein.pwh,1981-3-14,JAZZ,F
+1333,Effie,Ferguson,Effie@Ferguson.tyt,1945-12-8,ORIONTAL,F
+1334,Russell,Shaw,Russell@Shaw.tgp,2001-3-11,classic,M
+1335,Celeste,Boyd,Celeste@Boyd.bcs,1950-6-1,JAZZ,M
+1336,Anna,Wright,Anna@Wright.skp,2004-12-20,JAZZ,F
+1337,Herman,Deeter,Herman@Deeter.lzt,1987-11-26,classic,M
+1338,Edward,Mcdonald,Edward@Mcdonald.gdo,1968-11-17,ORIONTAL,F
+1339,Ray,Cupps,Ray@Cupps.tev,1987-7-26,classic,M
+1340,Carlene,Chester,Carlene@Chester.aje,2000-2-18,ORIONTAL,M
+1341,Myrtle,Tyler,Myrtle@Tyler.raw,1964-5-25,JAZZ,M
+1342,Darci,Browen,Darci@Browen.elu,1961-5-17,ORIONTAL,F
+1343,James,Powers,James@Powers.zgk,1940-10-19,classic,M
+1344,Elliot,Hargrove,Elliot@Hargrove.gqk,1975-1-19,JAZZ,F
+1345,George,Harris,George@Harris.all,2002-7-2,ROCK N ROLL,M
+1346,Simone,Popken,Simone@Popken.ldc,1988-9-28,ORIONTAL,M
+1347,Christopher,Warmack,Christopher@Warmack.aix,2008-2-15,classic,M
+1348,Cheryl,Salas,Cheryl@Salas.qof,1996-9-16,JAZZ,M
+1349,Wendell,Tucci,Wendell@Tucci.efe,1985-10-23,ROCK N ROLL,F
+1350,Mirta,Gough,Mirta@Gough.ixm,1950-6-18,ROCK N ROLL,M
+1351,Kenneth,Stovall,Kenneth@Stovall.auy,1955-3-7,ORIONTAL,M
+1352,Josie,Dallmann,Josie@Dallmann.wak,1962-7-4,ORIONTAL,M
+1353,Tessie,King,Tessie@King.oqb,1971-11-21,ROCK N ROLL,M
+1354,Martin,Obermiller,Martin@Obermiller.oip,2001-10-13,JAZZ,F
+1355,Oscar,Villarreal,Oscar@Villarreal.zqq,1989-6-4,JAZZ,F
+1356,Heidi,Kent,Heidi@Kent.fan,2004-6-24,ROCK N ROLL,F
+1357,Aaron,Weissman,Aaron@Weissman.hzb,1992-6-25,classic,M
+1358,Nathan,Orlando,Nathan@Orlando.fhu,1964-4-26,ROCK N ROLL,F
+1359,Ronald,Burnside,Ronald@Burnside.yps,1973-6-23,ROCK N ROLL,M
+1360,Earl,Bos,Earl@Bos.nol,1943-9-22,JAZZ,M
+1361,Howard,Brown,Howard@Brown.lls,1949-1-10,classic,F
+1362,Carlotta,Hill,Carlotta@Hill.ohb,2004-3-22,classic,M
+1363,Teresa,Needels,Teresa@Needels.lqp,1953-2-7,ORIONTAL,M
+1364,Joanne,Blanks,Joanne@Blanks.hla,1990-10-27,ROCK N ROLL,M
+1365,Fred,Rayford,Fred@Rayford.inh,1961-1-7,ORIONTAL,F
+1366,Luis,Thomas,Luis@Thomas.xok,1961-4-5,ROCK N ROLL,F
+1367,Teresa,Pamplin,Teresa@Pamplin.zzb,1967-9-18,JAZZ,M
+1368,Christopher,Duet,Christopher@Duet.oeh,1995-6-24,JAZZ,M
+1369,Carol,Morgan,Carol@Morgan.ikc,1941-8-18,ROCK N ROLL,F
+1370,Martha,Thomas,Martha@Thomas.wcz,1957-3-18,ROCK N ROLL,M
+1371,Lynn,Lambert,Lynn@Lambert.gzx,1973-9-14,JAZZ,M
+1372,Phyllis,Ross,Phyllis@Ross.eed,1946-1-8,classic,M
+1373,Charles,Chavez,Charles@Chavez.xct,2006-7-10,classic,F
+1374,Melba,Breeden,Melba@Breeden.ewo,1959-10-12,ROCK N ROLL,M
+1375,Brian,Vargas,Brian@Vargas.tjk,1966-11-2,JAZZ,M
+1376,Robert,Hayes,Robert@Hayes.bbb,1966-6-19,JAZZ,M
+1377,Cynthia,Randolph,Cynthia@Randolph.rfm,1954-3-7,ROCK N ROLL,M
+1378,Cheryl,Diaz,Cheryl@Diaz.lcl,1996-6-10,JAZZ,M
+1379,Gary,Vega,Gary@Vega.qbp,1956-6-2,JAZZ,F
+1380,Inez,Streeter,Inez@Streeter.nro,1960-4-14,JAZZ,F
+1381,Joseph,Wells,Joseph@Wells.zje,1968-10-6,JAZZ,M
+1382,David,Comer,David@Comer.bcs,1971-5-23,JAZZ,M
+1383,John,Moret,John@Moret.sxx,2006-3-12,JAZZ,F
+1384,Olga,Botello,Olga@Botello.umv,1947-4-9,JAZZ,M
+1385,Raymond,Quick,Raymond@Quick.wmr,1966-3-6,ROCK N ROLL,F
+1386,Louis,Templeton,Louis@Templeton.tst,1962-4-19,ROCK N ROLL,F
+1387,George,Mitchell,George@Mitchell.khe,1998-12-3,ROCK N ROLL,M
+1388,Donna,Rodriguez,Donna@Rodriguez.vms,1945-1-23,ROCK N ROLL,F
+1389,Claude,Keys,Claude@Keys.fim,1986-12-1,ORIONTAL,M
+1390,Joshua,Minor,Joshua@Minor.dzt,1945-12-10,ORIONTAL,M
+1391,Ladonna,Moore,Ladonna@Moore.mgx,1999-8-10,ORIONTAL,M
+1392,Katelyn,Mullenax,Katelyn@Mullenax.hku,1994-6-8,ORIONTAL,M
+1393,Charlotte,Shappell,Charlotte@Shappell.utg,1964-2-18,classic,F
+1394,Janis,Mclean,Janis@Mclean.kpp,2006-5-23,ROCK N ROLL,M
+1395,Vincent,Anderson,Vincent@Anderson.bdq,2008-2-10,classic,M
+1396,Clara,Young,Clara@Young.pjz,1961-11-19,ROCK N ROLL,M
+1397,Erin,Amundson,Erin@Amundson.pys,1962-4-22,classic,M
+1398,Connie,Rossin,Connie@Rossin.ulx,1981-4-7,classic,M
+1399,Peter,Lopez,Peter@Lopez.tqo,1960-6-10,classic,F
+1400,Joanne,Rabon,Joanne@Rabon.xoa,1964-2-21,classic,M
+1401,Alisha,Huntley,Alisha@Huntley.god,1957-8-2,ORIONTAL,F
+1402,Humberto,Rhodes,Humberto@Rhodes.oaf,2003-2-25,classic,F
+1403,Ian,Laureano,Ian@Laureano.pqg,1998-3-21,ORIONTAL,F
+1404,Pilar,Sell,Pilar@Sell.bgl,1974-5-25,classic,F
+1405,Lauren,Tucker,Lauren@Tucker.zif,1949-5-12,ORIONTAL,M
+1406,James,Maddox,James@Maddox.xgk,2006-10-28,classic,F
+1407,Mose,Alberson,Mose@Alberson.yml,1989-2-21,classic,M
+1408,Lloyd,Pierce,Lloyd@Pierce.bfe,1978-5-1,ORIONTAL,M
+1409,Betty,Sandling,Betty@Sandling.fpo,1999-1-6,ROCK N ROLL,M
+1410,Ryan,Hay,Ryan@Hay.mwg,1999-11-3,ROCK N ROLL,F
+1411,Donnie,Suriel,Donnie@Suriel.sht,1955-6-21,ROCK N ROLL,M
+1412,Anthony,Rasmussen,Anthony@Rasmussen.hia,1962-9-10,ORIONTAL,M
+1413,Karen,Adair,Karen@Adair.dvu,1981-6-13,JAZZ,F
+1414,Tyson,Porterfield,Tyson@Porterfield.ehf,1961-9-16,JAZZ,M
+1415,Jessica,Velis,Jessica@Velis.npc,1959-5-18,ORIONTAL,F
+1416,Katherine,Lopez,Katherine@Lopez.exq,1945-1-20,JAZZ,M
+1417,Lindsey,Carr,Lindsey@Carr.foq,1961-2-11,classic,M
+1418,David,Shen,David@Shen.mqq,1962-3-26,JAZZ,F
+1419,Walter,Burchett,Walter@Burchett.ldz,1997-5-5,ORIONTAL,M
+1420,Rebecca,Cherry,Rebecca@Cherry.upb,1964-5-28,ROCK N ROLL,F
+1421,Debra,Fernandez,Debra@Fernandez.cam,1955-3-25,ROCK N ROLL,M
+1422,Jennifer,Rogal,Jennifer@Rogal.gjq,1980-11-15,ORIONTAL,F
+1423,Michael,Urquhart,Michael@Urquhart.ool,2005-10-28,ORIONTAL,F
+1424,Pamela,Lemaster,Pamela@Lemaster.ygs,1984-1-19,ROCK N ROLL,M
+1425,Loren,Yarber,Loren@Yarber.sim,1965-12-15,classic,F
+1426,Ernest,Kempf,Ernest@Kempf.xyu,1946-12-23,classic,M
+1427,Jessica,Burgess,Jessica@Burgess.lzr,1992-11-17,ROCK N ROLL,M
+1428,Dale,Taylor,Dale@Taylor.ncd,1996-8-7,JAZZ,F
+1429,Nicholas,Francis,Nicholas@Francis.dcp,1992-9-1,ROCK N ROLL,M
+1430,Marisa,Mcalpine,Marisa@Mcalpine.gnj,1986-1-2,classic,M
+1431,Richard,Merrow,Richard@Merrow.jdd,1962-10-8,JAZZ,M
+1432,Sara,Graves,Sara@Graves.vfo,1969-1-20,classic,M
+1433,Ursula,Traub,Ursula@Traub.mve,1954-1-19,JAZZ,M
+1434,Gerald,Demoss,Gerald@Demoss.tjw,1965-3-5,ORIONTAL,M
+1435,Douglas,Olsen,Douglas@Olsen.rpe,1959-10-10,ROCK N ROLL,M
+1436,Henry,Blass,Henry@Blass.lws,1988-9-18,ORIONTAL,M
+1437,Elizabeth,Ho,Elizabeth@Ho.tri,1941-3-24,JAZZ,M
+1438,Audrey,Ocampo,Audrey@Ocampo.sko,1975-3-19,classic,F
+1439,Raymond,West,Raymond@West.wnx,1950-8-1,ROCK N ROLL,M
+1440,Darlene,Remo,Darlene@Remo.jxd,1983-9-17,classic,F
+1441,Galen,Levine,Galen@Levine.nuf,1955-3-17,ROCK N ROLL,M
+1442,Eleanor,Molina,Eleanor@Molina.umh,1957-6-22,ORIONTAL,F
+1443,Seth,Mack,Seth@Mack.zsi,1988-7-14,ORIONTAL,F
+1444,Emily,Dix,Emily@Dix.jdd,1975-8-19,ORIONTAL,M
+1445,James,Barnes,James@Barnes.xas,1992-7-8,JAZZ,M
+1446,Lois,Zapata,Lois@Zapata.rng,1949-10-4,ROCK N ROLL,M
+1447,Michel,Cavazos,Michel@Cavazos.bqu,1992-2-15,classic,F
+1448,Claudia,Scates,Claudia@Scates.fhg,1958-7-27,ROCK N ROLL,M
+1449,Linda,Funk,Linda@Funk.khs,1976-4-22,JAZZ,F
+1450,Lorraine,Bourgeois,Lorraine@Bourgeois.ktq,1975-4-4,ORIONTAL,M
+1451,Anthony,Holloway,Anthony@Holloway.nlr,1957-6-9,ORIONTAL,F
+1452,Robert,Ordonez,Robert@Ordonez.wvv,2001-3-13,ORIONTAL,M
+1453,Lawrence,Hatchett,Lawrence@Hatchett.mzj,1980-2-10,JAZZ,M
+1454,Gail,Mcdowell,Gail@Mcdowell.dyl,2009-4-16,JAZZ,M
+1455,Carol,Pollock,Carol@Pollock.vnt,1982-10-18,classic,M
+1456,Linda,Sittloh,Linda@Sittloh.nbm,1995-4-6,ORIONTAL,M
+1457,Maryjane,Stone,Maryjane@Stone.oyy,1956-7-25,ORIONTAL,M
+1458,Kelly,Dawkins,Kelly@Dawkins.tgz,1978-8-9,ORIONTAL,M
+1459,Ollie,Herrera,Ollie@Herrera.vlz,1974-12-13,JAZZ,M
+1460,Roy,Jones,Roy@Jones.ult,1962-11-11,ROCK N ROLL,M
+1461,Vivian,Sargent,Vivian@Sargent.llp,1944-5-28,JAZZ,F
+1462,Oscar,Cauthen,Oscar@Cauthen.aec,1948-4-23,JAZZ,M
+1463,Carmen,Holmes,Carmen@Holmes.zrz,1993-2-21,JAZZ,M
+1464,Theresa,Smith,Theresa@Smith.iqo,1946-6-12,classic,M
+1465,Margaret,Lee,Margaret@Lee.wak,1972-7-27,JAZZ,M
+1466,Debra,Calo,Debra@Calo.aiu,1997-9-21,JAZZ,M
+1467,Michelle,Berardino,Michelle@Berardino.uxl,1940-2-4,JAZZ,M
+1468,Leroy,Moran,Leroy@Moran.uwd,1946-9-13,JAZZ,M
+1469,Curtis,Brauer,Curtis@Brauer.xgn,1993-7-17,classic,M
+1470,Brian,Meixner,Brian@Meixner.xwf,2001-8-6,ROCK N ROLL,M
+1471,Kimberly,Ford,Kimberly@Ford.zzd,1953-2-20,classic,M
+1472,Jonathan,Galvan,Jonathan@Galvan.imu,1980-12-24,ORIONTAL,F
+1473,Brian,Boston,Brian@Boston.zdd,1994-8-13,ROCK N ROLL,M
+1474,Nancy,Cantu,Nancy@Cantu.ynb,2000-4-11,classic,M
+1475,Salvador,Torrey,Salvador@Torrey.fir,1980-7-14,JAZZ,M
+1476,Michael,Parker,Michael@Parker.hhu,1985-5-17,ORIONTAL,M
+1477,Rosalie,Papa,Rosalie@Papa.rlo,1960-9-2,classic,F
+1478,John,Borden,John@Borden.tzu,1982-12-5,ROCK N ROLL,M
+1479,Travis,Blue,Travis@Blue.ybf,1966-5-10,classic,M
+1480,Phillip,Woods,Phillip@Woods.rgw,1970-6-3,JAZZ,F
+1481,Dana,Turner,Dana@Turner.kxg,1954-3-26,ORIONTAL,M
+1482,Josie,Tejeiro,Josie@Tejeiro.skt,2003-2-9,ORIONTAL,M
+1483,Ruth,Yale,Ruth@Yale.vht,1947-7-11,ORIONTAL,F
+1484,Mary,Hall,Mary@Hall.dep,1961-6-5,classic,M
+1485,Yvonne,Gilliam,Yvonne@Gilliam.ygu,1984-9-7,classic,M
+1486,John,Zielinski,John@Zielinski.xmt,1955-12-16,ORIONTAL,F
+1487,Joann,Wolf,Joann@Wolf.vor,2007-12-19,ROCK N ROLL,M
+1488,Mark,Anderson,Mark@Anderson.jrp,1954-2-9,classic,M
+1489,Minnie,Novoa,Minnie@Novoa.qhj,1965-10-24,classic,M
+1490,Scott,Kearney,Scott@Kearney.yfx,2002-11-28,classic,M
+1491,Susan,Reed,Susan@Reed.xjo,1966-3-4,ORIONTAL,M
+1492,Elsa,Johnston,Elsa@Johnston.thy,1942-3-27,classic,M
+1493,Sheri,Medford,Sheri@Medford.sec,1954-3-6,ROCK N ROLL,M
+1494,Danae,Cade,Danae@Cade.hll,1945-8-24,JAZZ,M
+1495,Michael,Taylor,Michael@Taylor.kwx,1982-11-24,classic,M
+1496,Aaron,Fechner,Aaron@Fechner.jco,1999-4-7,ROCK N ROLL,F
+1497,Ethel,Shelton,Ethel@Shelton.gnf,1991-9-25,ROCK N ROLL,M
+1498,Pamela,Temple,Pamela@Temple.ytv,2005-1-12,JAZZ,M
+1499,James,Smith,James@Smith.wle,1992-2-15,ROCK N ROLL,F
+1500,Raphael,Teaff,Raphael@Teaff.qkz,1972-2-20,ROCK N ROLL,M
+1501,Mattie,Frantz,Mattie@Frantz.iap,1962-11-13,JAZZ,M
+1502,Susan,Mcgrath,Susan@Mcgrath.jpc,1998-3-3,classic,M
+1503,Kenneth,Cobb,Kenneth@Cobb.lok,1971-4-20,JAZZ,M
+1504,Willis,Craig,Willis@Craig.clf,1957-8-26,JAZZ,F
+1505,James,Szocki,James@Szocki.qbb,1943-10-10,ROCK N ROLL,M
+1506,Alicia,Porter,Alicia@Porter.pjg,1964-7-21,classic,M
+1507,Diana,Mclaughlin,Diana@Mclaughlin.qje,1954-2-2,ROCK N ROLL,M
+1508,Erika,Cottingham,Erika@Cottingham.bue,1951-9-25,ROCK N ROLL,M
+1509,Dominga,Alvarez,Dominga@Alvarez.ssv,1984-11-23,JAZZ,M
+1510,Marilyn,Gonzalez,Marilyn@Gonzalez.mqu,2002-2-5,classic,M
+1511,Nettie,Melvin,Nettie@Melvin.jvr,1968-8-24,classic,F
+1512,Joseph,Macdowell,Joseph@Macdowell.aeh,1979-12-9,ROCK N ROLL,F
+1513,Francis,Brooks,Francis@Brooks.bkq,1994-1-6,classic,M
+1514,Deborah,Crawford,Deborah@Crawford.hxt,1994-9-13,ORIONTAL,F
+1515,Carlton,Maston,Carlton@Maston.fuv,1958-5-15,ORIONTAL,M
+1516,Kathy,Bonaccorsi,Kathy@Bonaccorsi.yys,1947-3-12,classic,M
+1517,Vernon,Hackney,Vernon@Hackney.vbp,1957-6-23,ORIONTAL,M
+1518,Joseph,Kirk,Joseph@Kirk.mze,1974-6-10,ORIONTAL,M
+1519,Debra,Felter,Debra@Felter.jpl,1958-10-18,ROCK N ROLL,F
+1520,Michele,Robinson,Michele@Robinson.wis,1988-4-20,classic,M
+1521,Leroy,Payne,Leroy@Payne.lfa,1951-4-27,classic,M
+1522,James,Stuart,James@Stuart.sxy,1979-9-24,ROCK N ROLL,M
+1523,Charles,Simon,Charles@Simon.pzo,1984-7-20,ROCK N ROLL,M
+1524,Barbara,Meli,Barbara@Meli.cum,1951-8-28,ORIONTAL,M
+1525,Clifford,Garnett,Clifford@Garnett.yuo,1986-3-20,ORIONTAL,M
+1526,Judy,Benge,Judy@Benge.qbg,2001-12-6,ROCK N ROLL,M
+1527,Heather,Rudolph,Heather@Rudolph.yen,1987-2-12,ROCK N ROLL,M
+1528,Robert,Simon,Robert@Simon.kyf,1943-10-22,ORIONTAL,M
+1529,Jessica,Thomas,Jessica@Thomas.ijt,1980-2-1,ROCK N ROLL,M
+1530,Nancy,Conner,Nancy@Conner.kuc,1954-5-5,ROCK N ROLL,F
+1531,Casey,Reichmann,Casey@Reichmann.rbj,2005-7-21,ORIONTAL,M
+1532,Ryan,Walker,Ryan@Walker.juj,2007-1-3,JAZZ,M
+1533,Adrienne,Davis,Adrienne@Davis.hsn,1997-3-19,classic,F
+1534,Chris,Pickens,Chris@Pickens.sqe,1995-11-17,classic,M
+1535,Jose,Price,Jose@Price.qtn,1972-12-21,JAZZ,M
+1536,Carrie,Wallace,Carrie@Wallace.xca,2009-4-3,classic,M
+1537,Russell,Calahan,Russell@Calahan.hor,1986-6-14,ORIONTAL,F
+1538,Stephanie,Watkins,Stephanie@Watkins.qbg,1945-3-22,classic,F
+1539,Betsy,Beckman,Betsy@Beckman.ovf,1971-7-27,JAZZ,F
+1540,Ruth,Manning,Ruth@Manning.plr,1970-9-12,JAZZ,M
+1541,Philip,Young,Philip@Young.hnw,1983-7-10,classic,M
+1542,Angela,Driscoll,Angela@Driscoll.imx,1947-5-17,classic,M
+1543,Rhonda,Emmons,Rhonda@Emmons.rzp,1955-12-19,JAZZ,M
+1544,Alvin,Smith,Alvin@Smith.xjb,1949-3-18,classic,F
+1545,Brian,Alexander,Brian@Alexander.moe,1994-4-6,classic,M
+1546,Robert,Macneil,Robert@Macneil.hcp,1957-11-25,classic,F
+1547,Heather,Nunez,Heather@Nunez.aox,1992-11-12,classic,M
+1548,Jerry,Simmons,Jerry@Simmons.jna,1977-2-1,ROCK N ROLL,F
+1549,Christopher,Houck,Christopher@Houck.jad,1980-12-13,ROCK N ROLL,M
+1550,Jose,Chalifour,Jose@Chalifour.fbk,1948-6-24,ROCK N ROLL,M
+1551,James,Oshea,James@Oshea.otk,1943-9-23,classic,M
+1552,Lori,Floyd,Lori@Floyd.gny,1960-6-15,classic,M
+1553,Janice,Nipp,Janice@Nipp.fkj,1968-12-5,ORIONTAL,M
+1554,Steven,Mosley,Steven@Mosley.msc,1988-3-14,ROCK N ROLL,M
+1555,Adrian,White,Adrian@White.ohi,1951-3-24,ROCK N ROLL,M
+1556,Magdalen,Victoria,Magdalen@Victoria.csq,2006-9-23,JAZZ,M
+1557,Agustin,Gorney,Agustin@Gorney.qwz,1940-5-27,ORIONTAL,M
+1558,Desmond,Miller,Desmond@Miller.why,1992-1-11,JAZZ,M
+1559,Ivan,Camarillo,Ivan@Camarillo.qkw,1974-6-8,ORIONTAL,F
+1560,Thomas,Fontaine,Thomas@Fontaine.fzl,1946-6-22,ROCK N ROLL,F
+1561,Peter,Graham,Peter@Graham.lvk,2003-1-2,ROCK N ROLL,M
+1562,Patricia,Kelleher,Patricia@Kelleher.xnj,1952-2-19,classic,M
+1563,Brian,Herman,Brian@Herman.sps,1978-11-15,ROCK N ROLL,M
+1564,James,Silveri,James@Silveri.tdt,1948-6-19,JAZZ,M
+1565,Bryan,Rivero,Bryan@Rivero.qdk,1991-10-11,ROCK N ROLL,M
+1566,Linda,Slone,Linda@Slone.ofn,1986-11-3,ROCK N ROLL,M
+1567,Karen,Mulherin,Karen@Mulherin.xir,1943-7-8,JAZZ,F
+1568,Elizabeth,Baskin,Elizabeth@Baskin.zzn,1980-9-11,ROCK N ROLL,F
+1569,Glen,Stonebraker,Glen@Stonebraker.brv,2009-8-27,ROCK N ROLL,F
+1570,Bruno,Vaughan,Bruno@Vaughan.mpe,1984-11-18,ORIONTAL,M
+1571,Thomas,Moore,Thomas@Moore.exo,1981-9-3,classic,F
+1572,Alex,Guffey,Alex@Guffey.hci,1963-8-23,JAZZ,M
+1573,Jose,Burns,Jose@Burns.csq,1944-6-4,classic,M
+1574,Daniel,Wilson,Daniel@Wilson.fqa,1988-3-4,JAZZ,M
+1575,Dennis,Chambers,Dennis@Chambers.hcw,1970-12-4,classic,M
+1576,Bryan,Thompson,Bryan@Thompson.emh,1986-10-11,ORIONTAL,M
+1577,Jonathan,Jackson,Jonathan@Jackson.cwg,1974-10-10,classic,F
+1578,Jay,Eckstein,Jay@Eckstein.xcq,1977-6-27,ROCK N ROLL,M
+1579,Evelyn,Guthrie,Evelyn@Guthrie.mia,1959-1-13,ROCK N ROLL,F
+1580,John,Ryan,John@Ryan.ncs,1950-4-1,classic,M
+1581,Daniel,Clifton,Daniel@Clifton.als,2006-7-8,JAZZ,F
+1582,Lillie,Pfeil,Lillie@Pfeil.fpk,1946-8-22,ROCK N ROLL,F
+1583,Beulah,Brookshire,Beulah@Brookshire.nct,1991-11-11,classic,F
+1584,Paul,Fine,Paul@Fine.aio,1948-11-20,JAZZ,M
+1585,Chet,Kohn,Chet@Kohn.dkk,1979-8-12,ROCK N ROLL,M
+1586,Michael,Hamilton,Michael@Hamilton.vgp,1983-5-22,ORIONTAL,M
+1587,Maria,Keys,Maria@Keys.ucc,1942-6-19,ORIONTAL,M
+1588,Oliver,Breaux,Oliver@Breaux.egr,1947-10-20,ORIONTAL,M
+1589,Kathy,Knox,Kathy@Knox.btu,1958-11-6,ROCK N ROLL,M
+1590,Herman,Madden,Herman@Madden.iug,1962-4-11,ORIONTAL,M
+1591,Antonio,Mccoy,Antonio@Mccoy.reg,1977-4-24,classic,F
+1592,Hattie,Waldrop,Hattie@Waldrop.uir,1994-8-17,ROCK N ROLL,M
+1593,Frederick,Roberts,Frederick@Roberts.zqs,1940-2-16,JAZZ,M
+1594,Robert,Whiting,Robert@Whiting.qwf,1951-1-14,ORIONTAL,M
+1595,Becky,Lyons,Becky@Lyons.znh,1966-4-3,classic,M
+1596,Stephanie,Gonzalez,Stephanie@Gonzalez.olo,1958-7-3,ORIONTAL,M
+1597,Robert,Kelly,Robert@Kelly.uja,2009-7-2,ORIONTAL,M
+1598,Donna,Sutton,Donna@Sutton.wyc,1951-3-14,ORIONTAL,M
+1599,Edwin,Portis,Edwin@Portis.cdp,1950-11-27,JAZZ,M
+1600,Maria,Carlson,Maria@Carlson.ryt,1968-6-9,JAZZ,M
+1601,Donnie,Rhoades,Donnie@Rhoades.qbx,2002-11-15,JAZZ,M
+1602,Jeffrey,Gioia,Jeffrey@Gioia.ncf,1953-12-24,ORIONTAL,M
+1603,Joe,Missey,Joe@Missey.snt,1956-5-26,ROCK N ROLL,M
+1604,Dianna,Armon,Dianna@Armon.rtc,1990-10-18,JAZZ,M
+1605,Willard,Pujols,Willard@Pujols.kwa,1988-12-4,ROCK N ROLL,F
+1606,Gwendolyn,Martin,Gwendolyn@Martin.amg,1979-11-19,JAZZ,M
+1607,Sarah,Patterson,Sarah@Patterson.ydb,2001-2-22,JAZZ,M
+1608,Katherine,Moore,Katherine@Moore.xaw,1993-12-5,classic,F
+1609,Robert,Mcginn,Robert@Mcginn.fpk,1942-8-13,classic,M
+1610,Johnny,Macauley,Johnny@Macauley.qvd,1952-3-17,classic,M
+1611,Michele,Clemens,Michele@Clemens.vra,1995-3-6,ROCK N ROLL,M
+1612,Nicholas,Ford,Nicholas@Ford.ibb,1981-5-6,ORIONTAL,F
+1613,John,Crooks,John@Crooks.vgv,1999-12-6,classic,M
+1614,Gary,Mowles,Gary@Mowles.ztw,1951-11-11,classic,M
+1615,Dale,Willson,Dale@Willson.cev,2007-9-7,ORIONTAL,F
+1616,Helen,Nieves,Helen@Nieves.vdv,2006-5-22,ROCK N ROLL,M
+1617,Barbara,Hrbacek,Barbara@Hrbacek.esx,2003-7-21,ROCK N ROLL,F
+1618,Helene,Broussard,Helene@Broussard.sgb,1949-9-5,ROCK N ROLL,M
+1619,Teri,Giammarino,Teri@Giammarino.jwo,2001-6-8,ORIONTAL,F
+1620,Angel,Bass,Angel@Bass.jrx,1962-11-9,ORIONTAL,M
+1621,John,Woodward,John@Woodward.hhn,1996-10-12,classic,M
+1622,Walter,Langlois,Walter@Langlois.eai,1957-6-3,classic,M
+1623,Patricia,Pearson,Patricia@Pearson.aeg,1993-2-1,JAZZ,M
+1624,Anthony,Myers,Anthony@Myers.hbn,1995-10-7,ORIONTAL,M
+1625,Brenda,Boykins,Brenda@Boykins.ljp,1966-10-8,ROCK N ROLL,F
+1626,Ana,Pratt,Ana@Pratt.pzy,2003-9-10,classic,M
+1627,Verna,Rodriquez,Verna@Rodriquez.tjg,1987-10-26,ROCK N ROLL,F
+1628,Barbara,Polo,Barbara@Polo.dyp,1980-6-23,classic,M
+1629,Travis,Woods,Travis@Woods.zrm,1999-1-19,ORIONTAL,M
+1630,Hazel,Greenler,Hazel@Greenler.zfm,2003-8-3,classic,M
+1631,Tara,Corrigan,Tara@Corrigan.eqy,1945-6-10,ORIONTAL,M
+1632,Louis,Henderson,Louis@Henderson.qln,1943-4-28,ROCK N ROLL,M
+1633,Carolyn,Moore,Carolyn@Moore.zzy,2004-10-19,classic,F
+1634,Doris,Nash,Doris@Nash.csw,2000-5-7,ROCK N ROLL,M
+1635,Dale,Shick,Dale@Shick.mcx,1953-7-5,JAZZ,M
+1636,Lee,Taylor,Lee@Taylor.hhw,1943-1-18,classic,M
+1637,Luis,Deloney,Luis@Deloney.fnd,1986-12-25,classic,F
+1638,Son,Evans,Son@Evans.zca,1957-10-21,ORIONTAL,M
+1639,Richard,Smith,Richard@Smith.odg,1944-12-10,ROCK N ROLL,M
+1640,John,Farmer,John@Farmer.cjw,2000-6-15,ROCK N ROLL,F
+1641,Timothy,Roland,Timothy@Roland.akb,1977-5-21,ROCK N ROLL,M
+1642,Cory,Martinez,Cory@Martinez.lql,1999-12-2,JAZZ,M
+1643,Lucille,Serra,Lucille@Serra.siw,1987-9-18,ROCK N ROLL,M
+1644,James,Holder,James@Holder.fwe,1985-3-24,JAZZ,F
+1645,Christina,Salters,Christina@Salters.rfz,1943-7-5,ROCK N ROLL,M
+1646,Tara,Williams,Tara@Williams.yoy,1980-12-27,classic,F
+1647,Kimberly,Masters,Kimberly@Masters.qzq,1988-6-25,classic,M
+1648,Thomas,Grand,Thomas@Grand.wrw,1975-1-5,classic,M
+1649,Daniel,Storey,Daniel@Storey.odd,1965-8-20,ORIONTAL,F
+1650,Phyllis,Barlowe,Phyllis@Barlowe.att,1979-7-9,ROCK N ROLL,M
+1651,Robert,Dauzat,Robert@Dauzat.qvr,1961-8-1,JAZZ,F
+1652,Debbie,Leblanc,Debbie@Leblanc.pfv,1968-11-11,JAZZ,M
+1653,Chris,Fleetwood,Chris@Fleetwood.xex,1946-5-15,ORIONTAL,M
+1654,Lena,Mincks,Lena@Mincks.ues,1990-2-26,JAZZ,M
+1655,Rosa,Mccarthy,Rosa@Mccarthy.xrp,1963-2-18,ROCK N ROLL,M
+1656,Emily,Jones,Emily@Jones.ukw,1978-8-27,ROCK N ROLL,M
+1657,Rocky,Carroll,Rocky@Carroll.qzz,1993-5-22,classic,M
+1658,Jacqueline,Rose,Jacqueline@Rose.vuv,1942-9-20,classic,M
+1659,Joe,Swamp,Joe@Swamp.ygl,1942-3-14,classic,M
+1660,Jim,Sefcovic,Jim@Sefcovic.fjv,1996-3-3,ROCK N ROLL,M
+1661,Marion,Lew,Marion@Lew.mrd,1980-2-27,JAZZ,F
+1662,Herbert,Roberts,Herbert@Roberts.pfk,1996-7-8,ROCK N ROLL,M
+1663,Carol,Killian,Carol@Killian.pom,1943-9-1,JAZZ,F
+1664,Gilbert,Long,Gilbert@Long.wmr,1950-8-3,JAZZ,M
+1665,Rachel,Musto,Rachel@Musto.ece,1996-7-1,ROCK N ROLL,M
+1666,Jeffrey,Bucknell,Jeffrey@Bucknell.qzn,1994-9-8,ORIONTAL,M
+1667,Sean,Pearson,Sean@Pearson.qla,1968-10-12,JAZZ,F
+1668,Jerry,Green,Jerry@Green.vfv,1983-11-26,ORIONTAL,M
+1669,Leticia,Watt,Leticia@Watt.xwe,1950-2-5,JAZZ,M
+1670,Angela,Benesh,Angela@Benesh.qvb,1974-9-21,ROCK N ROLL,M
+1671,Joanie,Barlow,Joanie@Barlow.nws,1987-4-18,JAZZ,F
+1672,Dale,Spruiell,Dale@Spruiell.dss,2002-2-1,ORIONTAL,F
+1673,Opal,Coleman,Opal@Coleman.bew,2005-9-14,ROCK N ROLL,M
+1674,Jeremy,Bostwick,Jeremy@Bostwick.tiy,1981-3-5,ROCK N ROLL,M
+1675,Robert,Orourke,Robert@Orourke.kro,1952-9-3,classic,M
+1676,Ricky,Guzman,Ricky@Guzman.sjs,2002-11-9,ORIONTAL,M
+1677,Karen,Mezzatesta,Karen@Mezzatesta.let,1973-10-21,classic,M
+1678,Jerome,Shaw,Jerome@Shaw.iqp,1972-8-10,classic,M
+1679,Jessica,Jackson,Jessica@Jackson.qmp,1940-5-5,classic,M
+1680,Susan,Dunphy,Susan@Dunphy.jqo,2000-5-20,ROCK N ROLL,M
+1681,Pilar,Ragland,Pilar@Ragland.ztm,1964-3-1,JAZZ,F
+1682,Ellen,Stephens,Ellen@Stephens.cbp,1960-3-23,ORIONTAL,M
+1683,Miguel,Knowlton,Miguel@Knowlton.ncp,1954-2-21,classic,M
+1684,Mandy,Rubio,Mandy@Rubio.skg,1970-6-8,classic,M
+1685,Elizabeth,Baker,Elizabeth@Baker.ard,1975-10-1,ORIONTAL,M
+1686,Genevieve,White,Genevieve@White.inb,1963-10-15,classic,M
+1687,Rose,Ortiz,Rose@Ortiz.jyo,1981-3-15,JAZZ,F
+1688,Adam,Anderson,Adam@Anderson.akt,1954-11-10,JAZZ,M
+1689,Ralph,Cruz,Ralph@Cruz.qic,1943-12-15,ROCK N ROLL,M
+1690,Ricky,Stubblefield,Ricky@Stubblefield.rwh,1946-11-2,ROCK N ROLL,M
+1691,Leroy,Welborn,Leroy@Welborn.txl,1943-10-2,JAZZ,M
+1692,Marsha,Dorsch,Marsha@Dorsch.syc,1975-6-7,JAZZ,F
+1693,Martha,Desimone,Martha@Desimone.ver,1953-11-17,classic,M
+1694,Alexander,Patton,Alexander@Patton.ltu,1965-8-6,JAZZ,M
+1695,Dorothy,Feliciano,Dorothy@Feliciano.tvu,1962-10-12,ORIONTAL,F
+1696,Hubert,Hesterman,Hubert@Hesterman.qtu,2007-7-15,ORIONTAL,M
+1697,Jerome,Estler,Jerome@Estler.quu,1954-3-3,classic,M
+1698,Linda,Combs,Linda@Combs.pmp,1979-7-12,classic,M
+1699,Julie,Drake,Julie@Drake.iwf,1961-1-3,classic,F
+1700,Leo,Hobbs,Leo@Hobbs.amw,1971-11-25,ROCK N ROLL,F
+1701,Francisco,Gebo,Francisco@Gebo.lqd,1991-2-19,ROCK N ROLL,F
+1702,Nettie,Vasquez,Nettie@Vasquez.kac,1965-4-26,JAZZ,F
+1703,Katy,Delgado,Katy@Delgado.cwk,1980-12-10,classic,M
+1704,Elmer,Goldbach,Elmer@Goldbach.vah,1962-3-7,ROCK N ROLL,M
+1705,Bonnie,Washington,Bonnie@Washington.oza,1983-9-26,classic,M
+1706,Robert,Settles,Robert@Settles.yvd,1952-8-20,classic,F
+1707,Rebeca,Bliss,Rebeca@Bliss.nhb,1994-4-5,JAZZ,M
+1708,Mamie,Wilson,Mamie@Wilson.mcm,1968-5-17,ROCK N ROLL,M
+1709,Virgie,Meddaugh,Virgie@Meddaugh.fnk,1986-2-2,ROCK N ROLL,M
+1710,Lillian,Morris,Lillian@Morris.fgj,1994-1-23,ORIONTAL,F
+1711,Karen,Westover,Karen@Westover.icf,1995-7-11,ROCK N ROLL,F
+1712,Vernon,Mason,Vernon@Mason.mdm,1989-6-25,JAZZ,M
+1713,Phyllis,Malek,Phyllis@Malek.ifi,1942-6-2,JAZZ,F
+1714,Erin,Davis,Erin@Davis.meq,1978-9-6,JAZZ,F
+1715,Kristi,Kitsmiller,Kristi@Kitsmiller.sab,1981-4-11,ROCK N ROLL,M
+1716,Katharine,Whitlock,Katharine@Whitlock.yny,1985-1-26,JAZZ,F
+1717,Luis,Abercrombie,Luis@Abercrombie.laq,1993-5-28,ROCK N ROLL,M
+1718,Hellen,Anderson,Hellen@Anderson.yhf,1953-5-7,ORIONTAL,F
+1719,Jennifer,Frias,Jennifer@Frias.tts,1985-10-13,ORIONTAL,M
+1720,Allison,Dewey,Allison@Dewey.ffx,1951-10-24,classic,M
+1721,Craig,Sliva,Craig@Sliva.fec,1990-2-23,classic,F
+1722,Harvey,Lamarche,Harvey@Lamarche.ijn,1967-1-6,ROCK N ROLL,M
+1723,Harry,Dewitt,Harry@Dewitt.skc,2009-7-11,JAZZ,M
+1724,Danny,Garroutte,Danny@Garroutte.dcm,2009-1-10,classic,M
+1725,William,Morris,William@Morris.vlj,1969-9-25,JAZZ,M
+1726,Philomena,Provost,Philomena@Provost.wpb,1999-9-16,ROCK N ROLL,M
+1727,Sylvia,Rodriguez,Sylvia@Rodriguez.emo,1998-6-13,ORIONTAL,M
+1728,Andrea,Andrus,Andrea@Andrus.qfq,2006-12-6,ORIONTAL,F
+1729,Virginia,Henley,Virginia@Henley.sap,1945-7-13,ORIONTAL,M
+1730,Jacob,Soto,Jacob@Soto.atk,1981-1-14,ROCK N ROLL,M
+1731,Robin,White,Robin@White.gco,1969-11-15,classic,F
+1732,Fernando,Olden,Fernando@Olden.kcn,1964-2-16,classic,M
+1733,Brian,Huntley,Brian@Huntley.bqr,1948-3-25,ROCK N ROLL,M
+1734,Diann,Smith,Diann@Smith.amz,1940-9-5,ROCK N ROLL,F
+1735,Ernest,Erway,Ernest@Erway.mcp,1978-3-22,ORIONTAL,M
+1736,Elisha,Brown,Elisha@Brown.dwq,2000-4-22,ORIONTAL,M
+1737,Charles,Meadows,Charles@Meadows.apc,2007-1-9,ROCK N ROLL,M
+1738,Charles,Frye,Charles@Frye.qpw,1951-12-26,ROCK N ROLL,F
+1739,Edwin,Rice,Edwin@Rice.kdk,1944-7-22,classic,F
+1740,Marie,Furstenberg,Marie@Furstenberg.axu,1956-9-8,JAZZ,M
+1741,Donald,Isenhour,Donald@Isenhour.unq,2003-5-9,ORIONTAL,M
+1742,Peter,Cruz,Peter@Cruz.sdu,1950-7-24,ORIONTAL,M
+1743,Joseph,Perry,Joseph@Perry.dse,1951-6-8,JAZZ,M
+1744,Christine,Inman,Christine@Inman.ayt,1958-11-11,JAZZ,M
+1745,Emma,Marietta,Emma@Marietta.lmp,1968-1-26,ORIONTAL,M
+1746,Courtney,Riley,Courtney@Riley.rvr,1990-2-18,ROCK N ROLL,M
+1747,Cathy,Carley,Cathy@Carley.huj,2006-12-18,classic,M
+1748,Bobby,Coffman,Bobby@Coffman.bld,2001-3-8,ORIONTAL,M
+1749,Arlene,Rawling,Arlene@Rawling.gkl,1982-11-13,JAZZ,F
+1750,Lorraine,Moore,Lorraine@Moore.oox,1958-8-16,JAZZ,F
+1751,Lloyd,Forman,Lloyd@Forman.kwg,1956-7-27,ROCK N ROLL,M
+1752,Hal,Martinez,Hal@Martinez.gru,1946-10-4,ROCK N ROLL,F
+1753,Tanya,Conner,Tanya@Conner.xax,1978-6-12,ROCK N ROLL,M
+1754,Harold,Nelson,Harold@Nelson.dxz,1972-11-20,ORIONTAL,M
+1755,Mary,Natoli,Mary@Natoli.grg,1968-12-26,ORIONTAL,F
+1756,Lori,Sewell,Lori@Sewell.smk,2007-8-19,classic,M
+1757,Jerrold,Brockman,Jerrold@Brockman.flm,1989-6-19,ORIONTAL,M
+1758,Ruben,Partin,Ruben@Partin.ndu,1977-3-24,ROCK N ROLL,M
+1759,Frederick,Combs,Frederick@Combs.ndk,1999-9-10,JAZZ,M
+1760,Olga,Brown,Olga@Brown.rts,2005-6-10,ROCK N ROLL,M
+1761,John,Harmon,John@Harmon.iyw,2002-12-27,classic,F
+1762,Edward,Vala,Edward@Vala.jpr,1976-11-8,JAZZ,M
+1763,Elizabeth,Holcomb,Elizabeth@Holcomb.jiu,1975-10-13,ORIONTAL,M
+1764,Wayne,Creed,Wayne@Creed.zuw,1975-3-10,ORIONTAL,M
+1765,Richard,Pipes,Richard@Pipes.dyg,1943-11-26,ROCK N ROLL,M
+1766,James,Rutledge,James@Rutledge.yjf,2000-7-6,classic,F
+1767,David,Purvis,David@Purvis.ams,1949-2-17,JAZZ,M
+1768,Susan,Mcbride,Susan@Mcbride.qln,1989-8-13,JAZZ,M
+1769,Randal,Farnum,Randal@Farnum.hnq,2001-10-13,classic,M
+1770,Lenore,Fitzgerald,Lenore@Fitzgerald.doi,1989-12-1,ROCK N ROLL,M
+1771,Raymond,Brooks,Raymond@Brooks.ubd,2004-5-11,classic,M
+1772,Charlie,Greer,Charlie@Greer.gwg,1966-11-16,ROCK N ROLL,F
+1773,Kevin,Sayco,Kevin@Sayco.uin,1970-8-17,JAZZ,M
+1774,Walter,Eckhardt,Walter@Eckhardt.sfs,2005-9-2,ORIONTAL,M
+1775,Arthur,Murphy,Arthur@Murphy.xqh,1973-3-23,ROCK N ROLL,M
+1776,Richard,Duvall,Richard@Duvall.kax,1986-7-20,JAZZ,M
+1777,Mark,Hunt,Mark@Hunt.nos,1998-2-12,ORIONTAL,M
+1778,Madelaine,Hanus,Madelaine@Hanus.txa,2003-10-23,ORIONTAL,M
+1779,Danielle,Weakland,Danielle@Weakland.fph,1989-9-8,ROCK N ROLL,M
+1780,Richard,Marin,Richard@Marin.zih,1991-5-23,JAZZ,M
+1781,Angela,Lackey,Angela@Lackey.uhn,1944-9-7,JAZZ,M
+1782,Charlotte,Gazaille,Charlotte@Gazaille.jmu,1947-6-15,JAZZ,F
+1783,Carmen,Dick,Carmen@Dick.jtr,1995-5-9,ORIONTAL,F
+1784,Jennifer,Torres,Jennifer@Torres.ecu,1950-10-1,ROCK N ROLL,M
+1785,Paul,Miller,Paul@Miller.iip,1967-12-5,JAZZ,M
+1786,Kevin,Risch,Kevin@Risch.acv,1996-10-21,ROCK N ROLL,F
+1787,Hector,Winchenbach,Hector@Winchenbach.szn,1982-7-8,JAZZ,M
+1788,Michael,Coleman,Michael@Coleman.sas,1942-7-16,classic,M
+1789,Manuel,Graham,Manuel@Graham.vzg,2001-6-16,JAZZ,F
+1790,Ernest,Miller,Ernest@Miller.ann,1944-4-21,ROCK N ROLL,F
+1791,Joshua,Laws,Joshua@Laws.uwf,1996-3-11,ROCK N ROLL,M
+1792,Emily,Long,Emily@Long.aas,1991-10-20,classic,M
+1793,Vance,Meyer,Vance@Meyer.uch,2007-10-19,ROCK N ROLL,F
+1794,Lora,Hatfield,Lora@Hatfield.hqr,1967-1-16,JAZZ,F
+1795,Agnes,Davis,Agnes@Davis.ycl,1954-7-23,JAZZ,M
+1796,Christen,Mckenzie,Christen@Mckenzie.ahh,1978-12-19,ORIONTAL,M
+1797,Robert,Wilson,Robert@Wilson.svp,2003-9-24,classic,M
+1798,David,Armstrong,David@Armstrong.dhb,1954-4-12,classic,M
+1799,Debra,Figueroa,Debra@Figueroa.zrm,1953-10-21,ROCK N ROLL,M
+1800,Harry,Kittleson,Harry@Kittleson.gjj,1948-1-5,JAZZ,M
+1801,Edwina,Dixon,Edwina@Dixon.bbg,1963-12-17,JAZZ,F
+1802,Travis,Xiong,Travis@Xiong.yre,2003-6-21,ROCK N ROLL,F
+1803,Joyce,Ford,Joyce@Ford.sbf,1942-3-17,JAZZ,F
+1804,Helen,Leonard,Helen@Leonard.dye,1961-9-21,ROCK N ROLL,M
+1805,Chris,Simcoe,Chris@Simcoe.pea,2000-1-23,JAZZ,M
+1806,Brenda,Rosen,Brenda@Rosen.ymr,1947-11-16,JAZZ,M
+1807,Charles,Fix,Charles@Fix.cft,1963-11-24,ORIONTAL,M
+1808,Sally,Juarez,Sally@Juarez.sba,1985-10-21,classic,M
+1809,Jason,Larson,Jason@Larson.zzd,1973-9-20,ORIONTAL,M
+1810,Barbara,Mata,Barbara@Mata.wiu,1989-5-24,ROCK N ROLL,M
+1811,Joann,Perry,Joann@Perry.nst,1992-2-26,JAZZ,M
+1812,David,Beaumont,David@Beaumont.hsn,1970-6-24,classic,M
+1813,Troy,Budzynski,Troy@Budzynski.pbr,1984-10-26,ORIONTAL,M
+1814,Megan,Illiano,Megan@Illiano.mqg,1966-9-9,ROCK N ROLL,F
+1815,Glenna,Borcherding,Glenna@Borcherding.bso,1968-2-15,ROCK N ROLL,M
+1816,Debra,Arbogast,Debra@Arbogast.xyj,1973-4-8,ROCK N ROLL,M
+1817,James,Eury,James@Eury.oxl,1951-1-13,classic,M
+1818,Carole,Thomas,Carole@Thomas.atu,1952-1-2,JAZZ,M
+1819,Rodrigo,Hanson,Rodrigo@Hanson.azs,1962-9-7,ROCK N ROLL,M
+1820,Stanley,Serrano,Stanley@Serrano.hwu,1942-1-22,classic,F
+1821,Adam,Whitfield,Adam@Whitfield.mzu,1998-11-22,ROCK N ROLL,F
+1822,John,Sittloh,John@Sittloh.ezs,1943-2-17,ORIONTAL,F
+1823,Lavern,Moore,Lavern@Moore.xai,1998-11-10,ORIONTAL,M
+1824,Roberta,Schlau,Roberta@Schlau.jaa,2008-10-8,ORIONTAL,F
+1825,Todd,Adams,Todd@Adams.bvr,2000-1-10,ROCK N ROLL,M
+1826,Lynette,Hartman,Lynette@Hartman.keh,1994-12-4,ORIONTAL,M
+1827,Marlene,Hearn,Marlene@Hearn.uwo,1982-4-4,JAZZ,M
+1828,Stephen,Pooler,Stephen@Pooler.akx,1963-1-27,ROCK N ROLL,M
+1829,Antonio,Golan,Antonio@Golan.esa,1999-7-23,JAZZ,M
+1830,Gregory,Beatty,Gregory@Beatty.geb,1966-11-15,ORIONTAL,M
+1831,Michael,Provino,Michael@Provino.lkx,1943-12-16,ROCK N ROLL,M
+1832,Christopher,Visher,Christopher@Visher.khx,1950-1-21,JAZZ,M
+1833,Albert,Coble,Albert@Coble.teu,1945-10-24,classic,M
+1834,Louis,Barnett,Louis@Barnett.qqb,1955-12-24,JAZZ,M
+1835,Wendy,Logan,Wendy@Logan.oay,2001-12-2,ROCK N ROLL,M
+1836,Stephen,Saucier,Stephen@Saucier.vlm,1955-1-23,classic,M
+1837,Robert,Coleman,Robert@Coleman.myp,1992-3-4,classic,F
+1838,Chad,Varron,Chad@Varron.abu,1987-10-19,ROCK N ROLL,M
+1839,Andrea,Scott,Andrea@Scott.kkj,1973-5-15,JAZZ,M
+1840,Edith,Aronow,Edith@Aronow.jnl,1993-11-19,ORIONTAL,M
+1841,Margaret,Gray,Margaret@Gray.ubl,2005-3-23,JAZZ,M
+1842,Connie,Gorham,Connie@Gorham.nee,1958-5-17,ORIONTAL,M
+1843,Jerome,Hawkins,Jerome@Hawkins.gxs,1962-3-1,ORIONTAL,F
+1844,Felipe,Giorgio,Felipe@Giorgio.hhj,1961-8-26,ORIONTAL,F
+1845,Kendra,Pate,Kendra@Pate.fym,2000-7-28,ROCK N ROLL,M
+1846,Coralie,Hall,Coralie@Hall.nex,1967-7-28,classic,M
+1847,Joseph,Weatherall,Joseph@Weatherall.gpz,1985-9-18,ORIONTAL,F
+1848,Priscilla,Hernandez,Priscilla@Hernandez.mgn,1975-8-14,JAZZ,M
+1849,Dean,Mattos,Dean@Mattos.fwq,1945-7-12,ORIONTAL,M
+1850,Enoch,Santarpia,Enoch@Santarpia.zjd,1979-4-19,ROCK N ROLL,F
+1851,Ellen,Burns,Ellen@Burns.skc,1959-8-1,ROCK N ROLL,M
+1852,Eric,Baker,Eric@Baker.zkl,1995-2-28,JAZZ,M
+1853,Janet,Harris,Janet@Harris.msm,2001-8-13,ROCK N ROLL,M
+1854,Erick,Jiminez,Erick@Jiminez.icl,1952-6-4,classic,M
+1855,Verla,Walker,Verla@Walker.uut,1953-12-11,classic,M
+1856,Melba,Powers,Melba@Powers.lma,2007-9-12,ORIONTAL,M
+1857,Elva,Hardy,Elva@Hardy.tdz,1971-1-26,ORIONTAL,M
+1858,Thomas,Sawyers,Thomas@Sawyers.hai,1991-12-2,classic,F
+1859,Pauline,Luna,Pauline@Luna.ktc,2003-2-24,JAZZ,M
+1860,Belinda,Rojas,Belinda@Rojas.syd,1951-10-25,classic,M
+1861,Donald,Stewart,Donald@Stewart.tbf,1948-1-26,ORIONTAL,M
+1862,Harold,Ames,Harold@Ames.mdg,1974-12-5,ROCK N ROLL,F
+1863,Tyler,Joiner,Tyler@Joiner.bdt,2007-3-13,JAZZ,M
+1864,John,Mason,John@Mason.iys,2007-1-14,classic,M
+1865,Alpha,Manygoats,Alpha@Manygoats.fyc,2000-12-16,classic,M
+1866,Edmond,Keen,Edmond@Keen.wzz,1945-6-6,classic,M
+1867,Joan,Reynolds,Joan@Reynolds.ser,1979-5-14,ROCK N ROLL,M
+1868,Teri,Jefferson,Teri@Jefferson.nof,1976-4-10,ROCK N ROLL,M
+1869,Eric,Hedley,Eric@Hedley.okq,1993-12-19,JAZZ,M
+1870,Michael,Williams,Michael@Williams.qir,1962-4-11,classic,M
+1871,Cassandra,Buckley,Cassandra@Buckley.ouv,1983-3-17,ROCK N ROLL,M
+1872,Harvey,Swoope,Harvey@Swoope.spq,1963-12-10,ORIONTAL,M
+1873,Sharon,Reed,Sharon@Reed.tzj,1969-1-2,JAZZ,M
+1874,Frances,Tovar,Frances@Tovar.osy,2001-7-12,classic,M
+1875,Ruby,Foran,Ruby@Foran.lfa,1948-6-17,classic,M
+1876,Janice,Wood,Janice@Wood.pps,1965-7-23,ORIONTAL,M
+1877,Dorine,Sesco,Dorine@Sesco.hmw,2006-11-11,ROCK N ROLL,F
+1878,Helen,Marcus,Helen@Marcus.zev,1997-9-5,ORIONTAL,F
+1879,Angela,Juarez,Angela@Juarez.xrc,1958-12-15,ORIONTAL,M
+1880,Laura,Shelstad,Laura@Shelstad.imq,1943-9-1,ORIONTAL,M
+1881,Nathaniel,Murphy,Nathaniel@Murphy.qog,1958-3-10,ROCK N ROLL,M
+1882,Robert,Luong,Robert@Luong.rcg,1962-4-23,JAZZ,M
+1883,Brian,Sorkin,Brian@Sorkin.ggv,1999-11-15,JAZZ,M
+1884,Eric,Lecky,Eric@Lecky.gco,1961-1-3,classic,M
+1885,Regina,Martinez,Regina@Martinez.cmz,1974-3-24,ORIONTAL,M
+1886,Carol,Khouri,Carol@Khouri.fyh,1955-6-27,classic,M
+1887,Jeffery,Roman,Jeffery@Roman.fvz,1949-8-1,JAZZ,M
+1888,Ramon,Arnold,Ramon@Arnold.int,1948-6-23,ORIONTAL,M
+1889,Shelia,Davis,Shelia@Davis.ugk,1979-5-9,JAZZ,F
+1890,Justin,Niles,Justin@Niles.jkc,2005-11-6,ORIONTAL,M
+1891,Elmer,Simmons,Elmer@Simmons.uqm,1998-11-1,ORIONTAL,F
+1892,Janice,Ramos,Janice@Ramos.vea,2008-1-19,JAZZ,M
+1893,Courtney,Resendez,Courtney@Resendez.igf,1968-4-1,classic,M
+1894,David,Kestner,David@Kestner.txr,1959-3-21,JAZZ,F
+1895,Loraine,Yoshimura,Loraine@Yoshimura.qfj,1969-6-14,ROCK N ROLL,M
+1896,Marx,Wu,Marx@Wu.ovg,2001-1-17,classic,F
+1897,James,Miles,James@Miles.zon,2001-1-19,ORIONTAL,M
+1898,Barry,Trent,Barry@Trent.slo,1991-2-4,ROCK N ROLL,M
+1899,Arthur,Volcko,Arthur@Volcko.npb,1948-6-11,ROCK N ROLL,M
+1900,Charles,Joseph,Charles@Joseph.hkx,1976-9-8,classic,M
+1901,Dale,Mellott,Dale@Mellott.wlw,1982-6-16,JAZZ,M
+1902,Leroy,Thach,Leroy@Thach.gzr,1988-11-28,JAZZ,M
+1903,Eleanor,Funston,Eleanor@Funston.lts,1978-9-27,ORIONTAL,M
+1904,Hallie,Hise,Hallie@Hise.etv,1973-12-5,ROCK N ROLL,F
+1905,Maria,Wilgus,Maria@Wilgus.cmt,1947-2-23,ROCK N ROLL,M
+1906,Andres,Viera,Andres@Viera.vpz,1955-1-10,JAZZ,M
+1907,Cynthia,Oneill,Cynthia@Oneill.sae,1993-6-14,ROCK N ROLL,M
+1908,Gigi,Pritchard,Gigi@Pritchard.qja,1960-8-8,ORIONTAL,F
+1909,Ann,Ryder,Ann@Ryder.orx,1993-2-22,ROCK N ROLL,M
+1910,Tom,Dunn,Tom@Dunn.sew,1973-7-20,JAZZ,M
+1911,Rafael,Litke,Rafael@Litke.qsf,1957-5-26,classic,M
+1912,Vincent,Natali,Vincent@Natali.wnx,1977-9-23,JAZZ,M
+1913,Mark,Maust,Mark@Maust.cck,1982-9-21,classic,M
+1914,Justin,Garvey,Justin@Garvey.hdh,1941-8-8,JAZZ,F
+1915,Kathleen,Olander,Kathleen@Olander.bbc,2000-10-22,ROCK N ROLL,F
+1916,Lupe,Montgomery,Lupe@Montgomery.tat,1955-12-1,ROCK N ROLL,M
+1917,Frankie,Phillips,Frankie@Phillips.bce,1977-11-17,ORIONTAL,M
+1918,Ashley,Young,Ashley@Young.tvl,1995-9-17,classic,F
+1919,Jennifer,Dec,Jennifer@Dec.vew,1986-4-20,JAZZ,F
+1920,Eric,Johnston,Eric@Johnston.hhw,1981-7-28,JAZZ,M
+1921,Mary,Andrade,Mary@Andrade.sco,1956-3-6,ROCK N ROLL,F
+1922,Jimmie,Sedillo,Jimmie@Sedillo.sld,2003-1-20,ROCK N ROLL,M
+1923,Lindsay,Cooper,Lindsay@Cooper.yhv,1957-7-4,classic,F
+1924,Nancy,Paul,Nancy@Paul.nrc,1952-1-15,ROCK N ROLL,M
+1925,Victoria,Thierry,Victoria@Thierry.cdq,1949-7-3,classic,M
+1926,Roberta,Kutz,Roberta@Kutz.qtt,2006-8-28,JAZZ,F
+1927,Pamela,Dvorak,Pamela@Dvorak.nbw,2005-2-25,classic,M
+1928,Chad,Houchins,Chad@Houchins.ete,1945-4-17,classic,M
+1929,Robert,Sellers,Robert@Sellers.ear,1977-1-14,classic,F
+1930,Jill,Bynum,Jill@Bynum.jyq,1994-2-24,JAZZ,M
+1931,Rory,Young,Rory@Young.oum,1980-1-24,JAZZ,F
+1932,Maria,Redel,Maria@Redel.fom,1953-6-5,classic,F
+1933,Clarence,Wells,Clarence@Wells.nzo,1955-12-23,ORIONTAL,M
+1934,Joan,Hosler,Joan@Hosler.syg,1971-5-8,ORIONTAL,M
+1935,Richard,Watts,Richard@Watts.bpi,1962-9-14,ORIONTAL,M
+1936,William,Graham,William@Graham.kxm,1977-5-4,JAZZ,F
+1937,Richard,Jackson,Richard@Jackson.lsu,2004-3-12,ROCK N ROLL,M
+1938,Kevin,Mcintyre,Kevin@Mcintyre.gtp,1969-1-21,JAZZ,M
+1939,Martin,Scott,Martin@Scott.hcz,1985-10-20,JAZZ,M
+1940,Frances,Byers,Frances@Byers.qre,1995-7-16,classic,M
+1941,Eduardo,Jones,Eduardo@Jones.zrw,1958-11-21,JAZZ,F
+1942,Kelly,Greene,Kelly@Greene.pyx,1946-7-18,classic,F
+1943,Barbara,Guzman,Barbara@Guzman.mwk,2000-8-18,classic,M
+1944,Alfredo,Hawkins,Alfredo@Hawkins.uuw,1965-8-9,classic,F
+1945,Rudolph,Trotz,Rudolph@Trotz.mow,1959-6-13,classic,F
+1946,Bruce,Clifton,Bruce@Clifton.xha,1958-12-26,JAZZ,M
+1947,Esther,Gomez,Esther@Gomez.xzf,1981-12-3,ORIONTAL,M
+1948,Elaine,Lohrenz,Elaine@Lohrenz.anz,2009-12-19,JAZZ,F
+1949,Hannah,Erhart,Hannah@Erhart.slk,1997-12-25,classic,M
+1950,Shelly,Armenta,Shelly@Armenta.psp,1961-9-11,ORIONTAL,F
+1951,Stephen,Rabren,Stephen@Rabren.ogz,1972-12-1,classic,M
+1952,Mary,Wilkes,Mary@Wilkes.msi,1956-1-21,ROCK N ROLL,F
+1953,Charles,Mayer,Charles@Mayer.ruz,1982-7-3,ORIONTAL,M
+1954,Joel,Christensen,Joel@Christensen.kfu,2003-1-28,JAZZ,F
+1955,Linda,Holmes,Linda@Holmes.sjm,1943-8-11,ROCK N ROLL,M
+1956,Robert,Bogosh,Robert@Bogosh.bfm,1964-11-24,ORIONTAL,F
+1957,William,Tamez,William@Tamez.cqs,1943-11-1,JAZZ,F
+1958,Joseph,Lopez,Joseph@Lopez.ucs,1976-12-24,JAZZ,M
+1959,Mary,Heberling,Mary@Heberling.ack,1945-6-1,ORIONTAL,F
+1960,Irene,Levites,Irene@Levites.nqg,1949-1-25,ROCK N ROLL,M
+1961,Marisa,Schnelder,Marisa@Schnelder.tsz,1976-6-7,JAZZ,M
+1962,John,Morrison,John@Morrison.hnu,1963-1-27,ORIONTAL,M
+1963,Sarah,Carey,Sarah@Carey.jiv,2007-6-9,classic,M
+1964,Bruce,Bravo,Bruce@Bravo.kmy,1993-8-16,ORIONTAL,M
+1965,Elizabeth,Turner,Elizabeth@Turner.fnp,1988-10-10,ROCK N ROLL,M
+1966,Shawn,Davis,Shawn@Davis.ctf,1958-1-25,ROCK N ROLL,M
+1967,William,Plummer,William@Plummer.uck,2001-5-12,classic,F
+1968,Allen,Russell,Allen@Russell.hwk,1980-5-8,ROCK N ROLL,M
+1969,David,Nagao,David@Nagao.ike,1963-10-5,JAZZ,F
+1970,Valerie,Grady,Valerie@Grady.yxl,1995-8-4,JAZZ,F
+1971,Joseph,Mobley,Joseph@Mobley.hmq,2008-8-4,ROCK N ROLL,M
+1972,Patricia,Diaz,Patricia@Diaz.pyp,1971-12-14,ORIONTAL,M
+1973,Martha,Ares,Martha@Ares.nnc,1996-8-28,classic,M
+1974,Mary,Lauria,Mary@Lauria.fac,1969-5-10,ROCK N ROLL,M
+1975,Joseph,Shellum,Joseph@Shellum.wrm,1987-5-23,ORIONTAL,M
+1976,Angela,Wortman,Angela@Wortman.lhu,1966-10-14,classic,F
+1977,Julia,Fernandez,Julia@Fernandez.wdb,1982-8-15,ORIONTAL,M
+1978,Jennifer,Stephens,Jennifer@Stephens.kwl,1960-6-17,JAZZ,M
+1979,Lindsay,Knight,Lindsay@Knight.wjk,2007-1-24,classic,M
+1980,Charles,Mullis,Charles@Mullis.jxb,1971-4-25,classic,F
+1981,Linda,Campos,Linda@Campos.tas,1991-8-7,ORIONTAL,M
+1982,Floyd,Allen,Floyd@Allen.trm,1954-11-23,JAZZ,M
+1983,Thomas,Kettl,Thomas@Kettl.sjv,1960-5-27,classic,F
+1984,James,Wells,James@Wells.yxy,1949-10-13,ROCK N ROLL,M
+1985,Maryann,Scott,Maryann@Scott.cyr,2004-3-21,classic,F
+1986,Ricky,Pulido,Ricky@Pulido.imj,1989-4-20,classic,M
+1987,Nancy,Medina,Nancy@Medina.zgc,1956-10-19,ORIONTAL,F
+1988,Cory,Templeton,Cory@Templeton.jpk,1967-4-21,ORIONTAL,M
+1989,Brock,Musser,Brock@Musser.tzt,1979-8-16,ROCK N ROLL,F
+1990,Amalia,Konon,Amalia@Konon.yjy,1974-12-1,classic,M
+1991,Bronwyn,Stockton,Bronwyn@Stockton.xfs,1966-2-28,classic,M
+1992,Mary,Christensen,Mary@Christensen.ybx,2002-2-5,ORIONTAL,M
+1993,James,Deluca,James@Deluca.xfk,2000-10-26,ORIONTAL,M
+1994,David,Manning,David@Manning.hlc,1956-1-14,JAZZ,M
+1995,Alan,Johnson,Alan@Johnson.fxk,1973-10-11,JAZZ,M
+1996,Marcelino,Mcdonald,Marcelino@Mcdonald.egk,1954-11-22,ORIONTAL,M
+1997,Carlos,Fish,Carlos@Fish.zyp,1948-1-5,classic,M
+1998,Leonel,Lee,Leonel@Lee.qho,1951-8-12,JAZZ,M
+1999,Robert,Sanchez,Robert@Sanchez.ebw,2003-11-25,ROCK N ROLL,M
+2000,Warren,Claxton,Warren@Claxton.dvl,1972-9-20,ORIONTAL,M
+2001,Annie,Gorby,Annie@Gorby.trc,1990-5-5,ROCK N ROLL,M
+2002,Florence,Harris,Florence@Harris.niy,1941-11-10,classic,F
+2003,Betty,Boyd,Betty@Boyd.gwl,1947-4-25,ROCK N ROLL,M
+2004,Shannon,Arnold,Shannon@Arnold.tov,1981-4-12,JAZZ,M
+2005,Glenda,Obradovich,Glenda@Obradovich.wty,1994-1-12,ORIONTAL,F
+2006,Jennifer,Hollister,Jennifer@Hollister.pzq,2004-2-9,JAZZ,M
+2007,Angela,Escobar,Angela@Escobar.rxv,1993-10-21,ORIONTAL,F
+2008,Craig,Napier,Craig@Napier.oxm,1952-6-11,classic,M
+2009,Maria,Holmes,Maria@Holmes.icu,2009-11-24,classic,M
+2010,James,Henrie,James@Henrie.bfn,1964-2-14,classic,M
+2011,Sandra,Maupin,Sandra@Maupin.gri,1982-3-21,ROCK N ROLL,F
+2012,Mark,Yarborough,Mark@Yarborough.hoo,1968-3-12,JAZZ,M
+2013,Donald,Prickett,Donald@Prickett.qbi,1974-2-14,classic,F
+2014,Robert,Luiz,Robert@Luiz.xvt,1989-10-26,JAZZ,M
+2015,Susan,Mathew,Susan@Mathew.bsl,1978-1-4,ORIONTAL,M
+2016,Ernie,Ruzich,Ernie@Ruzich.edv,1981-2-1,ROCK N ROLL,F
+2017,Thomas,Crim,Thomas@Crim.yky,1982-3-5,ORIONTAL,M
+2018,Tiffany,Tep,Tiffany@Tep.mju,1978-8-15,ORIONTAL,M
+2019,Cindy,Madlock,Cindy@Madlock.sbb,1961-3-18,ROCK N ROLL,F
+2020,James,Lehnortt,James@Lehnortt.tvc,2005-1-21,JAZZ,F
+2021,Billie,Schachter,Billie@Schachter.nrc,1960-5-2,JAZZ,M
+2022,Leann,Neuman,Leann@Neuman.jvy,1948-6-15,classic,M
+2023,Shaunta,Helton,Shaunta@Helton.nqr,1988-10-22,JAZZ,M
+2024,Dennis,Aguilera,Dennis@Aguilera.gex,1986-9-3,JAZZ,F
+2025,Edward,Parish,Edward@Parish.flb,1982-9-14,ORIONTAL,M
+2026,Rebecca,Wynn,Rebecca@Wynn.odi,1974-6-13,classic,M
+2027,Robert,Lindgren,Robert@Lindgren.eej,2003-11-11,JAZZ,F
+2028,Eric,Rue,Eric@Rue.imf,1967-9-27,ROCK N ROLL,M
+2029,Barbara,Hurst,Barbara@Hurst.hnq,1977-2-16,classic,M
+2030,Glen,Anderson,Glen@Anderson.ttl,1962-11-20,classic,M
+2031,Nina,Quinn,Nina@Quinn.jal,1959-5-12,JAZZ,M
+2032,Richard,Duval,Richard@Duval.zmp,1981-9-22,JAZZ,M
+2033,Russell,Robertson,Russell@Robertson.lrn,1998-1-14,ORIONTAL,M
+2034,Patricia,Morton,Patricia@Morton.dvd,1971-11-16,classic,M
+2035,Peggy,Haymaker,Peggy@Haymaker.qfd,1981-1-25,classic,M
+2036,Rebecca,Zielinski,Rebecca@Zielinski.les,1979-10-4,ROCK N ROLL,M
+2037,Richard,Tsang,Richard@Tsang.azk,1996-10-9,JAZZ,M
+2038,Mark,Snyder,Mark@Snyder.wiz,1969-3-28,ORIONTAL,M
+2039,Paulina,Castro,Paulina@Castro.eeh,1963-8-24,JAZZ,F
+2040,Susan,Degreenia,Susan@Degreenia.lde,1995-1-26,classic,M
+2041,Jeanine,Miller,Jeanine@Miller.jtu,1972-1-8,ORIONTAL,M
+2042,Kelly,Jones,Kelly@Jones.pks,1979-11-28,ROCK N ROLL,M
+2043,Jerry,Becker,Jerry@Becker.yun,1987-6-12,ROCK N ROLL,M
+2044,Herman,Schwenk,Herman@Schwenk.ssl,1959-1-23,JAZZ,M
+2045,Mary,Hance,Mary@Hance.vgu,1972-6-16,classic,M
+2046,Regina,Gallagher,Regina@Gallagher.gyo,1964-6-16,classic,F
+2047,Daniel,Roberts,Daniel@Roberts.twl,2007-4-5,classic,M
+2048,Mark,Franklin,Mark@Franklin.vvk,1968-3-9,ORIONTAL,M
+2049,Doris,Simmons,Doris@Simmons.gqg,1972-1-11,ROCK N ROLL,M
+2050,Josephine,Roberts,Josephine@Roberts.fgv,1967-10-9,JAZZ,M
+2051,John,Narine,John@Narine.fpf,1991-4-25,JAZZ,M
+2052,June,Kelly,June@Kelly.dsj,2007-5-22,ROCK N ROLL,M
+2053,Bryant,Francis,Bryant@Francis.itv,1944-6-12,ORIONTAL,M
+2054,Keith,Pearson,Keith@Pearson.flr,1980-11-11,JAZZ,F
+2055,Victor,Grieco,Victor@Grieco.akn,1982-2-7,ROCK N ROLL,F
+2056,Christina,Bauer,Christina@Bauer.wol,2003-6-18,classic,F
+2057,Roger,Bath,Roger@Bath.pxi,1941-2-23,ROCK N ROLL,F
+2058,Judith,Sera,Judith@Sera.uxu,2001-7-6,ORIONTAL,M
+2059,Bernice,Williams,Bernice@Williams.qvf,1951-5-28,classic,F
+2060,Alexander,Baker,Alexander@Baker.dli,1995-6-25,classic,M
+2061,Joe,Hernandez,Joe@Hernandez.qao,1956-1-26,classic,M
+2062,Jeffrey,Wilkins,Jeffrey@Wilkins.xzp,1965-6-22,ORIONTAL,M
+2063,Brandon,Anderson,Brandon@Anderson.ueo,1955-2-23,classic,M
+2064,Theresa,Wagner,Theresa@Wagner.rpl,1972-1-2,ROCK N ROLL,M
+2065,Jimmie,Winn,Jimmie@Winn.xrh,1986-2-17,ORIONTAL,F
+2066,Malcolm,Carr,Malcolm@Carr.ybs,1960-3-2,classic,F
+2067,Cindy,Hetrick,Cindy@Hetrick.wut,1970-8-16,classic,M
+2068,John,Rose,John@Rose.crz,1967-1-11,ORIONTAL,M
+2069,Joan,Morrow,Joan@Morrow.suo,1981-10-8,JAZZ,M
+2070,Sheila,Knoke,Sheila@Knoke.oqk,1974-11-1,classic,F
+2071,Amanda,Weber,Amanda@Weber.urh,1980-8-2,ORIONTAL,F
+2072,Marion,Headrick,Marion@Headrick.qsq,1960-6-4,JAZZ,F
+2073,Johnny,Draper,Johnny@Draper.egw,1941-10-19,ORIONTAL,M
+2074,James,Rinks,James@Rinks.joy,1946-11-10,ORIONTAL,M
+2075,Michael,Luciani,Michael@Luciani.hah,1955-7-8,classic,M
+2076,Annie,Lee,Annie@Lee.hoi,1968-9-27,classic,M
+2077,Sarah,Pitts,Sarah@Pitts.rpo,1999-6-6,ORIONTAL,M
+2078,Michael,Hutchins,Michael@Hutchins.xvi,1962-3-17,classic,F
+2079,Victoria,Gipson,Victoria@Gipson.vbf,1977-4-11,JAZZ,F
+2080,Robin,Darden,Robin@Darden.pdq,1945-5-11,JAZZ,M
+2081,Jo,Malley,Jo@Malley.wys,1971-5-5,ROCK N ROLL,M
+2082,Alison,Johnson,Alison@Johnson.jpw,2001-11-15,ORIONTAL,M
+2083,Michael,Mulkey,Michael@Mulkey.nfj,1941-3-28,JAZZ,M
+2084,Daniel,Sipriano,Daniel@Sipriano.irq,1980-1-4,ROCK N ROLL,M
+2085,Carmel,Lowery,Carmel@Lowery.cgo,1951-12-8,JAZZ,M
+2086,Kenneth,Dellinger,Kenneth@Dellinger.yrq,1940-7-6,ORIONTAL,F
+2087,Raymond,Neely,Raymond@Neely.kmi,1996-9-12,classic,F
+2088,Maria,Dewing,Maria@Dewing.yyl,1945-8-4,ROCK N ROLL,F
+2089,Andrea,Flynn,Andrea@Flynn.gja,1963-6-14,ORIONTAL,M
+2090,Kenneth,Mann,Kenneth@Mann.uuf,1956-9-24,classic,F
+2091,Sylvia,Stephens,Sylvia@Stephens.mnz,1989-6-16,ORIONTAL,F
+2092,Clyde,Leatherman,Clyde@Leatherman.wrd,1971-9-23,classic,F
+2093,Mary,Ensign,Mary@Ensign.kgn,2005-1-19,JAZZ,M
+2094,Paul,Roberts,Paul@Roberts.trw,1954-1-13,classic,M
+2095,John,Paulino,John@Paulino.vpq,1977-3-16,ROCK N ROLL,F
+2096,Luke,Gallagher,Luke@Gallagher.tyg,1963-11-21,classic,M
+2097,Ethel,Taylor,Ethel@Taylor.rhl,1952-8-14,JAZZ,M
+2098,Tara,Colon,Tara@Colon.ail,1985-11-2,ROCK N ROLL,M
+2099,Gregory,Stump,Gregory@Stump.dgg,2001-1-13,ORIONTAL,M
+2100,Peter,Broussard,Peter@Broussard.ldl,1975-9-16,classic,M
+2101,Maria,Stripling,Maria@Stripling.eio,1959-12-15,ORIONTAL,M
+2102,Eric,Moore,Eric@Moore.hde,1946-10-5,ORIONTAL,M
+2103,Charles,Harper,Charles@Harper.jjf,2003-5-6,ORIONTAL,M
+2104,Tanisha,Haas,Tanisha@Haas.ykc,1997-2-19,classic,M
+2105,Debbie,Fullard,Debbie@Fullard.ocx,1943-5-15,JAZZ,M
+2106,Robert,Jimenez,Robert@Jimenez.xgl,1979-11-24,ORIONTAL,F
+2107,Victoria,Huro,Victoria@Huro.ehk,1979-4-25,ORIONTAL,M
+2108,Christopher,Davis,Christopher@Davis.pgi,1968-11-8,ORIONTAL,F
+2109,Corey,Martz,Corey@Martz.mgi,1978-6-22,JAZZ,M
+2110,John,Ford,John@Ford.gqy,1961-8-17,ROCK N ROLL,M
+2111,Keith,Chun,Keith@Chun.tdv,1996-10-6,JAZZ,F
+2112,James,Dye,James@Dye.nok,1984-12-25,ROCK N ROLL,M
+2113,Jacqueline,Levitsky,Jacqueline@Levitsky.zid,1984-12-8,ORIONTAL,F
+2114,Ruben,Magera,Ruben@Magera.upi,1979-9-28,ORIONTAL,F
+2115,Julie,Williams,Julie@Williams.tiv,1961-8-22,classic,F
+2116,Cora,Babena,Cora@Babena.pxo,2002-5-9,classic,M
+2117,Janie,Mcclusky,Janie@Mcclusky.xdg,2006-5-25,classic,M
+2118,Travis,Mathis,Travis@Mathis.jge,1983-4-2,ORIONTAL,M
+2119,Joseph,Gianotti,Joseph@Gianotti.axi,2000-11-17,JAZZ,F
+2120,Joseph,Franks,Joseph@Franks.bpi,1992-5-23,JAZZ,F
+2121,Mary,Davis,Mary@Davis.zvu,1964-2-28,JAZZ,M
+2122,Dorothy,Sosa,Dorothy@Sosa.oym,1966-3-23,classic,M
+2123,Karissa,Micheau,Karissa@Micheau.nzc,1993-12-18,ROCK N ROLL,M
+2124,Linda,Taylor,Linda@Taylor.hhx,2001-3-24,JAZZ,F
+2125,Michael,Angeles,Michael@Angeles.zdz,1972-12-15,ROCK N ROLL,M
+2126,Patrick,Brown,Patrick@Brown.cbi,1991-1-22,ROCK N ROLL,M
+2127,Latonya,Mccallister,Latonya@Mccallister.vjd,1997-12-24,ROCK N ROLL,M
+2128,Michele,Bulat,Michele@Bulat.eud,1951-10-13,ROCK N ROLL,M
+2129,Edith,Carmant,Edith@Carmant.kyi,1958-10-16,classic,F
+2130,Hubert,Miller,Hubert@Miller.saj,1983-6-4,ORIONTAL,F
+2131,Eva,James,Eva@James.tiv,1988-8-9,classic,M
+2132,Dana,Harris,Dana@Harris.tem,1957-1-25,JAZZ,F
+2133,Albert,Corona,Albert@Corona.kkw,2005-9-7,classic,M
+2134,Travis,Blankenbaker,Travis@Blankenbaker.bob,1996-10-6,ORIONTAL,M
+2135,Manuel,Ochs,Manuel@Ochs.npl,1975-9-28,JAZZ,M
+2136,Nelson,Sheeler,Nelson@Sheeler.ljc,1963-12-6,JAZZ,M
+2137,Sandra,Monaco,Sandra@Monaco.mru,1973-12-19,classic,M
+2138,Kirk,Boddie,Kirk@Boddie.nwv,1999-5-22,ORIONTAL,F
+2139,Ella,Phillips,Ella@Phillips.rod,1957-6-2,JAZZ,M
+2140,Theresa,Meador,Theresa@Meador.ate,1997-6-22,ROCK N ROLL,M
+2141,Tonya,Murphy,Tonya@Murphy.gwc,1945-2-28,classic,M
+2142,Everette,Santamaria,Everette@Santamaria.ftg,1975-6-23,ORIONTAL,F
+2143,Donna,Daniels,Donna@Daniels.vbf,1955-3-18,ROCK N ROLL,M
+2144,Dennis,Walker,Dennis@Walker.tbx,2002-6-5,classic,M
+2145,Olga,Foster,Olga@Foster.kzg,1968-5-27,ROCK N ROLL,M
+2146,Cathleen,Wallace,Cathleen@Wallace.ncn,2006-3-28,JAZZ,M
+2147,Leah,Perkins,Leah@Perkins.zja,1985-6-21,classic,M
+2148,Irma,Calderon,Irma@Calderon.sxv,1984-2-3,classic,M
+2149,Alan,Waterson,Alan@Waterson.xke,1978-1-9,JAZZ,M
+2150,Susan,Armstrong,Susan@Armstrong.rks,1982-2-14,ORIONTAL,M
+2151,Lori,Ferreira,Lori@Ferreira.oki,1956-3-17,classic,M
+2152,Brad,Longoria,Brad@Longoria.mmq,1997-7-10,JAZZ,M
+2153,Daniel,Cardinal,Daniel@Cardinal.gyh,1957-3-8,JAZZ,M
+2154,Lois,Foree,Lois@Foree.ayz,1996-8-24,JAZZ,M
+2155,Kathleen,Bane,Kathleen@Bane.vtb,1954-9-19,JAZZ,M
+2156,Heather,Morris,Heather@Morris.fdz,1958-6-11,classic,M
+2157,John,Dillon,John@Dillon.ohj,1957-10-1,JAZZ,F
+2158,Raymond,Debuhr,Raymond@Debuhr.tqp,1982-8-4,ROCK N ROLL,M
+2159,Lillian,Wilcher,Lillian@Wilcher.rpe,1991-9-7,classic,M
+2160,Richard,Steward,Richard@Steward.kzx,1996-6-27,ORIONTAL,F
+2161,John,Engfer,John@Engfer.vbt,1964-4-28,ORIONTAL,M
+2162,Jack,Benson,Jack@Benson.rdl,1992-7-27,classic,M
+2163,Dwain,Poeschel,Dwain@Poeschel.edw,2000-10-28,classic,M
+2164,Jason,Jimeson,Jason@Jimeson.skv,2000-8-3,ROCK N ROLL,M
+2165,Harry,Aguino,Harry@Aguino.mrq,1999-3-2,classic,M
+2166,Kristen,Fellin,Kristen@Fellin.lzk,1957-6-13,ORIONTAL,M
+2167,Eugene,Brady,Eugene@Brady.zxw,1970-7-24,ROCK N ROLL,M
+2168,Russell,Martinez,Russell@Martinez.lkd,1943-1-10,JAZZ,F
+2169,Ami,Poff,Ami@Poff.esc,2001-12-6,classic,M
+2170,Christopher,Mccloskey,Christopher@Mccloskey.icv,1998-12-13,ORIONTAL,M
+2171,Thomas,James,Thomas@James.cjy,2008-10-14,JAZZ,M
+2172,Janet,Butler,Janet@Butler.szj,1943-4-13,classic,F
+2173,Beth,Torrez,Beth@Torrez.biq,1989-1-1,classic,F
+2174,Courtney,Tell,Courtney@Tell.wjj,1975-2-4,ROCK N ROLL,M
+2175,Vicky,Egge,Vicky@Egge.svf,1958-12-25,classic,M
+2176,Reginald,Stalling,Reginald@Stalling.zgp,1971-1-25,classic,M
+2177,Douglas,Perdomo,Douglas@Perdomo.mwi,1970-7-9,JAZZ,M
+2178,Jeanne,Fahey,Jeanne@Fahey.fex,1957-11-6,ORIONTAL,M
+2179,Summer,Jewell,Summer@Jewell.fvj,1974-6-11,JAZZ,M
+2180,James,Talley,James@Talley.nrq,1990-3-17,JAZZ,F
+2181,Brian,Lara,Brian@Lara.tst,1977-7-5,ROCK N ROLL,M
+2182,Gerald,Rhodes,Gerald@Rhodes.rnx,1995-3-23,ROCK N ROLL,M
+2183,Ashley,Mcallister,Ashley@Mcallister.ktn,1967-12-1,JAZZ,F
+2184,Lucille,Garcia,Lucille@Garcia.yme,1975-11-7,ORIONTAL,F
+2185,Virgie,Fess,Virgie@Fess.uef,1953-1-1,ROCK N ROLL,M
+2186,Patricia,Diehl,Patricia@Diehl.fft,2007-9-9,JAZZ,M
+2187,Mary,Rodriguez,Mary@Rodriguez.yjb,1954-7-2,ORIONTAL,M
+2188,Jamie,Taylor,Jamie@Taylor.thc,1978-9-10,classic,F
+2189,Derrick,Barrett,Derrick@Barrett.gly,1978-11-27,classic,M
+2190,Chris,Ehrhart,Chris@Ehrhart.pam,1948-11-11,classic,M
+2191,Christina,Latham,Christina@Latham.pgp,1994-3-26,ORIONTAL,M
+2192,Evelyn,Wood,Evelyn@Wood.obq,1949-7-3,classic,F
+2193,Diane,Crothers,Diane@Crothers.afc,1980-2-13,ROCK N ROLL,M
+2194,Amy,Quintana,Amy@Quintana.lhm,1989-3-14,ROCK N ROLL,M
+2195,Laura,Clapham,Laura@Clapham.pmv,1965-7-10,ORIONTAL,M
+2196,Nora,Locher,Nora@Locher.qps,1985-8-24,ORIONTAL,M
+2197,Shauna,Keys,Shauna@Keys.xzc,1988-9-16,ROCK N ROLL,F
+2198,Jeramy,Lowe,Jeramy@Lowe.nuw,1976-2-20,JAZZ,F
+2199,Sylvia,Bolton,Sylvia@Bolton.ssm,1982-11-6,ORIONTAL,F
+2200,Leigh,Woods,Leigh@Woods.mjg,1982-11-14,JAZZ,M
+2201,Iris,Ulrich,Iris@Ulrich.eti,1958-4-7,ROCK N ROLL,M
+2202,Hubert,Patterson,Hubert@Patterson.pet,1949-2-7,ROCK N ROLL,M
+2203,Hosea,Graves,Hosea@Graves.rwc,2006-3-18,ROCK N ROLL,F
+2204,Marilyn,Pritchard,Marilyn@Pritchard.sdg,2003-7-25,ORIONTAL,M
+2205,Pearl,Hummel,Pearl@Hummel.glv,1947-7-21,ORIONTAL,M
+2206,Kelly,Lico,Kelly@Lico.mso,1969-7-17,ORIONTAL,M
+2207,Madeline,Zayas,Madeline@Zayas.yqd,1971-3-17,classic,M
+2208,Thomas,Wilber,Thomas@Wilber.vap,2009-1-22,ORIONTAL,M
+2209,Victoria,Solis,Victoria@Solis.elf,1980-11-6,ORIONTAL,M
+2210,Hiram,Kendall,Hiram@Kendall.xmc,1981-11-16,ROCK N ROLL,M
+2211,William,Olea,William@Olea.jld,1966-5-28,JAZZ,F
+2212,Clara,Ortiz,Clara@Ortiz.qpy,1969-11-25,JAZZ,F
+2213,Carolyn,Guthrie,Carolyn@Guthrie.ghu,1987-3-21,ORIONTAL,F
+2214,Darin,Butler,Darin@Butler.gas,1945-8-2,classic,M
+2215,Ronald,Dotson,Ronald@Dotson.rea,1985-2-26,ROCK N ROLL,M
+2216,Lou,Schroeder,Lou@Schroeder.wrd,1982-8-17,ORIONTAL,M
+2217,Amy,Chavez,Amy@Chavez.fyr,1972-4-15,ROCK N ROLL,M
+2218,Rebecca,Albert,Rebecca@Albert.yof,1957-4-9,JAZZ,M
+2219,John,Sanders,John@Sanders.tzt,1959-1-24,classic,M
+2220,Shay,Veach,Shay@Veach.fvl,1953-7-9,JAZZ,F
+2221,Phuong,Moore,Phuong@Moore.fqw,1974-10-23,classic,F
+2222,Cheryl,Green,Cheryl@Green.kit,1940-12-4,ROCK N ROLL,M
+2223,Jose,Reeves,Jose@Reeves.vzt,1956-8-25,ORIONTAL,M
+2224,Claudia,Phillips,Claudia@Phillips.rdn,1951-6-24,JAZZ,M
+2225,George,Gilbert,George@Gilbert.bhv,1992-11-13,classic,M
+2226,Robert,Nesbitt,Robert@Nesbitt.cbk,1952-5-10,classic,F
+2227,Diane,Castano,Diane@Castano.obo,2009-2-16,JAZZ,F
+2228,Thomas,Gage,Thomas@Gage.ccu,1948-9-26,classic,M
+2229,Karen,Robinson,Karen@Robinson.lwo,1940-8-6,JAZZ,F
+2230,Charles,Clay,Charles@Clay.eks,1995-12-15,classic,M
+2231,Monica,Ison,Monica@Ison.tvm,1945-9-17,ORIONTAL,M
+2232,Raymond,Newyear,Raymond@Newyear.aly,1949-5-28,JAZZ,M
+2233,Rosemary,Burnett,Rosemary@Burnett.ghd,1983-7-3,ROCK N ROLL,F
+2234,Joyce,Peters,Joyce@Peters.mal,1965-12-1,ORIONTAL,M
+2235,Bill,Enriquez,Bill@Enriquez.unl,1975-9-3,classic,M
+2236,Joseph,Phillips,Joseph@Phillips.ykq,1950-11-7,JAZZ,F
+2237,Pauletta,Douglas,Pauletta@Douglas.wqe,1996-2-9,ORIONTAL,M
+2238,Lenora,Hall,Lenora@Hall.jtx,1985-10-23,classic,F
+2239,Brenda,Miller,Brenda@Miller.uwr,1990-5-5,classic,F
+2240,Jacqueline,Crawford,Jacqueline@Crawford.hsi,2005-4-18,JAZZ,F
+2241,Guy,White,Guy@White.vjj,1956-3-10,JAZZ,M
+2242,Lucille,Conn,Lucille@Conn.arn,1949-10-28,ROCK N ROLL,F
+2243,Camille,Ring,Camille@Ring.riw,1946-2-27,ORIONTAL,M
+2244,Darlene,Freeney,Darlene@Freeney.wpc,1992-6-9,ORIONTAL,F
+2245,Linda,Artis,Linda@Artis.axl,1953-2-20,classic,F
+2246,John,Harris,John@Harris.zwv,1953-5-14,ROCK N ROLL,M
+2247,Lynn,Schrader,Lynn@Schrader.lop,2000-1-11,classic,M
+2248,Alice,Simpson,Alice@Simpson.cip,1960-10-22,ROCK N ROLL,F
+2249,Richard,Driver,Richard@Driver.clv,1960-1-4,JAZZ,F
+2250,Richard,Beers,Richard@Beers.yfz,1954-9-18,ORIONTAL,M
+2251,Glenn,Francis,Glenn@Francis.hdx,1940-2-2,JAZZ,F
+2252,Marvin,Postel,Marvin@Postel.wyp,1944-9-21,JAZZ,F
+2253,Joanne,Rodriguez,Joanne@Rodriguez.ehk,1994-5-18,ORIONTAL,F
+2254,Kevin,Vargas,Kevin@Vargas.dez,1959-10-16,ORIONTAL,F
+2255,Oscar,Clower,Oscar@Clower.poe,1976-6-28,ORIONTAL,M
+2256,Ricardo,Olcott,Ricardo@Olcott.okt,1978-8-22,JAZZ,M
+2257,Steven,Thomas,Steven@Thomas.xmh,1996-7-19,ROCK N ROLL,F
+2258,Mark,Baker,Mark@Baker.xbn,1987-5-15,classic,F
+2259,Daniel,Smith,Daniel@Smith.zub,1980-2-28,ROCK N ROLL,M
+2260,Robert,Payne,Robert@Payne.hby,1978-11-22,ROCK N ROLL,M
+2261,Don,Hill,Don@Hill.plo,1950-12-26,ROCK N ROLL,F
+2262,Tyler,Perry,Tyler@Perry.jfb,1980-2-28,JAZZ,M
+2263,Sudie,Pychardo,Sudie@Pychardo.hxd,1985-6-2,classic,M
+2264,Madeline,Petersen,Madeline@Petersen.vhj,1952-12-18,classic,F
+2265,Steven,Black,Steven@Black.dov,1985-10-18,JAZZ,M
+2266,Rachel,Gabaldon,Rachel@Gabaldon.krr,2005-4-13,ORIONTAL,F
+2267,Scotty,Johnson,Scotty@Johnson.hui,1984-1-4,classic,M
+2268,Micheal,King,Micheal@King.sps,1980-4-6,ROCK N ROLL,F
+2269,Sandra,Wedel,Sandra@Wedel.cem,2006-2-2,ROCK N ROLL,F
+2270,Charles,Story,Charles@Story.nll,1947-9-11,ORIONTAL,M
+2271,Clay,Sikora,Clay@Sikora.gjq,1970-9-15,classic,M
+2272,Larry,Banks,Larry@Banks.kpl,1991-6-10,ORIONTAL,F
+2273,Tony,Douthitt,Tony@Douthitt.vox,1996-4-7,classic,M
+2274,Brooke,Gregg,Brooke@Gregg.dga,1994-8-18,ORIONTAL,F
+2275,Maria,Bruhn,Maria@Bruhn.bcl,2007-1-1,ORIONTAL,M
+2276,William,Paugh,William@Paugh.ing,1996-1-5,JAZZ,F
+2277,Steven,Breaux,Steven@Breaux.lgk,1964-4-5,classic,M
+2278,Joseph,Taylor,Joseph@Taylor.vqq,2006-2-11,ORIONTAL,M
+2279,Cheryl,Katechis,Cheryl@Katechis.rkm,1991-3-19,ROCK N ROLL,M
+2280,Hattie,Adan,Hattie@Adan.qwt,1997-10-1,ORIONTAL,M
+2281,Mary,Lopez,Mary@Lopez.vod,1949-10-15,ORIONTAL,M
+2282,Alicia,Gomez,Alicia@Gomez.ust,1980-6-19,ORIONTAL,F
+2283,Robert,Peters,Robert@Peters.jcn,2005-10-17,ORIONTAL,F
+2284,Larry,Lehn,Larry@Lehn.pdv,1985-12-3,JAZZ,M
+2285,Darnell,Melton,Darnell@Melton.ndv,1958-12-24,JAZZ,F
+2286,Jacqueline,Lasalle,Jacqueline@Lasalle.vmi,1963-6-14,ROCK N ROLL,M
+2287,Donna,Janeway,Donna@Janeway.axk,1989-6-8,ORIONTAL,M
+2288,Mary,Edwards,Mary@Edwards.evd,1964-5-9,classic,M
+2289,Joi,Ollendick,Joi@Ollendick.jbr,1972-12-14,JAZZ,M
+2290,Love,Session,Love@Session.xin,1975-10-3,classic,M
+2291,Armanda,Myers,Armanda@Myers.ujl,1995-3-17,ORIONTAL,M
+2292,Jennifer,Sheehy,Jennifer@Sheehy.hxs,1997-4-18,classic,M
+2293,Elsie,Schmitt,Elsie@Schmitt.rpz,1994-4-23,ORIONTAL,F
+2294,Larry,Jackson,Larry@Jackson.hqg,1975-4-9,classic,M
+2295,Robert,Sandstrom,Robert@Sandstrom.hem,2006-3-27,JAZZ,M
+2296,Fredrick,Hedman,Fredrick@Hedman.nep,1955-7-16,ROCK N ROLL,F
+2297,Ella,Platt,Ella@Platt.efm,1979-12-10,ROCK N ROLL,M
+2298,Louise,Gibbs,Louise@Gibbs.qqd,1998-1-17,JAZZ,F
+2299,Gary,Mattews,Gary@Mattews.zar,1972-5-13,classic,M
+2300,Joyce,Myers,Joyce@Myers.rmi,1991-3-25,JAZZ,F
+2301,Alexander,Sinkler,Alexander@Sinkler.vsm,1971-4-10,ROCK N ROLL,F
+2302,Michael,Marx,Michael@Marx.ntl,1998-4-17,JAZZ,M
+2303,Kenneth,Bryant,Kenneth@Bryant.sqk,1944-1-14,JAZZ,M
+2304,Carla,Koch,Carla@Koch.fmz,1945-6-24,classic,M
+2305,Jane,Gomez,Jane@Gomez.obq,2007-2-14,ROCK N ROLL,M
+2306,Charles,Brown,Charles@Brown.ehj,1955-5-21,JAZZ,M
+2307,Christopher,Wooten,Christopher@Wooten.mgs,1950-5-19,ROCK N ROLL,M
+2308,Timothy,Duffy,Timothy@Duffy.mit,1960-5-15,ORIONTAL,M
+2309,Julie,Hodges,Julie@Hodges.csd,2000-4-11,ORIONTAL,M
+2310,Laura,Stanley,Laura@Stanley.tbw,1976-2-14,ROCK N ROLL,M
+2311,Harry,Pribbenow,Harry@Pribbenow.pgj,1988-7-6,ROCK N ROLL,F
+2312,Amy,Toste,Amy@Toste.rjn,1992-10-26,ORIONTAL,F
+2313,William,Roberts,William@Roberts.pld,1999-9-6,classic,M
+2314,Howard,Canfield,Howard@Canfield.prr,1969-10-9,JAZZ,M
+2315,Jerry,Hall,Jerry@Hall.zds,1983-8-12,classic,M
+2316,Ruben,Taylor,Ruben@Taylor.hop,2000-8-7,ORIONTAL,M
+2317,Jason,Yates,Jason@Yates.hqx,1941-8-27,JAZZ,M
+2318,Alene,Davis,Alene@Davis.bly,1954-4-4,JAZZ,M
+2319,Rita,Jimenez,Rita@Jimenez.ije,1984-6-23,JAZZ,M
+2320,George,Gonzales,George@Gonzales.hqz,1968-5-7,ROCK N ROLL,M
+2321,Lori,Phillips,Lori@Phillips.qyw,1984-10-23,JAZZ,M
+2322,Julie,Kirk,Julie@Kirk.prt,1984-12-21,JAZZ,M
+2323,Elsie,Mcgee,Elsie@Mcgee.lkx,1971-12-6,JAZZ,F
+2324,John,Foster,John@Foster.gzf,1949-8-5,classic,M
+2325,Eric,Hogg,Eric@Hogg.cah,1992-12-26,ROCK N ROLL,F
+2326,Jessica,Shiver,Jessica@Shiver.dnm,1994-10-8,JAZZ,M
+2327,Elaine,Glover,Elaine@Glover.idv,1993-10-6,JAZZ,M
+2328,John,Floyd,John@Floyd.wha,1950-3-2,JAZZ,M
+2329,Omar,Williams,Omar@Williams.zdg,1958-12-11,ROCK N ROLL,M
+2330,Kevin,Alvaro,Kevin@Alvaro.eqf,1971-8-14,classic,F
+2331,Suzanne,Evans,Suzanne@Evans.zxy,1980-11-18,ROCK N ROLL,M
+2332,Ella,Brown,Ella@Brown.cwg,1969-1-21,ROCK N ROLL,F
+2333,Martha,Estrada,Martha@Estrada.ecw,1964-4-4,ROCK N ROLL,M
+2334,Michael,Weiss,Michael@Weiss.kzh,1973-11-5,ROCK N ROLL,F
+2335,Steve,Campbell,Steve@Campbell.pla,1965-8-11,ORIONTAL,F
+2336,Henry,Gray,Henry@Gray.uyj,1958-5-19,classic,M
+2337,Rebecca,Schulz,Rebecca@Schulz.qvf,1943-5-23,ORIONTAL,F
+2338,Vanessa,Ferrante,Vanessa@Ferrante.pgm,1941-5-2,ORIONTAL,M
+2339,Benita,Johnson,Benita@Johnson.rqw,1977-2-1,classic,M
+2340,Annie,Sims,Annie@Sims.pkh,1967-2-10,classic,M
+2341,Catherine,Williams,Catherine@Williams.tlw,1969-9-19,ROCK N ROLL,M
+2342,James,Hill,James@Hill.ixs,1968-12-7,ORIONTAL,M
+2343,Daniel,Mcgregor,Daniel@Mcgregor.rgz,1958-10-14,classic,F
+2344,Kirk,Mcpherson,Kirk@Mcpherson.xis,2004-5-14,ROCK N ROLL,F
+2345,Scott,Mcilwain,Scott@Mcilwain.iaz,1999-11-20,classic,F
+2346,Eric,Chester,Eric@Chester.lrk,1943-8-25,ORIONTAL,F
+2347,Rachel,Cureton,Rachel@Cureton.rlg,1957-1-23,ORIONTAL,M
+2348,Robert,Zielinski,Robert@Zielinski.pme,1973-5-25,classic,F
+2349,Leslie,Bartamian,Leslie@Bartamian.fkv,1943-11-3,JAZZ,M
+2350,Ella,Stites,Ella@Stites.liv,1948-10-3,JAZZ,F
+2351,Dorothy,Stark,Dorothy@Stark.xwg,1940-7-20,ROCK N ROLL,F
+2352,Ruby,Hennigan,Ruby@Hennigan.nny,1943-2-17,JAZZ,M
+2353,Brenda,Palacios,Brenda@Palacios.mzr,1987-1-11,classic,F
+2354,Brian,Sibrel,Brian@Sibrel.frz,1979-4-15,ORIONTAL,M
+2355,Audrey,Boyd,Audrey@Boyd.dwg,1946-3-27,JAZZ,F
+2356,Stacy,Dickey,Stacy@Dickey.zkq,1989-2-26,ROCK N ROLL,M
+2357,William,Nichols,William@Nichols.lpb,1954-8-9,JAZZ,F
+2358,Elsie,Noll,Elsie@Noll.kyh,2008-2-6,ORIONTAL,F
+2359,Felipe,Collins,Felipe@Collins.htk,1948-4-11,classic,F
+2360,Gabriel,Fisher,Gabriel@Fisher.wxq,1994-6-15,classic,M
+2361,Michael,Barr,Michael@Barr.qha,1967-6-12,ORIONTAL,F
+2362,Rebecca,Laflamme,Rebecca@Laflamme.njd,1943-10-13,JAZZ,M
+2363,Terrance,Lawson,Terrance@Lawson.cyt,1995-11-26,classic,F
+2364,Michelle,Reiley,Michelle@Reiley.top,1957-3-12,JAZZ,M
+2365,Charles,Dahle,Charles@Dahle.zvz,1992-4-10,classic,M
+2366,Derrick,Lineberry,Derrick@Lineberry.vus,1959-2-21,ORIONTAL,F
+2367,Vivian,Gentile,Vivian@Gentile.hli,2004-9-3,ORIONTAL,M
+2368,Harry,Jones,Harry@Jones.rgg,1965-4-3,ROCK N ROLL,F
+2369,Deanna,Koehler,Deanna@Koehler.glz,2003-6-25,JAZZ,M
+2370,George,Pater,George@Pater.tgv,1976-6-1,classic,F
+2371,Gladys,Baker,Gladys@Baker.iqv,1953-2-23,ORIONTAL,F
+2372,Patricia,Beall,Patricia@Beall.drx,1985-5-9,classic,M
+2373,Sidney,Holbrook,Sidney@Holbrook.rvv,2002-6-13,classic,F
+2374,Joshua,Eisner,Joshua@Eisner.abs,1957-2-2,classic,M
+2375,Clara,Oakley,Clara@Oakley.qfd,1943-3-13,ORIONTAL,M
+2376,Roscoe,Harris,Roscoe@Harris.hnt,1957-6-10,JAZZ,M
+2377,Martin,Fischetti,Martin@Fischetti.rhf,1957-7-14,ORIONTAL,M
+2378,Nancy,Scholz,Nancy@Scholz.jgt,1984-2-3,classic,M
+2379,Harold,Busher,Harold@Busher.eln,1969-8-24,classic,M
+2380,Ronald,Mann,Ronald@Mann.tou,1988-10-3,JAZZ,M
+2381,Heather,Nugent,Heather@Nugent.hhx,1991-6-11,ROCK N ROLL,M
+2382,Richard,Beasley,Richard@Beasley.faf,1949-7-2,ROCK N ROLL,F
+2383,Kenneth,Flores,Kenneth@Flores.bvu,1980-8-19,JAZZ,F
+2384,Timothy,Schmidt,Timothy@Schmidt.kqv,1968-10-4,classic,M
+2385,Eric,Griggs,Eric@Griggs.yyp,1951-1-26,ORIONTAL,M
+2386,Thomas,Clauson,Thomas@Clauson.eni,1999-3-17,JAZZ,M
+2387,Robert,Fowler,Robert@Fowler.xlz,1952-8-23,classic,F
+2388,Joe,Stafford,Joe@Stafford.oto,1996-5-9,ORIONTAL,F
+2389,Joellen,Damour,Joellen@Damour.wua,1967-11-7,JAZZ,M
+2390,Cindi,Davis,Cindi@Davis.upv,1984-6-15,classic,F
+2391,Anna,Amigon,Anna@Amigon.xpf,1972-1-10,JAZZ,M
+2392,Amanda,Hoskins,Amanda@Hoskins.spm,1999-7-27,classic,M
+2393,Connie,Hubbard,Connie@Hubbard.gsg,1969-3-2,JAZZ,M
+2394,Ida,Evans,Ida@Evans.znn,1941-7-10,ORIONTAL,M
+2395,Michael,Howe,Michael@Howe.wqz,1981-11-9,ORIONTAL,F
+2396,Beatrice,Wharton,Beatrice@Wharton.uvu,1965-11-6,classic,M
+2397,Clarence,Disher,Clarence@Disher.upn,1952-12-1,JAZZ,M
+2398,Andrew,Cooley,Andrew@Cooley.gru,1976-7-11,JAZZ,M
+2399,Brian,Burrows,Brian@Burrows.wtx,1978-2-8,ROCK N ROLL,M
+2400,Crystal,Harrison,Crystal@Harrison.qjq,2003-12-3,ORIONTAL,M
+2401,David,Altieri,David@Altieri.ege,1947-2-15,classic,M
+2402,Anthony,Mallory,Anthony@Mallory.hjp,1981-7-10,ROCK N ROLL,F
+2403,Richard,Sharpe,Richard@Sharpe.trp,1990-8-2,classic,M
+2404,Kirby,Deslauriers,Kirby@Deslauriers.tbs,1955-10-9,JAZZ,M
+2405,Peter,Ledbetter,Peter@Ledbetter.xcd,1970-7-9,ROCK N ROLL,F
+2406,Jesse,James,Jesse@James.vjj,1952-8-4,ROCK N ROLL,M
+2407,Felipe,West,Felipe@West.xcp,1980-6-14,ORIONTAL,F
+2408,Leroy,Spellman,Leroy@Spellman.dwa,1964-12-5,JAZZ,M
+2409,Solomon,Wilson,Solomon@Wilson.oso,1946-5-11,ORIONTAL,M
+2410,Clora,Canta,Clora@Canta.jjl,2007-6-7,classic,M
+2411,Lillian,Washington,Lillian@Washington.epl,1945-1-14,ORIONTAL,F
+2412,Kyle,Morales,Kyle@Morales.jas,1989-5-21,classic,M
+2413,Christopher,Powers,Christopher@Powers.jvi,1986-1-12,classic,F
+2414,Mary,Spies,Mary@Spies.ltj,1985-6-17,ORIONTAL,F
+2415,James,Stinson,James@Stinson.xyc,1996-12-28,ROCK N ROLL,F
+2416,Richard,Cuevas,Richard@Cuevas.ace,1993-8-19,ROCK N ROLL,M
+2417,Kathleen,Lucio,Kathleen@Lucio.fzy,2009-11-28,JAZZ,M
+2418,Shannon,Gordon,Shannon@Gordon.fxj,1988-4-23,ROCK N ROLL,M
+2419,Ronnie,Mooney,Ronnie@Mooney.fch,2005-11-20,ORIONTAL,M
+2420,Donna,Graves,Donna@Graves.eik,1999-2-17,JAZZ,M
+2421,Cecilia,Bridges,Cecilia@Bridges.dwg,1999-8-3,ROCK N ROLL,M
+2422,James,Figueroa,James@Figueroa.pvc,1959-6-11,ORIONTAL,M
+2423,Jenny,Treanor,Jenny@Treanor.osq,1943-6-12,ROCK N ROLL,F
+2424,Sherry,Richards,Sherry@Richards.ouu,1992-6-5,ORIONTAL,M
+2425,Rob,Walker,Rob@Walker.yep,1993-1-8,JAZZ,M
+2426,Ronald,Lincourt,Ronald@Lincourt.qoi,1947-10-25,ORIONTAL,M
+2427,Kevin,Boteilho,Kevin@Boteilho.vir,1963-10-1,classic,F
+2428,Jean,Donahue,Jean@Donahue.vqy,1976-4-28,classic,M
+2429,Ray,Thode,Ray@Thode.tjb,2003-10-3,classic,M
+2430,Grace,Banks,Grace@Banks.akv,1965-5-24,classic,F
+2431,Jennifer,Warren,Jennifer@Warren.waz,1978-7-24,ROCK N ROLL,F
+2432,Ann,Vogt,Ann@Vogt.hld,1986-3-25,classic,M
+2433,Evan,Franklin,Evan@Franklin.eey,2002-12-11,JAZZ,F
+2434,Al,Wilson,Al@Wilson.ihp,1943-11-24,JAZZ,M
+2435,Alfred,Hall,Alfred@Hall.znk,2004-8-4,JAZZ,M
+2436,Augustine,Marino,Augustine@Marino.hqc,1970-10-6,ORIONTAL,M
+2437,Willie,Clines,Willie@Clines.gwo,1982-3-17,ROCK N ROLL,M
+2438,Miguel,Mark,Miguel@Mark.qzz,1971-11-8,JAZZ,M
+2439,Michelle,Woltz,Michelle@Woltz.cyc,1967-1-28,classic,M
+2440,Juan,Tan,Juan@Tan.bmv,2003-11-19,JAZZ,M
+2441,Johnny,Oneil,Johnny@Oneil.lgb,1961-4-28,ORIONTAL,M
+2442,Gina,Hatcher,Gina@Hatcher.jxs,2008-5-9,ORIONTAL,F
+2443,Rose,Whiteley,Rose@Whiteley.ctc,1999-3-24,JAZZ,F
+2444,Jeffrey,Gomez,Jeffrey@Gomez.egc,1956-3-23,classic,M
+2445,Rene,Smith,Rene@Smith.tcn,1949-5-24,ORIONTAL,M
+2446,Amber,Miller,Amber@Miller.vzl,1960-11-14,ROCK N ROLL,M
+2447,Karen,Valdez,Karen@Valdez.rxh,1958-7-25,ORIONTAL,M
+2448,Thomas,Horn,Thomas@Horn.mlv,1948-2-26,ORIONTAL,M
+2449,Ida,Deponte,Ida@Deponte.ejr,1947-7-16,ORIONTAL,F
+2450,Christine,Bailey,Christine@Bailey.waz,1944-5-8,classic,M
+2451,Julian,Gibson,Julian@Gibson.huf,2005-11-5,ORIONTAL,M
+2452,Bruno,Dawkins,Bruno@Dawkins.jds,1971-12-28,JAZZ,M
+2453,Cindy,Crowder,Cindy@Crowder.wpg,1986-7-1,classic,M
+2454,Noemi,Bercier,Noemi@Bercier.ywt,1960-2-5,ROCK N ROLL,F
+2455,Fred,Holderby,Fred@Holderby.mnd,1965-4-28,JAZZ,M
+2456,Wendy,Risley,Wendy@Risley.qqf,1989-3-28,ROCK N ROLL,M
+2457,Elijah,Foster,Elijah@Foster.xqe,1981-6-21,ORIONTAL,F
+2458,Russel,Phelps,Russel@Phelps.ywh,1980-4-9,JAZZ,M
+2459,Devin,Hines,Devin@Hines.qnm,1943-8-13,JAZZ,F
+2460,Joyce,Porter,Joyce@Porter.sqx,1978-6-18,ORIONTAL,M
+2461,Charles,Tornatore,Charles@Tornatore.tjn,1998-7-6,classic,M
+2462,Jessica,Woodley,Jessica@Woodley.iey,1968-2-3,ORIONTAL,M
+2463,Inez,Gray,Inez@Gray.jtw,1945-4-26,ROCK N ROLL,M
+2464,Helen,Peachey,Helen@Peachey.iaj,1974-10-19,JAZZ,M
+2465,Lenora,Alberto,Lenora@Alberto.ipz,1998-9-4,classic,F
+2466,Beth,Congrove,Beth@Congrove.vxq,1963-7-9,classic,M
+2467,Alfred,Mckinney,Alfred@Mckinney.otc,1995-4-4,JAZZ,M
+2468,Jason,Pilkington,Jason@Pilkington.fwy,1963-10-14,JAZZ,M
+2469,Donald,Horsley,Donald@Horsley.wfm,1972-8-25,classic,M
+2470,Barbara,Richards,Barbara@Richards.kkf,1955-1-19,ORIONTAL,M
+2471,James,Quevedo,James@Quevedo.mjo,1987-9-18,ROCK N ROLL,M
+2472,Mary,Smith,Mary@Smith.ckh,1953-12-28,JAZZ,M
+2473,George,Barthelemy,George@Barthelemy.ska,2005-3-9,classic,F
+2474,Danielle,Olson,Danielle@Olson.nod,1998-9-11,ORIONTAL,M
+2475,George,Soren,George@Soren.dnt,1981-12-11,ORIONTAL,M
+2476,Margarita,Hafer,Margarita@Hafer.nza,1940-3-28,ORIONTAL,M
+2477,Vernon,Odom,Vernon@Odom.qsm,1941-1-7,ROCK N ROLL,F
+2478,Lydia,Boulet,Lydia@Boulet.wnd,1995-11-26,ORIONTAL,M
+2479,Robert,Williams,Robert@Williams.hdq,1978-7-21,classic,M
+2480,Richard,Farnell,Richard@Farnell.djr,1975-8-28,ORIONTAL,M
+2481,Maybelle,Acosta,Maybelle@Acosta.pfu,2009-11-26,JAZZ,M
+2482,Janet,Brody,Janet@Brody.glf,2007-3-18,JAZZ,M
+2483,Susanne,Toney,Susanne@Toney.kty,1944-4-8,ROCK N ROLL,F
+2484,Derek,Watkins,Derek@Watkins.wax,1943-2-22,ROCK N ROLL,M
+2485,Cecelia,Jenkins,Cecelia@Jenkins.bdu,1992-9-8,ROCK N ROLL,M
+2486,Ray,Fleagle,Ray@Fleagle.gbn,2006-6-22,classic,M
+2487,Hazel,Mcinerney,Hazel@Mcinerney.rgo,1982-6-24,ORIONTAL,M
+2488,Desiree,Miller,Desiree@Miller.xes,2009-4-4,ROCK N ROLL,F
+2489,Ida,Rao,Ida@Rao.gfi,2004-6-6,JAZZ,M
+2490,Shirley,Grimes,Shirley@Grimes.nac,1991-11-20,JAZZ,M
+2491,Brenda,Laumbach,Brenda@Laumbach.uel,1969-9-25,ROCK N ROLL,M
+2492,Tammy,Randel,Tammy@Randel.nju,2004-5-28,JAZZ,M
+2493,Clara,Ramos,Clara@Ramos.qni,2007-10-2,ORIONTAL,M
+2494,Genevieve,Bennington,Genevieve@Bennington.tii,2001-4-13,ORIONTAL,M
+2495,Marilyn,Jones,Marilyn@Jones.zjr,1977-12-16,ORIONTAL,M
+2496,Eric,Lyman,Eric@Lyman.rlf,2005-3-19,ORIONTAL,M
+2497,Corey,Balensiefen,Corey@Balensiefen.mvg,1952-7-28,classic,M
+2498,George,Johnson,George@Johnson.iey,2001-2-10,JAZZ,M
+2499,Lester,Bryant,Lester@Bryant.ujk,1982-12-13,JAZZ,M
+2500,Donald,Granger,Donald@Granger.rkz,1983-1-23,ROCK N ROLL,F
+2501,Yolanda,Miller,Yolanda@Miller.bom,1964-12-13,ROCK N ROLL,M
+2502,Teresa,Magee,Teresa@Magee.tre,1946-4-26,classic,M
+2503,Kelly,Obrien,Kelly@Obrien.vzt,1999-12-2,classic,M
+2504,Patricia,Williams,Patricia@Williams.fcs,1958-8-26,classic,M
+2505,Maria,Nolan,Maria@Nolan.wvp,1940-1-4,JAZZ,M
+2506,Lula,Worcester,Lula@Worcester.egp,1952-3-21,classic,M
+2507,Monica,Day,Monica@Day.kxc,1942-8-19,JAZZ,F
+2508,Tommy,Mooney,Tommy@Mooney.rga,2009-2-20,classic,F
+2509,Suzie,Ferrari,Suzie@Ferrari.nym,1985-9-16,ORIONTAL,F
+2510,Lawrence,Johnson,Lawrence@Johnson.zgi,1994-5-27,ORIONTAL,M
+2511,Robert,Vanhorn,Robert@Vanhorn.cta,1957-7-6,ROCK N ROLL,M
+2512,Kristal,Manners,Kristal@Manners.lkj,1981-1-14,ORIONTAL,F
+2513,Tracey,Waterhouse,Tracey@Waterhouse.yar,1997-3-24,JAZZ,F
+2514,Adrienne,Maxwell,Adrienne@Maxwell.bjk,1992-10-2,ORIONTAL,M
+2515,Carrie,Rehlander,Carrie@Rehlander.jtd,1995-8-26,classic,M
+2516,Carolyn,Lilly,Carolyn@Lilly.fhz,1957-3-22,classic,F
+2517,Richard,Haifley,Richard@Haifley.hzp,1957-8-28,classic,M
+2518,Lydia,Ellis,Lydia@Ellis.iwn,1973-1-3,ORIONTAL,M
+2519,Steven,Drye,Steven@Drye.kwh,1995-10-20,JAZZ,M
+2520,Michelle,Glaus,Michelle@Glaus.sri,1976-4-4,classic,M
+2521,William,Ward,William@Ward.czd,1994-4-14,JAZZ,M
+2522,Adam,Pischke,Adam@Pischke.ftf,2002-5-15,JAZZ,F
+2523,Salome,Hartsfield,Salome@Hartsfield.azz,1992-11-3,ROCK N ROLL,F
+2524,Susan,Camacho,Susan@Camacho.ebb,1987-6-8,ORIONTAL,F
+2525,Barbara,Utley,Barbara@Utley.rcv,1975-1-9,classic,M
+2526,Diana,Rhee,Diana@Rhee.aai,1945-8-26,classic,F
+2527,Arthur,Chapman,Arthur@Chapman.dmd,1974-3-28,JAZZ,M
+2528,Roosevelt,Goad,Roosevelt@Goad.kdg,2004-3-2,ORIONTAL,F
+2529,Kathleen,Armendarez,Kathleen@Armendarez.rkp,1960-9-2,JAZZ,M
+2530,Karina,Collins,Karina@Collins.rzn,1958-9-7,classic,F
+2531,Donald,Ledford,Donald@Ledford.jgo,1974-2-11,ORIONTAL,M
+2532,Faith,Pellerin,Faith@Pellerin.wpw,1973-12-1,classic,M
+2533,Ernest,Valerio,Ernest@Valerio.ajb,2002-9-2,JAZZ,F
+2534,Ronald,Kern,Ronald@Kern.myc,1983-10-28,ROCK N ROLL,M
+2535,Anna,Siler,Anna@Siler.uoq,1975-11-23,ORIONTAL,M
+2536,Timothy,Stindt,Timothy@Stindt.eoi,1989-4-25,ROCK N ROLL,M
+2537,Margaret,Lipham,Margaret@Lipham.wio,2000-4-15,ROCK N ROLL,M
+2538,Joseph,Perez,Joseph@Perez.mkm,1958-10-4,ORIONTAL,M
+2539,Stephanie,Mcelroy,Stephanie@Mcelroy.dgd,2000-2-28,JAZZ,F
+2540,Barbara,Wayne,Barbara@Wayne.vmx,1942-1-5,ROCK N ROLL,M
+2541,Janet,Spann,Janet@Spann.kdx,1991-12-13,ROCK N ROLL,F
+2542,Larry,Silverstein,Larry@Silverstein.xfb,1978-3-18,classic,M
+2543,Nichole,Williams,Nichole@Williams.vde,1968-7-15,classic,F
+2544,Judy,Stoeffler,Judy@Stoeffler.abs,2002-8-23,ROCK N ROLL,F
+2545,Dudley,Crum,Dudley@Crum.ksq,1993-10-21,classic,M
+2546,Catherine,Skinner,Catherine@Skinner.vds,1989-6-27,classic,F
+2547,Kimberly,Wells,Kimberly@Wells.kgw,1955-9-15,ROCK N ROLL,M
+2548,Elizabeth,Derks,Elizabeth@Derks.olt,1967-1-3,classic,M
+2549,Chris,Graybill,Chris@Graybill.wom,1996-4-27,classic,M
+2550,Claudia,Kitamura,Claudia@Kitamura.byj,1971-6-1,classic,M
+2551,Felicia,Le,Felicia@Le.swd,1985-4-13,ORIONTAL,M
+2552,Johnny,Vernon,Johnny@Vernon.zse,1948-5-16,ORIONTAL,F
+2553,Peter,Hedrick,Peter@Hedrick.oek,1973-2-11,JAZZ,M
+2554,Ronald,Colon,Ronald@Colon.jwo,1978-6-3,JAZZ,M
+2555,Maria,Swaine,Maria@Swaine.xyu,1970-4-3,ROCK N ROLL,F
+2556,Janet,Stuber,Janet@Stuber.wiv,1985-1-7,JAZZ,F
+2557,Ollie,Birge,Ollie@Birge.jzq,1945-12-13,classic,F
+2558,Traci,Gammon,Traci@Gammon.gjx,1981-3-19,JAZZ,M
+2559,Debra,Moore,Debra@Moore.iie,1977-7-22,ROCK N ROLL,M
+2560,Ralph,Stanley,Ralph@Stanley.fiq,1958-9-8,ROCK N ROLL,M
+2561,Mary,Rosenholm,Mary@Rosenholm.man,1989-6-16,ROCK N ROLL,M
+2562,Michael,Crawford,Michael@Crawford.gnv,1953-3-13,classic,M
+2563,Janet,Ferraro,Janet@Ferraro.zsr,1993-9-20,ROCK N ROLL,M
+2564,Bradford,White,Bradford@White.wgz,1971-3-24,ORIONTAL,M
+2565,Vincent,Diaz,Vincent@Diaz.hyd,1950-6-21,classic,M
+2566,Anna,Milligan,Anna@Milligan.gcl,1948-6-25,ORIONTAL,F
+2567,Robert,Galvez,Robert@Galvez.mmo,1956-3-15,ROCK N ROLL,M
+2568,Melanie,Melton,Melanie@Melton.obo,1970-1-27,classic,M
+2569,Tamara,Montgomery,Tamara@Montgomery.aiv,1949-9-23,JAZZ,M
+2570,Nathan,Nelson,Nathan@Nelson.xbl,2006-3-16,classic,F
+2571,Betty,Harris,Betty@Harris.zqy,1963-5-9,classic,M
+2572,Jesse,Perng,Jesse@Perng.pej,1987-12-27,classic,M
+2573,Jessica,Johnston,Jessica@Johnston.fqy,1990-2-25,JAZZ,F
+2574,Jimmie,Novetsky,Jimmie@Novetsky.brg,1960-4-21,classic,M
+2575,Anna,Thom,Anna@Thom.jqh,1957-6-1,ORIONTAL,M
+2576,Summer,Cumings,Summer@Cumings.dgm,2006-6-3,ORIONTAL,M
+2577,Donna,Gowers,Donna@Gowers.jqs,2007-9-8,JAZZ,M
+2578,Kevin,Laford,Kevin@Laford.bxw,1984-1-4,ORIONTAL,M
+2579,Sean,Gillis,Sean@Gillis.shv,1956-2-17,ROCK N ROLL,M
+2580,James,Duttry,James@Duttry.rwj,1965-12-5,classic,M
+2581,Todd,Herrera,Todd@Herrera.ymk,1955-7-14,ORIONTAL,F
+2582,Rod,Gallaway,Rod@Gallaway.wcj,1950-9-28,classic,M
+2583,Adam,Okeefe,Adam@Okeefe.tkt,2005-4-3,JAZZ,M
+2584,Joni,Gerald,Joni@Gerald.nei,1952-8-27,ROCK N ROLL,M
+2585,Michelle,Kakos,Michelle@Kakos.iuy,1968-4-8,classic,M
+2586,Justin,Rodriguez,Justin@Rodriguez.cxh,1943-3-10,ROCK N ROLL,M
+2587,Terry,Sullivan,Terry@Sullivan.wrt,1990-3-4,classic,M
+2588,Margaret,Bankhead,Margaret@Bankhead.nkb,1953-12-5,ORIONTAL,M
+2589,Randy,Johnson,Randy@Johnson.swc,1997-6-27,classic,F
+2590,Rhoda,Mcbride,Rhoda@Mcbride.zhi,2007-8-13,JAZZ,M
+2591,Cheryl,Swinton,Cheryl@Swinton.fcw,1941-8-25,ROCK N ROLL,M
+2592,Dean,Dawson,Dean@Dawson.kcz,1998-9-7,JAZZ,M
+2593,James,Beran,James@Beran.iet,1988-2-10,ROCK N ROLL,M
+2594,Heather,Westerman,Heather@Westerman.loz,2007-8-25,ORIONTAL,M
+2595,Mary,Johnson,Mary@Johnson.xln,1949-7-12,ORIONTAL,F
+2596,Angela,Araiza,Angela@Araiza.lji,1955-11-7,classic,F
+2597,Alma,Thibeau,Alma@Thibeau.xvv,1992-1-11,ROCK N ROLL,M
+2598,Esther,Gienger,Esther@Gienger.vfb,1963-1-5,ROCK N ROLL,F
+2599,Laura,Moore,Laura@Moore.xuh,1982-5-18,ORIONTAL,M
+2600,Thomas,Patterson,Thomas@Patterson.yun,1974-6-22,JAZZ,M
+2601,Marcella,Reddish,Marcella@Reddish.zzw,1981-12-6,JAZZ,F
+2602,Sophie,Jones,Sophie@Jones.owt,1971-6-13,JAZZ,M
+2603,Sophie,Blockmon,Sophie@Blockmon.tzh,1975-5-24,ORIONTAL,F
+2604,Douglas,Peacock,Douglas@Peacock.njs,1986-11-5,ORIONTAL,M
+2605,Margaret,Thomas,Margaret@Thomas.kar,1962-7-28,classic,M
+2606,Joyce,Davis,Joyce@Davis.raw,1972-10-28,classic,M
+2607,Patrick,Pritchard,Patrick@Pritchard.pqj,1942-1-19,ORIONTAL,M
+2608,Adell,White,Adell@White.ycr,1976-11-23,ROCK N ROLL,M
+2609,Pat,Affolter,Pat@Affolter.yid,1989-8-2,ORIONTAL,M
+2610,Helen,Snyder,Helen@Snyder.drw,1960-5-20,JAZZ,M
+2611,Thelma,Cullen,Thelma@Cullen.lin,1978-6-14,ORIONTAL,F
+2612,Linwood,Warren,Linwood@Warren.mzg,1991-9-10,ROCK N ROLL,F
+2613,Milo,Olson,Milo@Olson.prs,1993-7-26,JAZZ,F
+2614,Felicia,Mcgurk,Felicia@Mcgurk.dfc,1973-12-3,ORIONTAL,M
+2615,Dave,Gray,Dave@Gray.uyz,1965-1-21,JAZZ,M
+2616,Lisa,Clark,Lisa@Clark.zaa,1949-9-2,JAZZ,F
+2617,Nancy,Turman,Nancy@Turman.avy,1975-4-22,ROCK N ROLL,F
+2618,Amy,Rothfuss,Amy@Rothfuss.emj,1991-9-9,classic,F
+2619,Debbie,Kong,Debbie@Kong.cid,2002-11-26,ROCK N ROLL,M
+2620,Miranda,Maxwell,Miranda@Maxwell.oxe,2009-12-27,classic,M
+2621,Donald,Joiner,Donald@Joiner.wba,1990-1-15,ROCK N ROLL,M
+2622,Celia,Michaels,Celia@Michaels.dxt,1993-4-19,ORIONTAL,M
+2623,Lois,Brady,Lois@Brady.dbt,1995-10-25,JAZZ,F
+2624,Kenneth,Whipple,Kenneth@Whipple.dmd,2003-7-25,classic,M
+2625,Lydia,Spencer,Lydia@Spencer.lmb,1969-11-24,classic,F
+2626,Loretta,Gomez,Loretta@Gomez.azi,1970-3-1,ROCK N ROLL,M
+2627,Diane,Adler,Diane@Adler.jcy,1996-7-23,classic,M
+2628,Ashley,Hutchinson,Ashley@Hutchinson.wjl,1958-1-6,classic,M
+2629,Shawn,Mckenzie,Shawn@Mckenzie.lmu,2005-7-4,ROCK N ROLL,F
+2630,Chang,Warren,Chang@Warren.bpb,1997-12-25,ROCK N ROLL,M
+2631,Frances,White,Frances@White.bzz,2004-10-19,JAZZ,M
+2632,Elizabeth,Kahn,Elizabeth@Kahn.gzk,1981-11-23,ROCK N ROLL,M
+2633,Marie,Knuth,Marie@Knuth.qbn,1946-11-25,JAZZ,M
+2634,Jessica,Weisenfluh,Jessica@Weisenfluh.xfn,1944-3-16,ORIONTAL,M
+2635,Tony,Ruch,Tony@Ruch.rff,1963-10-27,ROCK N ROLL,M
+2636,John,Moseley,John@Moseley.pcr,1949-5-13,ROCK N ROLL,F
+2637,Leonard,Townsend,Leonard@Townsend.tmr,2008-4-22,JAZZ,M
+2638,Napoleon,Plater,Napoleon@Plater.yfn,1975-6-26,ROCK N ROLL,M
+2639,Ivory,Mitchell,Ivory@Mitchell.vqh,1994-1-21,classic,M
+2640,Michael,White,Michael@White.ppo,1945-3-5,ROCK N ROLL,M
+2641,Robert,Weingard,Robert@Weingard.qdy,1977-7-28,classic,F
+2642,Helen,Kantor,Helen@Kantor.qvh,1953-10-8,JAZZ,F
+2643,Robert,Williams,Robert@Williams.ibp,1967-8-18,JAZZ,M
+2644,Rosario,Brown,Rosario@Brown.bcu,1948-1-18,ROCK N ROLL,M
+2645,Buddy,Collin,Buddy@Collin.auu,1967-8-3,JAZZ,M
+2646,James,Reyes,James@Reyes.yim,1941-4-1,JAZZ,F
+2647,Jonathan,Kruger,Jonathan@Kruger.agm,2001-9-27,JAZZ,M
+2648,James,Torres,James@Torres.hnu,1955-7-15,JAZZ,M
+2649,Andres,Hash,Andres@Hash.qdf,1945-7-18,JAZZ,F
+2650,Timothy,Ocasio,Timothy@Ocasio.sjm,1990-1-28,ROCK N ROLL,F
+2651,Jamie,Williamson,Jamie@Williamson.wdh,2009-1-8,ORIONTAL,F
+2652,Helen,Jenkins,Helen@Jenkins.gsc,1954-5-5,classic,M
+2653,Nathan,Nelson,Nathan@Nelson.kct,1955-8-23,ROCK N ROLL,F
+2654,Vonda,Roberts,Vonda@Roberts.ocs,1970-4-5,classic,M
+2655,Mary,Boyles,Mary@Boyles.fbg,1972-4-4,ROCK N ROLL,M
+2656,Martha,Ash,Martha@Ash.qxt,1953-7-16,ROCK N ROLL,F
+2657,Michael,Geimer,Michael@Geimer.lrj,1947-1-26,JAZZ,M
+2658,Tasha,Becker,Tasha@Becker.bar,1950-10-4,classic,M
+2659,Vonda,Colbert,Vonda@Colbert.bhn,1995-5-27,ORIONTAL,M
+2660,Velma,Boocks,Velma@Boocks.lib,1951-9-22,ORIONTAL,M
+2661,Chad,Andre,Chad@Andre.qpz,1970-10-3,JAZZ,M
+2662,Arthur,Johnson,Arthur@Johnson.aox,1973-2-15,ORIONTAL,M
+2663,Christina,Mcconnell,Christina@Mcconnell.vkd,1955-6-22,JAZZ,M
+2664,Heather,Barnes,Heather@Barnes.sbv,1950-10-14,classic,M
+2665,William,Clark,William@Clark.lbs,2003-3-21,classic,M
+2666,George,Thompson,George@Thompson.aas,1973-8-25,JAZZ,M
+2667,Carol,Massie,Carol@Massie.eku,1947-8-4,ORIONTAL,M
+2668,Eric,Yoakum,Eric@Yoakum.ohr,1944-6-15,classic,M
+2669,Norma,Mulherin,Norma@Mulherin.jvx,1984-8-22,classic,M
+2670,Dustin,Redd,Dustin@Redd.ykp,2003-12-22,ROCK N ROLL,M
+2671,Angelina,Benedict,Angelina@Benedict.dzy,1984-11-1,classic,F
+2672,Christina,Andon,Christina@Andon.fcm,2003-2-1,classic,M
+2673,Joseph,Gaines,Joseph@Gaines.csd,1987-12-26,ORIONTAL,F
+2674,Dora,Downs,Dora@Downs.hwy,1980-5-9,ORIONTAL,F
+2675,Nicole,Martin,Nicole@Martin.kjb,1947-6-27,ORIONTAL,M
+2676,Trevor,Joiner,Trevor@Joiner.jxr,1947-11-15,classic,M
+2677,Thomas,Garcia,Thomas@Garcia.gro,1961-5-8,classic,M
+2678,Consuelo,Pelcher,Consuelo@Pelcher.nhj,2009-4-28,ORIONTAL,M
+2679,Stephen,White,Stephen@White.zbl,1990-9-7,JAZZ,M
+2680,Ashley,Walsh,Ashley@Walsh.ewd,2002-7-9,JAZZ,M
+2681,Jennifer,Garvie,Jennifer@Garvie.mwm,1960-5-15,JAZZ,F
+2682,Tara,Watson,Tara@Watson.cyt,1952-7-5,ORIONTAL,M
+2683,Donna,Neal,Donna@Neal.bvz,1969-7-6,JAZZ,F
+2684,Dorothy,Dew,Dorothy@Dew.hog,1947-9-4,JAZZ,M
+2685,Joe,Seto,Joe@Seto.ofz,1983-7-2,JAZZ,F
+2686,Alan,Lopez,Alan@Lopez.kli,1997-7-9,ROCK N ROLL,M
+2687,Andrew,Barton,Andrew@Barton.opv,1977-7-12,ROCK N ROLL,M
+2688,Myrna,Butler,Myrna@Butler.smp,1986-9-14,classic,F
+2689,Ryan,Han,Ryan@Han.tzb,1947-12-19,classic,F
+2690,Ashley,Gumm,Ashley@Gumm.rhp,1987-10-15,ORIONTAL,M
+2691,Shelley,Kimple,Shelley@Kimple.ltp,1979-8-7,ROCK N ROLL,M
+2692,James,Valdez,James@Valdez.bey,1964-9-2,ROCK N ROLL,M
+2693,Floyd,Moore,Floyd@Moore.grc,1975-1-17,ORIONTAL,M
+2694,Kenneth,Folts,Kenneth@Folts.gpt,1989-9-20,JAZZ,F
+2695,Joyce,Lee,Joyce@Lee.skr,1944-12-21,classic,M
+2696,Deana,Jennings,Deana@Jennings.xcz,1995-8-7,classic,M
+2697,Samantha,Cahill,Samantha@Cahill.orz,2004-10-13,JAZZ,M
+2698,Georgianne,Lapuerta,Georgianne@Lapuerta.nxm,1966-10-17,ROCK N ROLL,F
+2699,Edward,Averette,Edward@Averette.vtd,1994-7-24,ROCK N ROLL,M
+2700,Katherine,Clover,Katherine@Clover.sxb,1946-10-11,ROCK N ROLL,M
+2701,Hank,Watson,Hank@Watson.axy,1996-1-8,JAZZ,M
+2702,Edward,Highsmith,Edward@Highsmith.kgu,1967-12-21,classic,M
+2703,Christine,Morales,Christine@Morales.gzx,2004-8-27,classic,M
+2704,Virginia,Walters,Virginia@Walters.jal,1949-1-1,JAZZ,M
+2705,Frank,Whitehead,Frank@Whitehead.mqz,1973-7-23,ORIONTAL,M
+2706,Ross,Landis,Ross@Landis.xhq,1987-3-27,ORIONTAL,F
+2707,Margaret,Davis,Margaret@Davis.ree,2000-1-5,JAZZ,M
+2708,Katrina,Anthony,Katrina@Anthony.vht,1942-10-24,ROCK N ROLL,M
+2709,Sally,Humphery,Sally@Humphery.joj,1958-7-21,JAZZ,M
+2710,Randall,Attaway,Randall@Attaway.tnc,1949-8-4,ROCK N ROLL,F
+2711,Lonnie,Trabert,Lonnie@Trabert.efw,1950-1-3,ORIONTAL,M
+2712,Marie,Eaton,Marie@Eaton.ikl,1980-3-19,classic,M
+2713,Elizabeth,Beyer,Elizabeth@Beyer.fhb,2006-2-21,ORIONTAL,M
+2714,James,Sipper,James@Sipper.vvv,1949-3-25,classic,F
+2715,Salvatore,Solares,Salvatore@Solares.zut,1942-12-20,ROCK N ROLL,M
+2716,John,Egland,John@Egland.jvk,1992-12-12,ORIONTAL,M
+2717,Jeff,Bullard,Jeff@Bullard.kub,1967-12-3,ROCK N ROLL,F
+2718,Valerie,Johnson,Valerie@Johnson.kte,1978-3-22,JAZZ,F
+2719,Bill,Welsh,Bill@Welsh.iek,2008-5-14,ROCK N ROLL,M
+2720,Shelby,Nutt,Shelby@Nutt.izx,2007-1-8,classic,F
+2721,Tia,Pettry,Tia@Pettry.bsu,1945-1-11,JAZZ,F
+2722,Diane,Agnew,Diane@Agnew.rtn,1955-3-25,ORIONTAL,F
+2723,Shannon,Nelson,Shannon@Nelson.umh,1967-11-12,classic,M
+2724,Angelina,Tucker,Angelina@Tucker.tkb,1986-2-8,JAZZ,F
+2725,Catherine,Harris,Catherine@Harris.gnk,1963-8-15,classic,M
+2726,Jimmie,Greeley,Jimmie@Greeley.isc,1992-1-22,ORIONTAL,M
+2727,Sean,Dean,Sean@Dean.yce,1940-8-1,ROCK N ROLL,M
+2728,Shannon,Brady,Shannon@Brady.yxt,1966-1-21,ORIONTAL,F
+2729,Walter,Finn,Walter@Finn.ubg,2007-4-13,JAZZ,M
+2730,Stephanie,Lopez,Stephanie@Lopez.wat,1982-8-4,JAZZ,M
+2731,Robert,Teel,Robert@Teel.ysl,1970-4-5,classic,M
+2732,Alan,Russell,Alan@Russell.jnz,1989-8-13,classic,M
+2733,Paula,Frasher,Paula@Frasher.ukn,1977-11-2,classic,M
+2734,Julio,Huff,Julio@Huff.ldt,1973-10-15,ORIONTAL,F
+2735,Rita,Dupuis,Rita@Dupuis.fqu,1957-11-7,ROCK N ROLL,M
+2736,David,Jennings,David@Jennings.vdn,1947-2-19,ROCK N ROLL,F
+2737,Jamie,Chapell,Jamie@Chapell.qie,1943-10-23,ORIONTAL,M
+2738,Mary,Woodward,Mary@Woodward.wop,1985-11-15,JAZZ,F
+2739,Patricia,Immediato,Patricia@Immediato.jbz,1978-2-24,JAZZ,M
+2740,Al,Rock,Al@Rock.qcp,1961-10-3,ORIONTAL,M
+2741,Allison,Mackenzie,Allison@Mackenzie.zax,2008-11-13,JAZZ,F
+2742,John,Wagner,John@Wagner.jpo,2005-7-9,JAZZ,M
+2743,Inez,Sumner,Inez@Sumner.fml,1979-7-16,ROCK N ROLL,F
+2744,Olga,Bolen,Olga@Bolen.scy,2001-2-6,ORIONTAL,M
+2745,Beverly,Holtgrewe,Beverly@Holtgrewe.nhe,1959-8-21,ROCK N ROLL,F
+2746,Carlos,Chase,Carlos@Chase.rau,1995-11-4,JAZZ,M
+2747,Wendy,Meriwether,Wendy@Meriwether.njl,1959-9-23,classic,M
+2748,Ruby,Alway,Ruby@Alway.vqd,1950-6-1,classic,M
+2749,David,Korsak,David@Korsak.khc,1947-3-19,ORIONTAL,M
+2750,Robbie,Wilson,Robbie@Wilson.hxp,1954-4-14,classic,M
+2751,Martha,Youd,Martha@Youd.qjb,2005-3-14,classic,F
+2752,Jerry,Hughes,Jerry@Hughes.rts,1978-11-7,ORIONTAL,F
+2753,Harriet,Scruggs,Harriet@Scruggs.eiy,2007-9-8,ORIONTAL,M
+2754,Kyle,Stocking,Kyle@Stocking.snr,1984-4-13,ROCK N ROLL,F
+2755,Norman,Searcy,Norman@Searcy.gor,1991-4-2,ORIONTAL,M
+2756,Richard,Ortiz,Richard@Ortiz.jyz,1991-2-16,JAZZ,M
+2757,Darlene,Podesta,Darlene@Podesta.dej,1968-6-21,ORIONTAL,M
+2758,Fanny,Felton,Fanny@Felton.ynf,1975-1-14,classic,M
+2759,Charles,Butler,Charles@Butler.qcc,1948-5-22,ROCK N ROLL,M
+2760,Leland,Larrick,Leland@Larrick.abj,2008-9-17,JAZZ,M
+2761,Lisa,Brigham,Lisa@Brigham.zdz,1987-6-23,ROCK N ROLL,M
+2762,William,Haskell,William@Haskell.shs,1955-9-15,ORIONTAL,F
+2763,Trevor,Dubill,Trevor@Dubill.otu,1955-3-14,ROCK N ROLL,M
+2764,Brian,Gordon,Brian@Gordon.aal,1949-3-25,classic,M
+2765,Sylvia,Branch,Sylvia@Branch.xoo,1943-10-3,JAZZ,M
+2766,Antonio,Sparks,Antonio@Sparks.jzj,1943-1-5,classic,M
+2767,Leslie,Chaffin,Leslie@Chaffin.xja,1952-7-14,JAZZ,F
+2768,Tammy,Estrada,Tammy@Estrada.zsw,2000-3-5,JAZZ,M
+2769,Robert,Bicknese,Robert@Bicknese.mxv,1959-6-11,ORIONTAL,M
+2770,Bertha,Cruz,Bertha@Cruz.ozj,2001-12-22,ORIONTAL,M
+2771,Barbara,Tornatore,Barbara@Tornatore.yfu,1982-5-3,JAZZ,M
+2772,Jorge,Austin,Jorge@Austin.xhp,1991-1-23,JAZZ,F
+2773,James,Zabinski,James@Zabinski.pjp,2003-12-4,ORIONTAL,M
+2774,Penny,Robbins,Penny@Robbins.xxv,1974-3-20,classic,M
+2775,James,Moore,James@Moore.wyh,2009-1-18,ORIONTAL,F
+2776,Scott,Castro,Scott@Castro.lko,2008-10-17,classic,M
+2777,Lisa,Bryson,Lisa@Bryson.bvr,1941-11-3,ORIONTAL,F
+2778,Jenifer,Wright,Jenifer@Wright.alj,1983-12-21,classic,M
+2779,Pamela,Tagle,Pamela@Tagle.jta,1973-7-5,ORIONTAL,M
+2780,John,Delacruz,John@Delacruz.aap,1969-10-15,classic,F
+2781,Katrina,Rossi,Katrina@Rossi.znm,1954-4-18,JAZZ,M
+2782,Amanda,Jones,Amanda@Jones.tqd,2001-10-2,ROCK N ROLL,M
+2783,Pamela,Benitez,Pamela@Benitez.ibn,1967-8-8,JAZZ,M
+2784,Walter,Hensley,Walter@Hensley.drh,1985-3-28,JAZZ,F
+2785,Christine,Wilson,Christine@Wilson.mhn,1968-3-19,classic,M
+2786,Matthew,Brown,Matthew@Brown.pgm,1959-2-4,classic,M
+2787,Gilbert,Huie,Gilbert@Huie.qxp,1997-5-15,JAZZ,M
+2788,Suzanne,Manchester,Suzanne@Manchester.unt,1978-5-24,ORIONTAL,F
+2789,Jodie,Cianciolo,Jodie@Cianciolo.eta,1954-9-21,ROCK N ROLL,M
+2790,Matthew,Parsons,Matthew@Parsons.yrk,1992-3-9,ROCK N ROLL,M
+2791,David,Gonzalez,David@Gonzalez.gtq,1940-3-20,classic,M
+2792,Christina,Westover,Christina@Westover.bjk,1964-6-11,ORIONTAL,M
+2793,Shirley,Nelson,Shirley@Nelson.zfx,1999-12-7,JAZZ,F
+2794,Carrie,Bronk,Carrie@Bronk.fhy,1980-10-18,ROCK N ROLL,M
+2795,Joshua,Phillips,Joshua@Phillips.ovg,1974-4-9,classic,F
+2796,Kevin,Chisolm,Kevin@Chisolm.jmw,1940-7-28,classic,M
+2797,Nancy,Barrett,Nancy@Barrett.crr,1969-3-11,JAZZ,F
+2798,John,Steffes,John@Steffes.led,1950-7-1,ORIONTAL,M
+2799,Jeffery,Berkowitz,Jeffery@Berkowitz.mfc,1964-2-15,ROCK N ROLL,F
+2800,Tommy,Banahan,Tommy@Banahan.ehf,1991-2-22,classic,M
+2801,Anne,Ramsey,Anne@Ramsey.aqw,1965-6-28,JAZZ,M
+2802,Lois,Dunlap,Lois@Dunlap.ckd,1979-10-8,JAZZ,M
+2803,Virginia,Parton,Virginia@Parton.hro,1951-1-18,classic,M
+2804,Fred,Koester,Fred@Koester.qst,2003-10-4,ROCK N ROLL,M
+2805,Kelly,Hutson,Kelly@Hutson.ljz,1968-4-26,ORIONTAL,M
+2806,Kendra,Butler,Kendra@Butler.ztt,1941-3-25,ORIONTAL,M
+2807,William,Adams,William@Adams.nzh,1984-3-15,ORIONTAL,M
+2808,Richard,Bates,Richard@Bates.siv,1995-11-25,classic,M
+2809,Martin,Murrow,Martin@Murrow.ptt,1972-8-7,ORIONTAL,M
+2810,Kenneth,Sutton,Kenneth@Sutton.hlc,1978-4-22,ORIONTAL,M
+2811,Wayne,Holiday,Wayne@Holiday.gdn,1948-4-26,ORIONTAL,M
+2812,Benny,Cheslock,Benny@Cheslock.hph,1997-8-2,ROCK N ROLL,M
+2813,Steven,Ellis,Steven@Ellis.akr,1960-9-2,JAZZ,M
+2814,Annie,Oneil,Annie@Oneil.hhe,1942-9-1,JAZZ,M
+2815,Richard,Vasquez,Richard@Vasquez.eso,2003-5-5,JAZZ,M
+2816,Albert,Salters,Albert@Salters.ivo,2001-1-15,ORIONTAL,M
+2817,Mitchell,Paul,Mitchell@Paul.fox,2002-5-26,classic,M
+2818,Tony,Tewell,Tony@Tewell.mwh,2003-12-8,JAZZ,M
+2819,Kristen,Williams,Kristen@Williams.ois,1951-11-3,ROCK N ROLL,M
+2820,Mark,Evans,Mark@Evans.uhh,1974-10-3,ROCK N ROLL,M
+2821,Kimberly,Garcia,Kimberly@Garcia.pbp,1997-1-16,ROCK N ROLL,F
+2822,Retta,Christensen,Retta@Christensen.lwi,1988-2-10,classic,M
+2823,Sheila,Depaz,Sheila@Depaz.frn,1992-8-17,ORIONTAL,M
+2824,Sandra,Jordan,Sandra@Jordan.bij,1949-9-20,classic,F
+2825,Jerome,Rea,Jerome@Rea.gou,1975-6-8,ROCK N ROLL,M
+2826,Caroline,Dagley,Caroline@Dagley.xrx,1965-10-20,ROCK N ROLL,F
+2827,Adam,Cooper,Adam@Cooper.vki,1996-6-25,ROCK N ROLL,F
+2828,Pearl,Harris,Pearl@Harris.fno,1973-2-16,JAZZ,F
+2829,James,Roller,James@Roller.eya,1977-7-8,JAZZ,F
+2830,Gayle,Debnam,Gayle@Debnam.ssp,2002-7-21,ROCK N ROLL,F
+2831,Andy,Kaplan,Andy@Kaplan.zqs,1984-7-10,classic,M
+2832,Carl,Nichols,Carl@Nichols.cpi,1942-1-13,classic,M
+2833,Eufemia,Robel,Eufemia@Robel.rkk,2005-5-23,JAZZ,M
+2834,Kayla,Scott,Kayla@Scott.dag,1989-2-11,ROCK N ROLL,M
+2835,Bob,Anderson,Bob@Anderson.jde,1989-7-24,ROCK N ROLL,F
+2836,Christian,Landreth,Christian@Landreth.uyx,1965-3-8,ROCK N ROLL,M
+2837,Lloyd,Jones,Lloyd@Jones.qnf,1995-12-12,ORIONTAL,M
+2838,Corey,Modi,Corey@Modi.igs,1954-4-3,ORIONTAL,F
+2839,Jim,Keitel,Jim@Keitel.wny,1981-8-11,ORIONTAL,F
+2840,Gregory,Embree,Gregory@Embree.oup,1985-4-25,ORIONTAL,M
+2841,Bill,Douglas,Bill@Douglas.kgq,1987-10-12,JAZZ,M
+2842,Alphonso,Watkins,Alphonso@Watkins.dpo,1990-11-8,ORIONTAL,M
+2843,Charles,Hernandez,Charles@Hernandez.tve,2005-9-3,classic,F
+2844,Katherine,Johnston,Katherine@Johnston.dvq,1990-8-22,classic,M
+2845,Earl,Ramos,Earl@Ramos.psr,1940-3-8,classic,F
+2846,Sharon,Broberg,Sharon@Broberg.euv,2001-12-13,JAZZ,M
+2847,Cindy,Walker,Cindy@Walker.cwb,1967-2-10,ROCK N ROLL,M
+2848,Ronda,Smith,Ronda@Smith.slm,1961-10-5,ROCK N ROLL,F
+2849,Arnold,Joecks,Arnold@Joecks.vtf,1974-5-12,JAZZ,M
+2850,Michele,Uresti,Michele@Uresti.qhw,1956-3-7,JAZZ,M
+2851,Douglas,Webster,Douglas@Webster.sdt,1976-2-24,classic,M
+2852,Susan,Rivera,Susan@Rivera.bbs,1996-7-24,ORIONTAL,M
+2853,Kerry,Young,Kerry@Young.lkk,1971-9-14,JAZZ,M
+2854,Victoria,Haywood,Victoria@Haywood.znb,1971-8-28,ORIONTAL,M
+2855,Herbert,Lanphear,Herbert@Lanphear.hvg,1983-4-5,ROCK N ROLL,M
+2856,Cheryl,Grooms,Cheryl@Grooms.mpa,2003-2-19,ORIONTAL,M
+2857,Harvey,Choe,Harvey@Choe.aqi,1942-2-8,classic,M
+2858,Jesus,Godfrey,Jesus@Godfrey.han,1980-11-7,ORIONTAL,F
+2859,Gladys,Smith,Gladys@Smith.avp,1957-6-25,JAZZ,M
+2860,Jennifer,Riley,Jennifer@Riley.jjx,1986-10-21,ORIONTAL,M
+2861,Christine,Testa,Christine@Testa.csu,1945-7-13,ORIONTAL,F
+2862,Kristina,Haney,Kristina@Haney.ufy,1989-6-10,classic,M
+2863,Moses,Bennett,Moses@Bennett.txp,1981-5-24,classic,F
+2864,Joanne,Messer,Joanne@Messer.zyu,1965-8-14,classic,M
+2865,John,George,John@George.exc,1966-3-13,ORIONTAL,F
+2866,Marsha,Clark,Marsha@Clark.ask,1982-12-9,ORIONTAL,M
+2867,Kathleen,Hogg,Kathleen@Hogg.sfz,1953-8-17,ROCK N ROLL,M
+2868,Patsy,Anderson,Patsy@Anderson.xll,1976-4-7,ROCK N ROLL,M
+2869,Paula,Miles,Paula@Miles.znv,2002-10-17,ROCK N ROLL,M
+2870,Ryan,Butcher,Ryan@Butcher.wiq,1949-7-17,JAZZ,M
+2871,Joseph,Reed,Joseph@Reed.msr,2003-1-5,ORIONTAL,M
+2872,Evelyn,Politi,Evelyn@Politi.bgl,2003-4-15,classic,M
+2873,Carol,Edwards,Carol@Edwards.rvf,2001-1-20,JAZZ,M
+2874,Sharon,Wells,Sharon@Wells.vat,2000-11-16,ORIONTAL,F
+2875,Charles,Beaudette,Charles@Beaudette.djj,1972-2-8,ORIONTAL,M
+2876,Antonio,Checca,Antonio@Checca.ztb,1999-11-2,classic,F
+2877,Micheal,Sellers,Micheal@Sellers.kbj,1998-1-9,JAZZ,F
+2878,Joe,Lutz,Joe@Lutz.mgr,1985-1-9,classic,F
+2879,Priscilla,Hudnall,Priscilla@Hudnall.zwr,1945-9-21,JAZZ,M
+2880,Dawn,Boykin,Dawn@Boykin.ifj,1967-6-19,ORIONTAL,M
+2881,Ida,Drury,Ida@Drury.vzw,2002-2-27,classic,M
+2882,Joyce,Tolbert,Joyce@Tolbert.txq,1955-5-1,JAZZ,M
+2883,Timothy,Meyers,Timothy@Meyers.vij,1965-11-13,classic,M
+2884,Juan,Dawson,Juan@Dawson.czr,1962-3-22,ROCK N ROLL,M
+2885,Pedro,Dillon,Pedro@Dillon.bxw,1968-6-24,ORIONTAL,M
+2886,Max,Sibley,Max@Sibley.ibu,1984-4-8,ORIONTAL,F
+2887,Kathryn,Quintana,Kathryn@Quintana.qoi,2005-12-20,JAZZ,M
+2888,Ricardo,Polizio,Ricardo@Polizio.pth,1959-3-11,JAZZ,M
+2889,Jason,Jankowski,Jason@Jankowski.egs,1976-11-7,classic,M
+2890,Michael,Huynh,Michael@Huynh.wpq,2009-1-14,JAZZ,M
+2891,Charles,Lott,Charles@Lott.adi,1985-8-20,classic,M
+2892,Linda,Bolden,Linda@Bolden.yfc,1971-1-22,classic,M
+2893,Beatrice,Rodriguez,Beatrice@Rodriguez.tie,1955-7-10,classic,M
+2894,Evan,Correll,Evan@Correll.ouk,1987-10-16,ORIONTAL,M
+2895,Lisa,Novakovich,Lisa@Novakovich.sbx,1965-3-8,classic,M
+2896,Raymond,Hall,Raymond@Hall.rtp,1965-8-23,ORIONTAL,M
+2897,Mariana,Kube,Mariana@Kube.mtw,1979-5-18,classic,M
+2898,Georgia,Walter,Georgia@Walter.ymc,2002-10-3,classic,M
+2899,Jessica,Peterson,Jessica@Peterson.xgx,2003-7-27,classic,F
+2900,Fred,Gonzalez,Fred@Gonzalez.xfl,1999-8-5,JAZZ,M
+2901,Julian,Alexander,Julian@Alexander.fum,1953-1-11,ROCK N ROLL,M
+5901,Gregory,Myers,Gregory@Myers.eto,1946-3-25,ROCK N ROLL,M
+5902,Annette,Gow,Annette@Gow.fyo,1951-5-10,ORIONTAL,M
+5903,Marjorie,Williams,Marjorie@Williams.cha,1975-1-16,ROCK N ROLL,M
+5904,Martin,Martin,Martin@Martin.yye,1955-12-25,JAZZ,M
+5905,Juanita,Mills,Juanita@Mills.ray,2007-3-19,classic,M
+5906,Tina,Hudson,Tina@Hudson.ipk,2009-9-14,ORIONTAL,M
+5907,Colleen,Goldstein,Colleen@Goldstein.raw,2004-1-24,classic,M
+5908,Randy,Litchfield,Randy@Litchfield.stc,1957-10-21,classic,M
+5909,Bonnie,New,Bonnie@New.dnc,1983-4-17,JAZZ,F
+5910,Kathleen,Moore,Kathleen@Moore.epq,1945-8-6,JAZZ,M
+5911,Brian,Bradley,Brian@Bradley.hlv,1961-11-3,ORIONTAL,M
+5912,Julie,Schroth,Julie@Schroth.qaa,1991-4-12,JAZZ,M
+5913,Adrian,Mcmanus,Adrian@Mcmanus.tna,1986-4-8,classic,F
+5914,Ronald,Stone,Ronald@Stone.moh,1983-6-20,ROCK N ROLL,F
+5915,Gertrude,Shasteen,Gertrude@Shasteen.rhh,2001-7-1,JAZZ,M
+5916,Alan,Ellis,Alan@Ellis.viq,1966-7-4,JAZZ,M
+5917,Jerry,Lewis,Jerry@Lewis.exz,1962-3-21,classic,M
+5918,Charles,Sackrider,Charles@Sackrider.xhu,1958-10-4,ROCK N ROLL,M
+5919,Leon,Markle,Leon@Markle.mpw,1990-7-8,ROCK N ROLL,M
+5920,Stephanie,Buckley,Stephanie@Buckley.azh,1948-5-8,ORIONTAL,F
+5921,Monica,Cashman,Monica@Cashman.nlf,1944-5-3,classic,M
+5922,Casey,Hernandez,Casey@Hernandez.eqe,1993-8-21,classic,F
+5923,Charlotte,Fry,Charlotte@Fry.rti,1995-1-26,ROCK N ROLL,F
+5924,Julie,Cole,Julie@Cole.ryb,1983-9-6,classic,F
+5925,Laura,Rolling,Laura@Rolling.rbq,2000-12-1,JAZZ,M
+5926,Jeffrey,Daniels,Jeffrey@Daniels.sks,1961-12-23,ROCK N ROLL,M
+5927,Timmy,Hughes,Timmy@Hughes.lqp,1997-11-7,ROCK N ROLL,M
+5928,Jason,Cole,Jason@Cole.kan,1980-12-11,ROCK N ROLL,F
+5929,Edith,Loock,Edith@Loock.ymo,1950-12-4,ORIONTAL,M
+5930,Edna,Smith,Edna@Smith.pnk,2008-6-1,ORIONTAL,F
+5931,Susanne,Kidwell,Susanne@Kidwell.ice,1984-8-25,ROCK N ROLL,F
+5932,Ernest,Smith,Ernest@Smith.wsv,1940-10-23,ROCK N ROLL,F
+5933,Mona,Jones,Mona@Jones.kyx,1976-6-3,ROCK N ROLL,F
+5934,Charles,Toca,Charles@Toca.ebn,1966-7-23,ROCK N ROLL,M
+5935,Agnes,Bartley,Agnes@Bartley.yec,1982-3-23,JAZZ,F
+5936,Pat,Bruton,Pat@Bruton.rha,1959-11-3,ROCK N ROLL,M
+5937,Lavona,Montalvo,Lavona@Montalvo.vxf,1958-4-3,classic,M
+5938,Ethel,Avalos,Ethel@Avalos.nda,1957-1-26,classic,F
+5939,Beth,Renfrow,Beth@Renfrow.vmv,1999-2-17,ORIONTAL,M
+5940,Debra,Cower,Debra@Cower.wpb,1975-12-13,ORIONTAL,F
+5941,Peter,Marble,Peter@Marble.twg,1998-8-28,ORIONTAL,M
+5942,Stephen,Rosier,Stephen@Rosier.wcv,1965-9-7,classic,M
+5943,Kevin,Brown,Kevin@Brown.gil,1947-1-6,JAZZ,M
+5944,Linda,Aburto,Linda@Aburto.uei,1952-5-6,classic,M
+5945,Ian,Wentz,Ian@Wentz.vap,1969-6-19,ROCK N ROLL,F
+5946,Melvin,Roberts,Melvin@Roberts.icc,1990-5-2,classic,M
+5947,Patricia,Melnick,Patricia@Melnick.eou,1953-2-22,classic,F
+5948,Aldo,Davis,Aldo@Davis.ceh,1976-9-23,JAZZ,M
+5949,Mary,Avila,Mary@Avila.zlt,1996-4-16,ROCK N ROLL,F
+5950,George,Loffelbein,George@Loffelbein.yyf,1993-11-20,ORIONTAL,M
+5951,Karen,Pope,Karen@Pope.aqo,1943-6-13,ORIONTAL,F
+5952,Salvador,Oneill,Salvador@Oneill.nct,2002-4-12,ROCK N ROLL,F
+5953,Frank,Winstead,Frank@Winstead.huq,1943-3-28,JAZZ,M
+5954,Jean,Walters,Jean@Walters.ttg,1960-4-2,JAZZ,F
+5955,Donald,Costanza,Donald@Costanza.eul,1994-11-28,ROCK N ROLL,M
+5956,Shirley,Keeler,Shirley@Keeler.hoa,2007-3-12,ROCK N ROLL,M
+5957,Amanda,Vides,Amanda@Vides.nni,1974-10-15,ROCK N ROLL,F
+5958,Donna,Crider,Donna@Crider.izn,1966-8-13,ORIONTAL,M
+5959,Robert,Trigg,Robert@Trigg.yvc,1974-11-10,JAZZ,M
+5960,Mary,Byrne,Mary@Byrne.lno,2002-6-13,JAZZ,M
+5961,Bernadette,Eddy,Bernadette@Eddy.gyn,1949-7-5,ROCK N ROLL,M
+5962,Betty,Hoover,Betty@Hoover.kwq,1963-2-23,JAZZ,M
+5963,Ruth,Hanley,Ruth@Hanley.dzd,1965-7-12,ORIONTAL,M
+5964,Sam,Deacon,Sam@Deacon.mss,1943-10-19,JAZZ,F
+5965,Nathanial,Whitehair,Nathanial@Whitehair.vvh,1983-1-17,ROCK N ROLL,F
+5966,Frank,Dempsey,Frank@Dempsey.aoy,2006-10-17,JAZZ,M
+5967,Albert,Tidmore,Albert@Tidmore.qsj,1953-12-28,classic,M
+5968,Philip,Whiteley,Philip@Whiteley.hlw,1999-3-7,classic,M
+5969,Sue,Gutierrez,Sue@Gutierrez.aay,1995-5-16,classic,M
+5970,Johnathan,Cook,Johnathan@Cook.dbd,1943-5-11,ORIONTAL,M
+5971,Melissa,Arbuckle,Melissa@Arbuckle.kpr,2000-9-15,ORIONTAL,F
+5972,Grant,Aschenbrenner,Grant@Aschenbrenner.zgp,1945-5-10,ORIONTAL,F
+5973,Karen,Blocher,Karen@Blocher.avh,1960-11-23,ROCK N ROLL,F
+5974,Louise,Oliver,Louise@Oliver.xhk,1974-3-1,ORIONTAL,M
+5975,Mario,Nolte,Mario@Nolte.sug,1951-12-23,ROCK N ROLL,F
+5976,Andrea,Kinroth,Andrea@Kinroth.ynx,1984-3-8,JAZZ,M
+5977,Seth,Kelemen,Seth@Kelemen.yqq,2004-3-23,JAZZ,F
+5978,Ann,Arden,Ann@Arden.xjo,2001-11-17,ROCK N ROLL,M
+5979,Wally,Mata,Wally@Mata.uwl,1987-5-25,JAZZ,M
+5980,Frances,Bernard,Frances@Bernard.rfn,1981-5-22,JAZZ,F
+5981,Andrew,Brown,Andrew@Brown.gkm,1974-10-18,ROCK N ROLL,M
+5982,Deborah,Goebel,Deborah@Goebel.pqo,2003-12-23,JAZZ,M
+5983,Jessie,Wright,Jessie@Wright.jic,1945-10-15,ORIONTAL,F
+5984,Rocco,Sandling,Rocco@Sandling.zwh,1988-11-15,ORIONTAL,F
+5985,Jan,Hawkins,Jan@Hawkins.sbz,2004-6-10,ROCK N ROLL,M
+5986,Carl,Slater,Carl@Slater.uii,1945-2-25,ORIONTAL,M
+5987,Janet,Diaz,Janet@Diaz.sat,1981-10-6,JAZZ,M
+5988,Barry,Hillin,Barry@Hillin.uvy,1941-2-13,ROCK N ROLL,F
+5989,Patti,Hammack,Patti@Hammack.mma,1965-1-12,JAZZ,M
+5990,Marc,Stolz,Marc@Stolz.upk,1982-11-22,classic,M
+5991,Delphine,Vega,Delphine@Vega.hki,1960-4-20,JAZZ,M
+5992,Stephen,Moore,Stephen@Moore.jbc,1979-6-3,classic,M
+5993,Opal,Phillips,Opal@Phillips.tws,1999-9-6,classic,M
+5994,Dale,Jenkins,Dale@Jenkins.mvn,1964-6-21,ROCK N ROLL,M
+5995,Jame,Huntley,Jame@Huntley.sxe,1946-3-7,classic,M
+5996,Donna,Rodrigues,Donna@Rodrigues.oey,1940-2-10,classic,M
+5997,Calvin,Morgan,Calvin@Morgan.ehy,1991-1-3,ROCK N ROLL,M
+5998,James,Overton,James@Overton.jhs,1987-8-1,classic,F
+5999,Rose,York,Rose@York.vav,1955-3-13,JAZZ,F
